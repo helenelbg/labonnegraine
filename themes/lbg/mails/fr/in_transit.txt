@@ -1,0 +1,16 @@
+Bonjour {firstname} {lastname},
+
+La livraison de votre commande est en cours.
+
+Vous pouvez suivre l'avancement de la livraison à l'adresse suivante : {followup}
+
+Vous pouvez accéder à tout moment au suivi de votre commande dans "Historique de mes commandes" de la rubrique "Mon compte" sur notre site.
+
+{shop_name} - {shop_url}. 
+
+Nous vous invitons à surveiller vos messages indésirables ("spam") afin de vous assurer qu'aucun message de suivi n'y atterrisse par erreur.
+
+Pour toute livraison en point-relais, vous disposez de 9 jours pour prendre possession de votre colis. Une fois ce délai dépassé, le colis nous sera retourné.
+Conformément aux CGV (article 11.b), en cas de retour, la commande sera annulée et remboursée, déduction faite d'un montant de 5€ correspondant aux frais de retour. Sera également déduit du remboursement le montant des produits périssables.
+
+{shop_url} réalisé par PrestaShop™

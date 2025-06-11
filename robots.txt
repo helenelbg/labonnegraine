@@ -1,0 +1,26 @@
+# robots.txt pour empêcher l'indexation complète du site
+User-agent: *
+Disallow: /
+
+# Bloquer spécifiquement les principaux robots
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+# Empêcher explicitement l'indexation avec noindex
+User-agent: *
+Noindex: /

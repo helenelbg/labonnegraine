@@ -1,0 +1,87 @@
+/*----------------------------------------------------------------------------
+ Coundown box
+ ---------------------------------------------------------------------------*/
+ /*shared*/
+.flashsale-countdown-box {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.flashsale-countdown-box .content i.icon-clock-o {
+    vertical-align: middle;
+}
+
+.flashsale-countdown-box .content span.title {
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.flashsale-countdown-box .content span.countdown {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/*product page*/
+.flashsale-countdown-box.product_page {
+    width: 95%;
+    border-width: 10px;
+    border-style: none;
+    border-color: #2c2c2c;
+    background-color: #3b3b3b;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flashsale-countdown-box.product_page .content i.icon-clock-o {
+    font-size: 20px;
+    color: #cbca00;
+    display: none;
+}
+
+.flashsale-countdown-box.product_page .content span.title {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.flashsale-countdown-box.product_page .content span.countdown {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/*product list*/
+.flashsale-countdown-box.product_list {
+    width: 100%;
+    border-width: 10px;
+    border-style: none;
+    border-color: #2c2c2c;
+    background-color: #3b3b3b;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flashsale-countdown-box.product_list .content i.icon-clock-o {
+    font-size: 20px;
+    color: #cbca00;
+    display: none;
+}
+
+.flashsale-countdown-box.product_list .content span.title {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.flashsale-countdown-box.product_list .content span.countdown {
+    font-size: 16px;
+    color: #ffffff;
+}

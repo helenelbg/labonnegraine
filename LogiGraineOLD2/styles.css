@@ -1,0 +1,225 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+  }
+  
+  .container .text-muted {
+    margin: 20px 0;
+}
+.hidden
+{
+    display:none;
+}
+.rouge 
+{
+    color: #D82637;
+}
+.sur_rouge {
+    background-color: #D82637;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.sur_verte {
+    background-color: #4caf50;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.sur_noire {
+    background-color: #000;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.noir 
+{
+    color: #000;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
+.align-center {
+    text-align: center;
+}
+
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+  }
+  .form-signin .form-signin-heading,
+  .form-signin .checkbox {
+    margin-bottom: 10px;
+  }
+  .form-signin .checkbox {
+    font-weight: normal;
+  }
+  .form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+ 
+
+  .logo-header {
+    display: inline-block;
+}
+
+.logo-header img {
+  height: 50px;
+  padding: 5px;
+}
+
+.operateur_name, .operateur_logout
+{
+    float: right;
+    margin-right:20px;
+}
+.operateur_logout
+{
+    font-size: 20px;
+    padding-top: 12px;
+}
+.operateur_logout a
+{
+    color:black;
+}
+.operateur_name
+{
+    padding-top: 15px;
+}
+
+.erreur .modal-content .modal-header
+{
+    background-color: #D82637;
+    color: #fff;
+}
+.succes .modal-content .modal-header
+{
+    background-color: #04AA6D;
+    color: #fff;
+}
+.topCmd {
+    background-color:#ffc107;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.topCmd i {
+    padding: 5px;
+    font-size: 20px;    
+    width: 30px;
+    text-align: center;    
+    vertical-align: middle;
+}
+.mireCaisse, .mireProduit {
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.choixCaisse {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+#codeCaisse, #codeProduit
+{
+    margin-bottom:5px;
+}
+.product_ref {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.product_name {
+    text-align: center;
+    font-size: 20px;
+}
+.product_qt {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.module_nom {
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid #e30613;
+    background: #dddddd;
+    border-top: 0;
+    border-radius: 0 0 10px 10px;
+}
+.module_picto {
+    text-align: center;
+    font-size: 50px;
+    border: 2px solid #e30613;
+    background: #dddddd;
+    border-bottom: 0;
+    border-radius: 10px 10px 0 0;
+}
+.module {
+    padding: 25px;
+}
+a .module {
+    color: #000;
+}
+.div_add
+{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background: green;
+    width: 30px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#codeLectureAutre
+{
+    margin-top:10px;
+}
+#rangementEC
+{
+    margin-top: 10px;
+}

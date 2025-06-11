@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Brody';
+    src: url('Brody.woff2') format('woff2'),
+        url('Brody.woff') format('woff'),
+        url('Brody.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

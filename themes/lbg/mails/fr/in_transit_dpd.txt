@@ -1,0 +1,17 @@
+Bonjour {firstname} {lastname},
+
+La livraison de votre commande est en cours.
+
+Vous pouvez suivre l'avancement de la livraison à l'adresse suivante : {followup}
+
+Elle sera disponible chez le commerçant-relais sous 2 jours ouvrés. Vous disposez de 9 jours, à compter du jour de dépôt, pour aller la récupérer.
+
+Passez ce délai, la commande nous sera retournée. La réexpédition engendra le paiement de nouveaux frais d'expédition. En cas de non-réexpédition, seule la valeur des produits sera soumis à avoir, déduction faite des produits abîmés par le trop long laps de temps passé en carton.
+
+Vous pouvez accéder à tout moment au suivi de votre commande dans "Historique de mes commandes" de la rubrique "Mon compte" sur notre site.
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} réalisé par PrestaShop™

@@ -1,0 +1,11 @@
+[{shop_url}] 
+
+Bonjour {firstname} {lastname}, 
+
+Une nouvelle commande a été créée à votre demande.
+
+Rendez vous sur cette adresse pour finaliser le paiement : {order_link}	 
+
+{shop_name} [{shop_url}] propulsé par
+PrestaShop(tm) [http://www.prestashop.com/] 
+
