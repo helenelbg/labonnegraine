@@ -1,0 +1,4 @@
+AuthUserFile /home/dev.labonnegraine.com/public_html/lbgest/.htpasswd
+AuthName "Acces restreint"
+AuthType Basic
+Require valid-user

@@ -1,0 +1,1517 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+  }
+  
+  .container .text-muted {
+    margin: 20px 0;
+}
+.hidden
+{
+    display:none;
+}
+.rouge 
+{
+    color: #D82637;
+}
+.sur_rouge {
+    background-color: #D82637;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.sur_verte {
+    background-color: #4caf50;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.sur_noire {
+    background-color: #000;
+    color: #fff;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+.noir 
+{
+    color: #000;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
+.align-center {
+    text-align: center;
+}
+
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+  }
+  .form-signin .form-signin-heading,
+  .form-signin .checkbox {
+    margin-bottom: 10px;
+  }
+  .form-signin .checkbox {
+    font-weight: normal;
+  }
+  .form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+ 
+
+  .logo-header {
+    display: inline-block;
+}
+
+.logo-header img {
+  height: 50px;
+  padding: 5px;
+}
+
+.operateur_name, .operateur_logout
+{
+    float: right;
+    margin-right:20px;
+}
+.operateur_logout
+{
+    font-size: 20px;
+    padding-top: 12px;
+}
+.operateur_logout a
+{
+    color:black;
+}
+.operateur_name
+{
+    padding-top: 15px;
+}
+
+.erreur .modal-content .modal-header
+{
+    background-color: #D82637;
+    color: #fff;
+}
+.succes .modal-content .modal-header
+{
+    background-color: #04AA6D;
+    color: #fff;
+}
+.topCmd {
+    background-color:#ffc107;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.topCmd i {
+    padding: 5px;
+    font-size: 20px;    
+    width: 30px;
+    text-align: center;    
+    vertical-align: middle;
+}
+.mireCaisse, .mireProduit {
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.choixCaisse {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+#codeCaisse, #codeProduit
+{
+    margin-bottom:5px;
+}
+.product_ref {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.product_name {
+    text-align: center;
+    font-size: 20px;
+}
+.product_qt {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.module_nom {
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid #e30613;
+    background: #dddddd;
+    border-top: 0;
+    border-radius: 0 0 10px 10px;
+}
+.module_picto {
+    text-align: center;
+    font-size: 50px;
+    border: 2px solid #e30613;
+    background: #dddddd;
+    border-bottom: 0;
+    border-radius: 10px 10px 0 0;
+}
+.module {
+    padding: 25px;
+}
+a .module {
+    color: #000;
+}
+.div_add
+{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background: green;
+    width: 30px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#codeLectureAutre
+{
+    margin-top:10px;
+}
+#rangementEC
+{
+    margin-top: 10px;
+}
+
+/*Germination*/
+/* Modal de scan rapide */
+.modal-lg {
+    width: 90%;
+    max-width: 900px;
+}
+
+.bg-primary {
+    background-color: #337ab7 !important;
+    color: white !important;
+}
+
+.bg-success {
+    background-color: #5cb85c !important;
+    color: white !important;
+}
+
+.border-success {
+    border-color: #5cb85c !important;
+    border-width: 3px !important;
+}
+
+/* Styles pour les étapes dans la modal */
+.form-control-success {
+    border-color: #5cb85c !important;
+    box-shadow: 0 0 0 2px rgba(92, 184, 92, 0.3) !important;
+    animation: successGlow 0.5s ease-in-out;
+}
+
+@keyframes successGlow {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); background-color: #d4edda; }
+    100% { transform: scale(1); }
+}
+
+/* Boutons doubles dans les input-groups */
+.input-group-btn .btn + .btn {
+    margin-left: -1px;
+}
+
+.input-group-btn .btn:first-child {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.input-group-btn .btn:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+/* Distinction visuelle des boutons */
+.input-group-btn .btn-success {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.input-group-btn .btn-primary {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.input-group-btn .btn-success:hover {
+    background-color: #449d44;
+    border-color: #398439;
+}
+
+.input-group-btn .btn-primary:hover {
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+/* Panel de commentaire pour finalisation */
+.panel-default {
+    border-color: #ddd;
+}
+
+.panel-default > .panel-heading {
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+
+.panel-body {
+    padding: 15px;
+}
+
+.panel-body .help-block {
+    margin-top: 5px;
+    color: #737373;
+    font-size: 12px;
+    font-style: italic;
+}
+
+/* Animation de slide pour les panels */
+.panel-slide-up {
+    animation: slideUp 0.3s ease-out;
+}
+
+.panel-slide-down {
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 1;
+        max-height: 300px;
+    }
+    to {
+        opacity: 0;
+        max-height: 0;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        max-height: 0;
+        padding: 0;
+        margin: 0;
+    }
+    to {
+        opacity: 1;
+        max-height: 300px;
+    }
+}
+
+/* Input groups plus grands dans la modal */
+.modal-body .input-group-lg .form-control {
+    height: 50px;
+    font-size: 18px;
+}
+
+.modal-body .input-group-lg .input-group-addon {
+    height: 50px;
+    font-size: 18px;
+    padding: 12px 15px;
+}
+
+.modal-body .input-group-lg .btn {
+    height: 50px;
+    font-size: 14px;
+    padding: 12px 15px;
+    white-space: nowrap;
+}
+
+/* Responsive pour les boutons doubles */
+@media (max-width: 768px) {
+    .input-group-btn .btn {
+        font-size: 12px;
+        padding: 10px 8px;
+    }
+    
+    .input-group-btn .btn i {
+        margin-right: 2px;
+    }
+    
+    /* Réduire le texte sur très petits écrans */
+    .input-group-btn .btn span {
+        display: none;
+    }
+    
+    .modal-body .input-group-lg .btn {
+        height: 45px;
+        font-size: 12px;
+        padding: 10px 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Passer les boutons en mode vertical sur très petits écrans */
+    .input-group-btn {
+        display: block;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .input-group-btn .btn {
+        display: block;
+        width: 100%;
+        margin: 2px 0;
+        border-radius: 4px !important;
+    }
+    
+    .input-group-btn .btn:first-child,
+    .input-group-btn .btn:last-child {
+        border-radius: 4px !important;
+    }
+    
+    .input-group {
+        display: block;
+    }
+    
+    .input-group .form-control {
+        border-radius: 4px;
+    }
+    
+    .input-group-addon {
+        display: block;
+        width: auto;
+        text-align: center;
+        border-radius: 4px;
+        margin-top: 5px;
+    }
+}
+
+/* Well avec check pour les étapes terminées */
+.well {
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.well .fa-check-circle {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+/* Help blocks plus visibles */
+.help-block {
+    color: #737373;
+    font-size: 13px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+/* Panel info dans la modal */
+.modal-body .panel-info {
+    border-color: #bce8f1;
+}
+
+.modal-body .panel-info .panel-body {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+/* Toast notifications améliorées */
+.toast-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    min-width: 250px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    animation: slideInRight 0.3s ease-out;
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* États des boutons pour feedback visuel */
+.btn-loading {
+    position: relative;
+    pointer-events: none;
+}
+
+.btn-loading .fa-spinner {
+    margin-right: 5px;
+}
+
+/* Amélioration du contraste pour les boutons désactivés */
+.btn:disabled,
+.btn[disabled] {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Focus amélioré pour les boutons dans la modal */
+.modal .btn:focus {
+    outline: 2px solid #007bff;
+    outline-offset: 2px;
+}
+
+/* Responsive pour la modal de scan */
+@media (max-width: 768px) {
+    .modal-lg {
+        width: 95%;
+        margin: 10px auto;
+    }
+    
+    .modal-body {
+        padding: 15px 10px;
+    }
+    
+    .modal-body .input-group-lg .form-control {
+        height: 45px;
+        font-size: 16px;
+    }
+    
+    .modal-body .input-group-lg .input-group-addon {
+        height: 45px;
+        font-size: 16px;
+        padding: 10px 12px;
+    }
+    
+    .modal-header h4 {
+        font-size: 18px;
+    }
+    
+    .toast-notification {
+        right: 10px;
+        left: 10px;
+        top: 10px;
+        min-width: auto;
+    }
+    
+    .panel-body .btn-group-justified .btn {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .modal-lg {
+        width: 98%;
+        margin: 5px auto;
+    }
+    
+    .modal-footer .btn {
+        margin-bottom: 5px;
+    }
+    
+    .panel-body .row .col-xs-12 {
+        margin-bottom: 10px;
+    }
+    
+    .well {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    
+    .help-block {
+        font-size: 12px;
+    }
+}/* Styles spécifiques au module Germination */
+
+/* Onglets */
+.btn-group-justified .btn {
+    border-radius: 0;
+    margin-right: 1px;
+}
+
+.btn-group-justified .btn:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.btn-group-justified .btn:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-right: 0;
+}
+
+/* Zone de scan optimisée mobile */
+.form-scan {
+    margin-bottom: 0;
+}
+
+.form-scan .input-group {
+    width: 100%;
+}
+
+.form-scan .form-control {
+    font-size: 16px; /* Évite le zoom sur iOS */
+}
+
+/* Tableaux */
+.table-responsive {
+    border: none;
+}
+
+.table > thead > tr > th {
+    background-color: #f5f5f5;
+    border-bottom: 2px solid #ddd;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding: 8px 4px; /* Padding réduit pour mobile */
+}
+
+.table > tbody > tr > td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 8px 4px; /* Padding réduit pour mobile */
+}
+
+.table > tbody > tr:hover {
+    background-color: #f9f9f9;
+}
+
+.table-condensed > thead > tr > th,
+.table-condensed > tbody > tr > th,
+.table-condensed > tfoot > tr > th,
+.table-condensed > thead > tr > td,
+.table-condensed > tbody > tr > td,
+.table-condensed > tfoot > tr > td {
+    padding: 4px;
+}
+
+/* Cards pour mobile */
+.product-card, .test-card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    transition: box-shadow 0.2s ease;
+}
+
+.product-card:hover, .test-card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.product-card .panel-body,
+.test-card .panel-body {
+    padding: 15px;
+}
+
+/* Boutons optimisés mobile */
+.btn-group-vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-group-vertical .btn {
+    margin-bottom: 5px;
+    border-radius: 4px !important;
+}
+
+.btn-group-vertical .btn:last-child {
+    margin-bottom: 0;
+}
+
+/* Couleurs pour les résultats de germination */
+.germination-excellent {
+    background-color: #1aaf64 !important;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.germination-bon {
+    background-color: #FF8000 !important;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.germination-faible {
+    background-color: #FE2E2E !important;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.germination-inconnu {
+    background-color: #f5f5f5 !important;
+    color: #666 !important;
+}
+
+/* Formulaires dans les tableaux */
+.table input[type="number"] {
+    width: 60px;
+    display: inline-block;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.table .form-control {
+    height: 28px;
+    padding: 2px 6px;
+    font-size: 12px;
+}
+
+/* Input groups pour mobile */
+.input-group .form-control {
+    font-size: 16px; /* Évite le zoom sur iOS */
+}
+
+/* Panels */
+.panel-heading {
+    position: relative;
+}
+
+.panel-heading .pull-right {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+
+/* Modal responsive */
+.modal-dialog {
+    width: 90%; /* Plus large sur mobile */
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+.modal-body .form-group {
+    margin-bottom: 20px;
+}
+
+.modal-body label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Labels et badges */
+.label {
+    font-size: 11px;
+    padding: 3px 6px;
+}
+
+.badge-sans-test {
+    background-color: #d9534f;
+}
+
+.badge-ancien {
+    background-color: #f0ad4e;
+}
+
+.badge-encours {
+    background-color: #5bc0de;
+}
+
+.badge-termine {
+    background-color: #5cb85c;
+}
+
+/* Indicateurs visuels */
+.lot-numero {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background-color: #f8f8f8;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+.date-ancienne {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.date-recente {
+    color: #5cb85c;
+}
+
+/* États des tests */
+.test-etape-attente {
+    color: #999;
+    font-style: italic;
+}
+
+.test-etape-active {
+    color: #337ab7;
+    font-weight: bold;
+}
+
+.test-etape-termine {
+    color: #5cb85c;
+}
+
+/* Priorités */
+.priorite-1 {
+    border-left: 4px solid #d9534f;
+}
+
+.priorite-2 {
+    border-left: 4px solid #f0ad4e;
+}
+
+.priorite-3 {
+    border-left: 4px solid #5cb85c;
+}
+
+/* Animations */
+.fade-in {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.slide-in {
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-10px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.highlight-test {
+    background-color: #fcf8e3 !important;
+    border: 2px solid #faebcc !important;
+    animation: pulse 2s ease-in-out;
+}
+
+@keyframes pulse {
+    0% { background-color: #fcf8e3; }
+    50% { background-color: #fff3cd; }
+    100% { background-color: #fcf8e3; }
+}
+
+.panel-info .panel-heading {
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.label-info {
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+}
+
+/* Responsive spécifique */
+@media (max-width: 768px) {
+    /* Header optimisé mobile */
+    h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    
+    /* Navigation onglets mobile */
+    .btn-group-justified .btn {
+        font-size: 11px;
+        padding: 8px 4px;
+        line-height: 1.2;
+    }
+    
+    .btn-group-justified .btn i {
+        display: block;
+        margin-bottom: 2px;
+        font-size: 14px;
+    }
+    
+    /* Modal plein écran sur très petit écran */
+    .modal-dialog {
+        width: 95%;
+        margin: 10px auto;
+    }
+    
+    /* Panels sans marge excessive */
+    .panel {
+        margin-bottom: 15px;
+    }
+    
+    .panel-body {
+        padding: 15px 10px;
+    }
+    
+    /* Boutons tactiles plus grands */
+    .btn-xs {
+        padding: 4px 8px;
+        font-size: 11px;
+        min-height: 28px;
+    }
+    
+    .btn-sm {
+        padding: 6px 12px;
+        font-size: 12px;
+        min-height: 32px;
+    }
+    
+    /* Input plus accessibles */
+    .form-control {
+        font-size: 16px; /* Évite le zoom iOS */
+        min-height: 40px;
+    }
+    
+    .input-group .form-control {
+        min-height: 40px;
+    }
+    
+    .input-group-btn .btn {
+        min-height: 40px;
+        padding: 8px 12px;
+    }
+    
+    /* Cards avec plus d'espacement */
+    .product-card .panel-body,
+    .test-card .panel-body {
+        padding: 12px;
+    }
+    
+    /* Étapes de test en mobile */
+    .form-group {
+        margin-bottom: 15px;
+    }
+    
+    .control-label {
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    
+    .form-control-static {
+        padding-top: 8px;
+        padding-bottom: 8px;
+        margin-bottom: 0;
+    }
+    
+    /* Well pour code-barres */
+    .well-sm {
+        padding: 8px;
+        margin-bottom: 10px;
+        border-radius: 4px;
+    }
+    
+    /* Scroll horizontal pour tableaux */
+    .table-responsive {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+    
+    /* Focus visible pour accessibilité */
+    .form-control:focus,
+    .btn:focus {
+        outline: 2px solid #007bff;
+        outline-offset: 2px;
+    }
+}
+
+/* Très petits écrans (< 480px) */
+@media (max-width: 480px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .panel-body {
+        padding: 10px 8px;
+    }
+    
+    .btn-group-justified .btn {
+        font-size: 10px;
+        padding: 6px 2px;
+    }
+    
+    .modal-dialog {
+        width: 98%;
+        margin: 5px auto;
+    }
+    
+    h4 {
+        font-size: 16px;
+    }
+    
+    .label {
+        font-size: 10px;
+        padding: 2px 4px;
+    }
+}
+
+/* Mode paysage mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .btn-group-justified .btn {
+        font-size: 12px;
+        padding: 6px 8px;
+    }
+    
+    .btn-group-justified .btn i {
+        display: inline-block;
+        margin-right: 4px;
+        margin-bottom: 0;
+    }
+    
+    .visible-xs-inline {
+        display: none;
+    }
+    
+    .hidden-xs {
+        display: block !important;
+    }
+}
+
+/* Styles additionnels pour UX mobile */
+.btn-touched {
+    transform: scale(0.95);
+    transition: transform 0.1s ease;
+}
+
+.form-control-error {
+    border-color: #d9534f !important;
+    box-shadow: 0 0 0 2px rgba(217, 83, 79, 0.3) !important;
+    animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+}
+
+.panel-success {
+    border-color: #5cb85c !important;
+    animation: successPulse 0.5s ease-in-out;
+}
+
+@keyframes successPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+}
+
+/* Modal optimisé mobile */
+.modal-open-mobile {
+    overflow: hidden !important;
+}
+
+.modal-open-mobile .modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+/* Modal de scan rapide */
+.modal-lg {
+    width: 90%;
+    max-width: 900px;
+}
+
+.bg-primary {
+    background-color: #337ab7 !important;
+    color: white !important;
+}
+
+.bg-success {
+    background-color: #5cb85c !important;
+    color: white !important;
+}
+
+.border-success {
+    border-color: #5cb85c !important;
+    border-width: 3px !important;
+}
+
+/* Styles pour les étapes dans la modal */
+.form-control-success {
+    border-color: #5cb85c !important;
+    box-shadow: 0 0 0 2px rgba(92, 184, 92, 0.3) !important;
+    animation: successGlow 0.5s ease-in-out;
+}
+
+@keyframes successGlow {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); background-color: #d4edda; }
+    100% { transform: scale(1); }
+}
+
+/* Input groups plus grands dans la modal */
+.modal-body .input-group-lg .form-control {
+    height: 50px;
+    font-size: 18px;
+}
+
+.modal-body .input-group-lg .input-group-addon {
+    height: 50px;
+    font-size: 18px;
+    padding: 12px 15px;
+}
+
+.modal-body .input-group-lg .btn {
+    height: 50px;
+    font-size: 16px;
+    padding: 12px 20px;
+}
+
+/* Well avec check pour les étapes terminées */
+.well {
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.well .fa-check-circle {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+/* Help blocks plus visibles */
+.help-block {
+    color: #737373;
+    font-size: 13px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+/* Panel info dans la modal */
+.modal-body .panel-info {
+    border-color: #bce8f1;
+}
+
+.modal-body .panel-info .panel-body {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+/* Toast notifications améliorées */
+.toast-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    min-width: 250px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    animation: slideInRight 0.3s ease-out;
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Responsive pour la modal de scan */
+@media (max-width: 768px) {
+    .modal-lg {
+        width: 95%;
+        margin: 10px auto;
+    }
+    
+    .modal-body {
+        padding: 15px 10px;
+    }
+    
+    .modal-body .input-group-lg .form-control {
+        height: 45px;
+        font-size: 16px;
+    }
+    
+    .modal-body .input-group-lg .input-group-addon {
+        height: 45px;
+        font-size: 16px;
+        padding: 10px 12px;
+    }
+    
+    .modal-body .input-group-lg .btn {
+        height: 45px;
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    
+    .modal-header h4 {
+        font-size: 18px;
+    }
+    
+    .toast-notification {
+        right: 10px;
+        left: 10px;
+        top: 10px;
+        min-width: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .modal-lg {
+        width: 98%;
+        margin: 5px auto;
+    }
+    
+    .modal-footer .btn {
+        margin-bottom: 5px;
+    }
+    
+    .panel-body .row .col-xs-12 {
+        margin-bottom: 10px;
+    }
+}
+
+/* Loading states */
+.btn-loading {
+    position: relative;
+}
+
+.btn-loading .fa-spinner {
+    margin-right: 5px;
+}
+
+/* Amélioration des contrastes pour accessibilité */
+.label-info {
+    background-color: #31708f;
+}
+
+.label-success {
+    background-color: #449d44;
+}
+
+.label-warning {
+    background-color: #ec971f;
+}
+
+.label-danger {
+    background-color: #c12e2a;
+}
+
+/* Focus amélioré pour navigation clavier */
+.form-control:focus,
+.btn:focus,
+.btn-group > .btn:focus {
+    outline: 2px solid #007bff;
+    outline-offset: 2px;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
+
+/* Indicateurs de statut plus visibles */
+.test-status-indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.test-status-new {
+    background-color: #f0ad4e;
+}
+
+.test-status-progress {
+    background-color: #5bc0de;
+}
+
+.test-status-complete {
+    background-color: #5cb85c;
+}
+
+/* Optimisation pour écrans haute densité */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .label, .badge {
+        font-weight: 500;
+    }
+    
+    .btn {
+        font-weight: 500;
+    }
+}
+
+/* Mode sombre (si supporté par le navigateur) */
+/*@media (prefers-color-scheme: dark) {
+    .panel-default {
+        background-color: #2b2b2b;
+        border-color: #3e3e3e;
+    }
+    
+    .panel-default > .panel-heading {
+        background-color: #3e3e3e;
+        border-color: #3e3e3e;
+        color: #fff;
+    }
+    
+    .panel-body {
+        background-color: #2b2b2b;
+        color: #fff;
+    }
+    
+    .table-striped > tbody > tr:nth-of-type(odd) {
+        background-color: #3e3e3e;
+    }
+    
+    .form-control {
+        background-color: #3e3e3e;
+        border-color: #555;
+        color: #fff;
+    }
+    
+    .form-control:focus {
+        background-color: #3e3e3e;
+        border-color: #007bff;
+        color: #fff;
+    }
+}*/
+
+/* Améliorations pour les gestes tactiles */
+@media (pointer: coarse) {
+    /* Espacement augmenté entre les éléments tactiles */
+    .btn-group-vertical .btn {
+        margin-bottom: 8px;
+    }
+    
+    .table .btn-group .btn {
+        margin: 1px;
+    }
+    
+    /* Zones de touch plus grandes */
+    .btn-xs {
+        min-width: 32px;
+        min-height: 32px;
+    }
+    
+    .btn-sm {
+        min-width: 36px;
+        min-height: 36px;
+    }
+    
+    /* Feedback tactile visuel */
+    .btn:active {
+        transform: scale(0.98);
+    }
+    
+    .form-control:active {
+        transform: scale(1.02);
+        transition: transform 0.1s ease;
+    }
+}
+
+/* Performance - Réduction des animations sur les appareils moins puissants */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* Amélioration de la lisibilité sur petits écrans */
+@media (max-width: 360px) {
+    body {
+        font-size: 14px;
+    }
+    
+    h4 {
+        font-size: 15px;
+    }
+    
+    .btn {
+        font-size: 13px;
+    }
+    
+    .form-control {
+        font-size: 15px;
+    }
+    
+    .label {
+        font-size: 9px;
+        padding: 1px 3px;
+    }
+    
+    .panel-body {
+        padding: 8px;
+    }
+    
+    .container {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+/* Styles pour les boutons de saisie */
+.btn-warning {
+    background-color: #ff9800;
+    border-color: #ff9800;
+    color: white;
+}
+
+.btn-warning:hover {
+    background-color: #f57c00;
+    border-color: #f57c00;
+    color: white;
+}
+
+/* Animation pour les erreurs de saisie */
+.form-control-error {
+    border-color: #f44336 !important;
+    box-shadow: 0 0 0 0.2rem rgba(244, 67, 54, 0.25) !important;
+    animation: shake 0.5s;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+    20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+/* Style pour la modal */
+.modal-header.bg-primary {
+    background-color: #2196F3;
+    color: white;
+}
+
+.modal-header.bg-success {
+    background-color: #4CAF50;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.modal-content.border-success {
+    border: 2px solid #4CAF50;
+    transition: border-color 0.3s ease;
+}
+
+/* Toast notifications */
+.toast-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    min-width: 250px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Style pour les labels cliquables */
+.label-info {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.label-info:hover {
+    transform: scale(1.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Amélioration de l'affichage mobile */
+@media (max-width: 767px) {
+    /*.modal-dialog {
+        margin: 10px;
+    }*/
+    
+    .btn-group-justified .btn {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+    
+    .toast-notification {
+        left: 10px;
+        right: 10px;
+        top: 10px;
+    }
+}
+
+/* Style pour le focus mobile */
+.modal-open-mobile {
+    position: fixed;
+    overflow: hidden;
+}
+
+/* Boutons tactiles */
+.btn-touched {
+    transform: scale(0.95);
+    transition: transform 0.1s;
+}
+
+/* Amélioration des wells */
+.well {
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.well.well-sm {
+    padding: 5px;
+}
+
+/* Style pour le panel de commentaire */
+#panelCommentaireModal, #panelCommentaire {
+    margin-top: 20px;
+    border-color: #2196F3;
+}
+
+#panelCommentaireModal .panel-heading, #panelCommentaire .panel-heading {
+    background-color: #2196F3;
+    color: white;
+    border-color: #2196F3;
+}

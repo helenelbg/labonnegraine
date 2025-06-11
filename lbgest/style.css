@@ -1,0 +1,43 @@
+
+#table_parametres th{
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+td{
+	position: relative;
+	border-bottom: 1px solid black;
+}
+
+td.nom{
+	width: 400px;
+}
+
+tr.child_category, tr.product, tr.declinaison{
+	display: none;
+}
+
+
+span.grower {
+	display: block;
+	position: absolute;
+	right: 5px;
+	top: 0;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+input[type=checkbox]{
+	margin: 0 auto;
+    display: block;
+}
+
+.ventilation{
+	display: inline-block;
+	margin-right: 15px;
+	vertical-align: middle;
+}
+
+.js-warning-lot{
+	color: #ee2222;
+}
