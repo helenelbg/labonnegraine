@@ -1,0 +1,6 @@
+Hi {customer},
+Unfortunately, your withdrawal request was declined. Below is detailed information of your withdrawal request:
+Withdrawal ID: {withdrawal_ID}
+Withdrawal amount: {amount}
+Payment method: {payment_method}
+Yours sincerely.

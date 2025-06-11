@@ -1,0 +1,6 @@
+Olá {customer},
+Parabéns! Sua solicitação de retirada na loja {shop_name} foi aprovada. Abaixo estão informações detalhadas sobre sua solicitação de retirada:
+ID de retirada: {withdrawal_ID}
+Valor do saque: {amount}
+Forma de pagamento: {payment_method}
+Com os melhores cumprimentos.

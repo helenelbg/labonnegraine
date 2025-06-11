@@ -1,0 +1,4 @@
+Cześć {username},
+Gratulacje! Twoje zgłoszenie do programu {program} zostało zatwierdzone.
+Wiadomość: {reason}
+Z poważaniem.

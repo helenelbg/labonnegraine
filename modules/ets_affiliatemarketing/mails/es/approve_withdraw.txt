@@ -1,0 +1,6 @@
+Hola {customer},
+¡Felicidades! Su solicitud de retiro en la tienda {shop_name} fue aprobada. A continuación se muestra información detallada de su solicitud de retiro:
+ID de retiro: {withdrawal_ID}
+Cantidad de retiro: {amount}
+Método de pago: {payment_method}
+Tuyo sinceramente.

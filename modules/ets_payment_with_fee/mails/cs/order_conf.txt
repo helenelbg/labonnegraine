@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Ahoj {firstname} {lastname},
+
+Děkujeme za nákup s {shop_name}!
+
+Objednávka: {order_name} Umístěno {date}
+
+Platba: {payment}
+
+Reference
+
+Produkt
+
+Jednotková cena
+
+Množství
+
+Celková cena
+
+{products_txt} 
+
+{discounts} 
+
+Produkty
+
+{total_products} 
+
+Sleva
+
+{total_discounts} 
+
+Balení dárků
+
+{total_wrapping} 
+
+Poštovné
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Celková zaplacená daň
+
+{total_tax_paid} 
+
+Celkem zaplaceno
+
+{total_paid} 
+
+Přepravce: {carrier}
+
+Platba: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Svou objednávku a fakturu si můžete stáhnout v sekci
+"Historie objednávek" [{history_url}]
+svého zákaznického účtu kliknutím na "Můj účet"
+[{my_account_url}] v našem obchodě.
+
+Pokud máte účet hosta, můžete svou objednávku sledovat prostřednictvím sekce
+"Sledování hostů"
+[{guest_tracking_url}?id_order={order_name}]
+v našem obchodě.
+
+{shop_name} [{shop_url}] provozuje PrestaShop(tm) [http://www.prestashop.com/]
+

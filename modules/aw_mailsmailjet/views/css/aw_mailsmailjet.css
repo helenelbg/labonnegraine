@@ -1,0 +1,17 @@
+.aw_panel_template {
+    height: 200px;
+}
+
+.linked_template_list_section {
+    display: none;
+}
+
+.table_linked_template_list {
+    margin: auto;
+    width: 90%;
+}
+
+.table_linked_template_list th, td {
+    text-align: center;
+    border: 1px solid black;
+}

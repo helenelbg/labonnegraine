@@ -1,0 +1,8 @@
+Cześć Admin
+Nagroda została anulowana w dniu:
+Program: {program}
+Nagroda ID: R-{reward_id}
+Nagroda: {amount}
+Data utworzenia: {date_created}
+Data anulowania: {date_canceled}
+Uwaga: {note}

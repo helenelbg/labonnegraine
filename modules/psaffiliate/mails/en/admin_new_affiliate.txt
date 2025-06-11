@@ -1,0 +1,11 @@
+{shop_name}
+
+Hi, you have a new affiliate request on {shop_name}.
+
+Affiliate details:
+E-mail address: {email}
+Affiliate name: {name}
+
+
+{shop_name}
+{shop_url}

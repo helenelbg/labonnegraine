@@ -1,0 +1,6 @@
+Cześć administratorze,
+Zatwierdziłeś żądanie wypłaty. Poniżej znajdują się szczegółowe informacje na temat wniosku o wypłatę:
+ID wypłaty: {withdrawal_ID}
+Od klienta: {customer}
+Kwota wypłaty: {amount}
+Forma płatności: {payment_method}

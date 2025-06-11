@@ -1,0 +1,8 @@
+Hallo {customer}
+Herzliche Glückwünsche! Ihre Prämie wurde genehmigt.
+Programm: {program}
+ID-Belohnung: R-{reward}
+Belohnung: {amount}
+Erstellungsdatum: {date_created}
+Genehmigungsdatum: {date_validated}
+Anmerkung: {note}

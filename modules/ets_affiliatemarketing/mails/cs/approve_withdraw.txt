@@ -1,0 +1,6 @@
+Ahoj {customer},
+Gratulujeme! Vaše žádost o výběr v obchodě {shop_name} byla schválena. Níže jsou uvedeny podrobné informace o vaší žádosti o výběr:
+ID výběru: {withdrawal_ID}
+Částka výběru: {amount}
+Platební metoda: {payment_method}
+S pozdravem.

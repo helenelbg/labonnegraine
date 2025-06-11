@@ -1,0 +1,3 @@
+Cześć {customer}
+Twoja nagroda R-{reward_id} wygaśnie za {day} dni, jeśli nie zostanie wykorzystana. Zalecamy skorzystanie z nagrody wkrótce, zanim będzie późno.
+Z poważaniem.

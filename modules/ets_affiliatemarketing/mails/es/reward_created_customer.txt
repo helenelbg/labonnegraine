@@ -1,0 +1,7 @@
+Hola {customer}
+Una nueva recompensa fue creada para ti.
+Programa: {program}
+ID de recompensa: R-{reward_id}
+Recompensa: {amount}
+Fecha de creación: {date_created}
+Estado: {status}

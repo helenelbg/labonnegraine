@@ -1,0 +1,223 @@
+/**
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to a commercial license from Common-Services Co., Ltd.
+ * Use, copy, modification or distribution of this source file without written
+ * license agreement from the SARL SMC is strictly forbidden.
+ * In order to obtain a license, please contact us: contact@common-services.com
+ * ...........................................................................
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * L'utilisation de ce fichier source est soumise a une licence commerciale
+ * concedee par la societe Common-Services Co., Ltd.
+ * Toute utilisation, reproduction, modification ou distribution du present
+ * fichier source sans contrat de licence ecrit de la part de la Common-Services Co. Ltd. est
+ * expressement interdite.
+ * Pour obtenir une licence, veuillez contacter Common-Services Co., Ltd. a l'adresse: contact@common-services.com
+ * ...........................................................................
+ *
+ * @package   SoNice_Etiquetage
+ * @author    Alexandre D. <alexandre@common-services.com>
+ * @copyright Copyright (c) 2011-2015 Common Services Co Ltd - 90/25 Sukhumvit 81 - 10260 Bangkok - Thailand
+ * @license   Commercial license
+ * Support by mail  :  support.sonice@common-services.com
+ */
+
+/* QTIP */
+#sonice_configuration label.tip span {
+    text-decoration: none;
+    font-style: inherit;
+    border-bottom: 1px dashed rgba(255, 150, 0, 0.40);
+    padding-bottom: 2px;
+    cursor: pointer;
+}
+
+/* PS15x */
+.hint {
+    display: block !important;
+}
+
+.col-lg-8 {
+    width: 66.66667%;
+    float: left;
+}
+
+#_form hr {
+    width: initial;
+}
+
+#_form input[type="text"],
+#_form input[type="tel"],
+#_form input[type="email"],
+#_form input[type="search"],
+#_form input[type="password"],
+#_form textarea,
+#_form select {
+    /*display: block;*/
+    /*width: 100%;*/
+    /*height: 27px;*/
+    padding: 4px 8px;
+    font-size: 12px;
+    /*line-height: 1.42857;*/
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -o-transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+
+
+/* PS16x */
+#conf-carrier_mapping select {
+    display: inline;
+    width: 60%;
+}
+
+#conf-carrier_mapping img {
+    height: 20px;
+    vertical-align: -5px;
+}
+
+#conf-tare .col-lg-9 input {
+    width: 60px;
+    display: inline;
+}
+
+#conf-tare img {
+    height: 20px;
+}
+
+#conf-address .input-group-addon, #conf-address p span {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.help-block {
+    color: #00aff0 !important;
+}
+
+.sne_orange {
+    color: #ff502d;
+}
+
+.sne_grey {
+    color: #8c8c8c;
+}
+
+.sne_black {
+    color: black;
+}
+
+.sne_documentation_list {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.sne_documentation_list td {
+    width: 50px;
+}
+
+.sne_documentation_list img {
+    cursor: pointer;
+}
+
+.sne_documentation_warning {
+    width: 100% !important;
+    float: left;
+    cursor: default !important;
+    margin-top: 5px;
+}
+
+.sne_documentation_warning span {
+    font-size: 1.2em;
+}
+
+.connectParam {
+    /*width: 150px !important;*/
+}
+
+.add-weight img, .remove-weight img
+{
+    position: relative;
+    top: -3px;
+    border:1px solid gainsboro;
+    padding: 2px;
+    cursor:pointer;
+    background-color:whitesmoke;  
+    border-radius:2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+    margin-left: 10px;
+}
+
+.add-weight img:hover, .remove-weight img:hover
+{
+    border:1px solid lavender;
+    background-color: lightgray;
+}
+
+.im_cmd_input {
+    font-family: "Lucida Console", Monaco, monospace !important;
+    display: inline !important;
+    width: 70% !important;
+    height: 27px !important;
+}
+
+.arrow-next {
+    width: 15px;
+    vertical-align: -5px;
+    margin: 0 10px;
+}
+
+.sne_multi_select {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+.sne_multi_select_heading {
+    width: 560px;
+    text-align: center;
+    letter-spacing: 300px;
+}
+
+.sne_move {
+    cursor: pointer;
+    padding:5px;
+    border:1px solid transparent;
+}
+
+.sne_move:hover {
+    padding:5px;
+    border:1px solid silver;
+    background-color: whitesmoke;
+}
+
+.sne_sep {
+    margin: 80px 20px 0 20px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.alert.alert-info {
+	line-height: 1.6em;
+	border: 1px solid transparent !important;
+	border-left: 3px solid #81cfe6 !important;
+}
+
+.alert.alert-info a {
+	font-weight: bold;
+}

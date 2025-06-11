@@ -1,0 +1,16 @@
+{shop_name}
+
+Hi, you have a new payment request on {shop_name}.
+
+Affiliate details:
+E-mail address: {email}
+Affiliate name: {name}
+
+Payment details:
+Payment amount: {amount}
+Payment method: {payment_method}
+Payment details:
+{payment_method_fields_txt}
+
+{shop_name}
+{shop_url}

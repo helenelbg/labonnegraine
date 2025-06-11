@@ -1,0 +1,3 @@
+Bonjour {customer}
+Votre récompense R-{reward_id} expirera au {day} jour(s) si elle n’est pas utilisée. Nous vous recommandons d’utiliser la récompense peu de temps avant qu’il ne soit trop tard.
+Cordialement.

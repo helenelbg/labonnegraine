@@ -1,0 +1,5 @@
+Bonjour {username}
+Votre candidature pour {program} a été refusée.
+Raison: {reason}
+Merci d'être intéressé par notre programme!
+Cordialement.

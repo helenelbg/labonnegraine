@@ -1,0 +1,9 @@
+Ciao {customer},
+Hai appena inviato correttamente una richiesta di prelievo nello negozio {shop_name}. La tua richiesta è in attesa di approvazione, ti preghiamo di pazientare e ricordati di controllare la tua casella di posta per un'e-mail di conferma.
+Di seguito sono riportate informazioni dettagliate sulla richiesta di prelievo:
+ID prelievo: {withdrawal_ID}
+Importo del prelievo: {amount}
+Metodo di pagamento: {payment_method}
+Data di elaborazione (stimata): {processed_date}
+{invoice_withdrawal}
+Cordiali saluti.

@@ -1,0 +1,5 @@
+Ahoj {customer}
+Právě jste úspěšně převedli svůj zůstatek odměny na poukaz. Níže jsou uvedeny podrobné informace o vaší konverzi:
+Kód voucheru: {discount_code}
+Převedená částka odměny: {discount_value}
+S pozdravem.

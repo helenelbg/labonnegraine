@@ -1,0 +1,6 @@
+Hallo {customer},
+Helaas is uw opnameverzoek afgewezen. Hieronder vindt u gedetailleerde informatie over uw opnameverzoek:
+Opname-ID: {withdrawal_ID}
+Opnamebedrag: {amount}
+Betaalmethode: {payment_method}
+Met vriendelijke groeten.

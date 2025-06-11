@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>thegiftcard</name>
+    <displayName><![CDATA[La carte cadeau]]></displayName>
+    <version><![CDATA[1.13.2]]></version>
+    <description><![CDATA[Un client en panne d&#039;inspiration ? Le module La Carte Cadeau donne la possibilit&eacute; d&#039;offrir le cadeau id&eacute;al pour toutes les ocasions. Tr&egrave;s intuitif, le module est d&eacute;j&agrave; pr&eacute;configur&eacute; pour une utilisation imm&eacute;diate ! Attirez de nouveaux clients et dopez votre chiffre d&#039;affaires en proposant des cartes cadeaux personnalisables.]]></description>
+    <author><![CDATA[Keyrnel]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

@@ -1,0 +1,5 @@
+Olá {username},
+Sua inscrição para {program} foi recusada.
+Motivo: {reason}
+Obrigado por se interessar pelo nosso programa!
+Com os melhores cumprimentos.

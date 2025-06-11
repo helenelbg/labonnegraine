@@ -1,0 +1,7 @@
+Hallo {customer}
+Eine neue Belohnung wurde für Sie erstellt
+Programm: {program}
+ID-Belohnung: R-{reward_id}
+Belohnung: {amount}
+Erstellungsdatum: {date_created}
+Zustand: {status}

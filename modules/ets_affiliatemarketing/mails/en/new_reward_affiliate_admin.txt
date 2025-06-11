@@ -1,0 +1,8 @@
+Hi Admin
+A new reward was created for {customer}
+Program: {program}
+Affiliate: {customer}
+ID reward: R-{reward_id}
+Reward: {amount}
+Date created: {date_created}
+Status: {status}

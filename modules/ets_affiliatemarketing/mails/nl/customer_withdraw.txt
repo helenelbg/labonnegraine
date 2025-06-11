@@ -1,0 +1,9 @@
+Hallo {customer},
+Je hebt zojuist met succes een opnameverzoek ingediend bij de {shop_name}-winkel. Uw verzoek wacht op goedkeuring, wees geduldig en vergeet niet om uw inbox te controleren op een bevestigingsmail.
+Hieronder vindt u gedetailleerde informatie over uw opnameverzoek:
+Opname-ID: {withdrawal_ID}
+Opnamebedrag: {amount}
+Betaalmethode: {payment_method}
+Verwerkte datum (geschat): {processed_date}
+{invoice_withdrawal}
+Met vriendelijke groeten.

@@ -1,0 +1,8 @@
+Hi Admin
+A customer's reward is approved. Find details below:
+Program: {program}
+ID reward: R-{reward_id}
+Reward: {amount}
+Date created: {date_created}
+Date approved: {date_validated}
+Note: {note}

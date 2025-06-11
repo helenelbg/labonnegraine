@@ -1,0 +1,6 @@
+Bonjour {customer},
+Malheureusement, votre demande de retrait a été refusée. Vous trouverez ci-dessous des informations détaillées sur votre demande de retrait:
+ID de retrait: {withdrawal_ID}
+Montant de retrait: {amount}
+Mode de paiement: {payment_method}
+Cordialement.

@@ -1,0 +1,8 @@
+Ahoj {customer}
+Vaše odměna byla zrušena.
+Program: {program}
+ID odměna: R-{reward}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Datum zrušení: {date_canceled}
+Poznámka: {note}

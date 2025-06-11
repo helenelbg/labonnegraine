@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Cześć {firstname} {lastname},
+
+Dziękujemy za zakupy z {shop_name}!
+
+Zamówienie: {order_name} Umieszczony {date}
+
+Płatność: {payment}
+
+Referencja
+
+Produkt
+
+Cena jednostkowa
+
+Ilość
+
+Cena całkowita
+
+{products_txt} 
+
+{discounts} 
+
+Produkty
+
+{total_products} 
+
+Zniżka
+
+{total_discounts} 
+
+Pakowanie prezentów
+
+{total_wrapping} 
+
+Wysyłka
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Całkowity podatek zapłacony
+
+{total_tax_paid} 
+
+Pełna kwota
+
+{total_paid} 
+
+Przewoźnik: {carrier}
+
+Płatność: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Możesz przejrzeć swoje zamówienie i pobrać fakturę z sekcji
+"Historia zamówień" [{history_url}]
+na swoim koncie klienta, klikając "Moje konto"
+[{my_account_url}] w naszym sklepie.
+
+Jeśli masz konto gościa, możesz śledzić swoje zamówienie w sekcji
+"Śledzenie gości"
+[{guest_tracking_url}?id_order={order_name}]
+w naszym sklepie.
+
+{shop_name} [{shop_url}] obsługiwane przez PrestaShop(tm) [http://www.prestashop.com/]
+

@@ -1,0 +1,8 @@
+Cześć {customer}
+Twoja nagroda została anulowana.
+Program: {program}
+Nagroda ID: R-{reward}
+Nagroda: {amount}
+Data utworzenia: {date_created}
+Data anulowania: {date_canceled}
+Uwaga: {note}

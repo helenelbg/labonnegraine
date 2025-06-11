@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Ciao {firstname} {lastname},
+
+Grazie per aver acquistato con {shop_name}!
+
+ORDINE: {order_name} effettuato il {date}
+
+PAGAMENTO: {payment}
+
+RIFERIMENTO
+
+PRODOTTO
+
+PREZZO UNITARIO
+
+QUANTITÀ
+
+PREZZO TOTALE
+
+{products_txt} 
+
+{discounts} 
+
+PRODOTTI
+
+{total_products} 
+
+SCONTI
+
+{total_discounts} 
+
+INCARTAMENTO DI REGALO
+
+{total_wrapping} 
+
+SPEDIZIONE
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+TOTALE IMPOSTA PAGATA
+
+{total_tax_paid} 
+
+TOTALE PAGATO
+
+{total_paid} 
+
+CORRIERE: {carrier}
+
+PAGAMENTO: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Puoi rivedere il tuo ordine e scaricare la fattura dalla sezione
+"Cronologia ordini" [{history_url}]
+del tuo account cliente facendo clic su "Il mio account"
+[{my_account_url}] nel nostro negozio.
+
+Se hai un account ospite, puoi seguire il tuo ordine tramite la sezione
+"Monitoraggio ospiti"
+[{guest_tracking_url}?id_order={order_name}]
+nel nostro negozio.
+
+{shop_name} [{shop_url}] con tecnologia PrestaShop(tm) [http://www.prestashop.com/]
+

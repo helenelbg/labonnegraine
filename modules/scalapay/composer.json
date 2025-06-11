@@ -1,0 +1,36 @@
+{
+  "name": "scalapay/prestashop",
+  "description": "Prestashop module for scalapay",
+  "homepage": "https://www.scalapay.it/",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Scalapay",
+      "email": "info@scalapay.it"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Scalapay\\": "classes/"
+    },
+    "classmap": [
+      "scalapay.php",
+      "controllers",
+      "classes"
+    ]
+  },
+
+  "require": {
+    "php": ">=5.6",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "5.6"
+    },
+    "preferred-install": "dist",
+    "platform-check": false
+  },
+  "type": "prestashop-module"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>homecategories</name>
+    <displayName><![CDATA[Featured categories on the homepage]]></displayName>
+    <version><![CDATA[1.6.4]]></version>
+    <description><![CDATA[Displays categories in the central column of your homepage.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

@@ -1,0 +1,74 @@
+
+[{shop_url}] 
+
+Привет {firstname} {lastname},
+
+Спасибо за покупки в {shop_name}!
+
+Заказ: {order_name} Создано {date}
+
+Оплата: {payment}
+
+Ссылка
+
+Товар
+
+Цена за единицу
+
+Количество
+
+Итоговая цена
+
+{products_txt} 
+
+{discounts} 
+
+Товары
+
+{total_products} 
+
+Скидки
+
+{total_discounts} 
+
+Подарочная упаковка
+
+{total_wrapping} 
+
+Доставка
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Всего уплачен налог
+
+{total_tax_paid} 
+
+Общая сумма
+
+{total_paid} 
+
+Перевозчик: {carrier}
+
+Оплата: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Вы можете просмотреть свой заказ и загрузить счет-фактуру в разделе
+"История заказов" [{history_url}]
+вашей учетной записи клиента, нажав "Мой аккаунт"
+[{my_account_url}] в нашем магазине.
+
+Если у вас есть гостевая учетная запись, вы можете следить за своим заказом в разделе
+"Отслеживание гостей"
+[{guest_tracking_url}?id_order={order_name}]
+в нашем магазине.
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
+

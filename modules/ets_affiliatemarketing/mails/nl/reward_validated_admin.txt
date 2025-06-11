@@ -1,0 +1,8 @@
+Hallo beheerder,
+De beloning van een klant wordt goedgekeurd. Vind hieronder details:
+Programma: {program}
+ID-beloning: R-{reward_id}
+Beloning: {amount}
+Datum gemaakt: {date_created}
+Datum goedgekeurd: {date_validated}
+Opmerking: {note}

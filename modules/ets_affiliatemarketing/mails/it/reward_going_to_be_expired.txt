@@ -1,0 +1,3 @@
+Ciao {customer}
+Il tuo ricompensa R-{reward_id} scadrà tra {day} giorni se non viene utilizzato. Ti consigliamo di utilizzare il ricompensa subito prima che sia tardi.
+Cordiali saluti.

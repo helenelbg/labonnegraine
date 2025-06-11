@@ -1,0 +1,20 @@
+.colissimo-hook-admin-order .colissimo-show-hidden-order {
+    margin-bottom: 10px;
+}
+
+.colissimo-hook-admin-order .colissimo-order-summary-title {
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+}
+
+.colissimo-order img.logo {
+    width: 215px;
+    display: block;
+    margin: 20px auto;
+}
+
+.colissimo-hook-admin-order .colissimo-shipments-products .table{
+    background-color: #eff1f2;
+}

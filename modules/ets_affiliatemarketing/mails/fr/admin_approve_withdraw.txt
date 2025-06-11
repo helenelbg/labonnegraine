@@ -1,0 +1,6 @@
+Bonjour administrateur
+Vous avez approuvé une demande de retrait. Vous trouverez ci-dessous des informations détaillées sur la demande de retrait:
+ID de retrait: {withdrawal_ID}
+Du client: {customer}
+Montant de retrait: {amount}
+Mode de paiement: {payment_method}

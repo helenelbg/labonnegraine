@@ -1,0 +1,4 @@
+.bootstrap > .module_confirmation.alert,
+.bootstrap > .module_error.alert{
+    display: none;
+}

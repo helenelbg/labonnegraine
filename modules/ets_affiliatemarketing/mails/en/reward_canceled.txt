@@ -1,0 +1,8 @@
+Hi {customer}
+Your reward was canceled.
+Program: {program}
+ID reward: R-{reward}
+Reward: {amount}
+Date created: {date_created}
+Date canceled: {date_canceled}
+Note: {note}

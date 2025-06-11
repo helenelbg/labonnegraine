@@ -1,0 +1,4 @@
+Olá {username},
+Parabéns! Sua inscrição para {program} foi aprovada.
+Mensagem: {reason}
+Com os melhores cumprimentos.

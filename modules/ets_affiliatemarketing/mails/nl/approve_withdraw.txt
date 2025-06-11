@@ -1,0 +1,6 @@
+Hallo {customer},
+Gefeliciteerd! Je opnameverzoek in de {shop_name}-winkel is goedgekeurd. Hieronder vindt u gedetailleerde informatie over uw opnameverzoek:
+Opname-ID: {withdrawal_ID}
+Opnamebedrag: {amount}
+Betaalmethode: {payment_method}
+Met vriendelijke groeten.

@@ -1,0 +1,6 @@
+Hallo Administrator
+Sie haben eine Auszahlungsanforderung genehmigt. Nachfolgend finden Sie detaillierte Informationen zum Auszahlungsantrag:
+Widerrufs-ID: {withdrawal_ID}
+Von Kunde: {customer}
+Auszahlungsbetrag: {amount}
+Zahlungsmethode: {payment_method}

@@ -1,0 +1,14 @@
+{shop_name}
+
+Hi {name},
+
+Your payment request on {shop_name} has been approved.
+
+Payment details:
+Payment amount: {amount}
+Payment method: {payment_method}
+Payment details:
+{payment_method_fields_txt}
+
+{shop_name}
+{shop_url}

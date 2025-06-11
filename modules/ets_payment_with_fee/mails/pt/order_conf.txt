@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Olá {firstname} {lastname},
+
+Obrigado por comprar com {shop_name}!
+
+Ordem: {order_name} Colocado em {date}
+
+Pagamento: {payment}
+
+Referência
+
+Produto
+
+Preço unitário
+
+Quantidade
+
+Preço total
+
+{products_txt} 
+
+{discounts} 
+
+Produtos
+
+{total_products} 
+
+Desconto
+
+{total_discounts} 
+
+Embalagem de presente
+
+{total_wrapping} 
+
+Frete
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Imposto total pago
+
+{total_tax_paid} 
+
+Total pago
+
+{total_paid} 
+
+Transportadora: {carrier}
+
+Pagamento: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Você pode revisar seu pedido e baixar sua fatura na seção
+"Histórico de pedidos" [{history_url}]
+da sua conta de cliente clicando em "Minha conta"
+[{my_account_url}] em nossa loja.
+
+Se você tiver uma conta de convidado, poderá acompanhar seu pedido na seção
+"Acompanhamento de convidados"
+[{guest_tracking_url}?id_order={order_name}]
+em nossa loja.
+
+{shop_name} [{shop_url}] desenvolvido por PrestaShop(tm) [http://www.prestashop.com/]
+

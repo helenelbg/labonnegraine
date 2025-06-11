@@ -1,0 +1,74 @@
+
+.hiver  #homecategories
+{
+  background-color:#eeead0;
+}
+
+.printemps #homecategories
+{
+  background-color:#d2eea1;
+}
+
+.ete #homecategories
+{
+ background-color: #E1EBC4;
+}
+
+
+#homecategories
+{
+    height: auto;
+    overflow: hidden;
+    width: 66%;
+    margin-right: 1%!important;
+    float: left;
+    /*background-color: #EFE4E8;*/
+    /*margin-bottom:20px!important;*/
+}
+
+#homecategories div.category_block
+{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left:4px;
+    text-align: center;
+    width: 29%;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+.category_block  img{max-width:100%;}
+
+.mobile_theme #homecategories
+{
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+    margin-right: 1%!important;
+    float: left;
+}
+
+.mobile_theme #homecategories img
+{
+     max-width:100%;
+}
+
+.automne.mobile_theme #homecategories h4{
+  background-color: #841b53;
+  color: #fff;
+  padding: 10px;
+}
+
+.printemps.mobile_theme #homecategories h4{background-color: #81a11e; color: #fff; padding: 10px;}
+
+.ete.mobile_theme #homecategories h4{background-color: #741748; color: #fff; padding: 10px;}
+
+.hiver.mobile_theme #homecategories h4{background-color: #e17b0a; color: #fff; padding: 10px;}
+
+#link_quelles_graines
+{
+    text-decoration: none !important;
+}

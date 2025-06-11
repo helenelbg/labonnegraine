@@ -1,0 +1,7 @@
+Olá {customer_name}
+O administrador adicionou uma recompensa a você
+ID de recompensa: R-{id_reward}
+Quantidade: {amount}
+Programa: {program}
+Motivo: {reason}
+Com os melhores cumprimentos

@@ -1,0 +1,7 @@
+Ahoj {customer}
+Byla pro vás vytvořena nová odměna
+Program: {program}
+Odměna za ID: R-{reward_id}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Stav: {status}

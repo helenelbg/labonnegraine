@@ -1,0 +1,5 @@
+Hallo {username},
+Uw aanvraag voor {program} is afgewezen.
+Reden: {reason}
+Bedankt voor uw interesse in ons programma!
+Met vriendelijke groeten.

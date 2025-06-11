@@ -1,0 +1,3 @@
+Hallo {customer}
+Uw beloning R-{reward_id} verloopt over {day} dagen(en) als deze niet wordt gebruikt. We raden je aan om de beloning snel te gebruiken voordat het laat is.
+Met vriendelijke groeten.

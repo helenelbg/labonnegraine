@@ -1,0 +1,9 @@
+Bonjour administrateur,
+Il y a une nouvelle demande de retrait sur le boutique {shop_name}. Veuillez examiner les informations détaillées de cette demande et la traiter:
+ID de retrait: {withdrawal_ID}
+Du client: {customer}
+Montant de retrait: {amount}
+Mode de paiement: {payment_method}
+Date de traitement (estimée): {processed_date}
+{invoice_withdrawal}
+Cordialement.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ets_payment_with_fee</name>
+    <displayName><![CDATA[Payment With Fee]]></displayName>
+    <version><![CDATA[2.4.5]]></version>
+    <description><![CDATA[D&eacute;finissez des frais suppl&eacute;mentaires (une surtaxe) pour tout module de paiement PrestaShop (contre-remboursement, virement bancaire, PayPal, Stripe, etc.) et cr&eacute;ez facilement un nombre illimit&eacute; de moyens de paiement personnalis&eacute;s avec ou sans frais]]></description>
+    <author><![CDATA[PrestaHero]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

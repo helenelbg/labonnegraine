@@ -1,0 +1,3 @@
+Hallo {customer}
+Uw beloning R-{reward_id} is verlopen en kan niet meer worden gebruikt op onze website.
+Met vriendelijke groeten

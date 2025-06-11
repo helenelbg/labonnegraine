@@ -1,0 +1,8 @@
+Hi Admin
+A reward was canceled on:
+Program: {program}
+ID reward: R-{reward_id}
+Reward: {amount}
+Date created: {date_created}
+Date canceled: {date_canceled}
+Note: {note}

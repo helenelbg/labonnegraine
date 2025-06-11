@@ -1,0 +1,3 @@
+﻿id_cmd;email
+220292;ladidi43@hotmail.com
+220294;clementdaniel27@neuf.fr

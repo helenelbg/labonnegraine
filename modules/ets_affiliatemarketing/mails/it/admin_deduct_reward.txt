@@ -1,0 +1,7 @@
+Ciao {customer_name}
+L'amministratore ha detratto una ricompensa dal saldo della ricompensa
+ID ricompensa: S-{id_reward}
+Importo: {amount}
+Programna: {program}
+Motivo: {reason}
+Cordiali saluti,

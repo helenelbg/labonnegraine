@@ -1,0 +1,9 @@
+Hola administrador,
+Hay una nueva solicitud de retiro en la tienda {shop_name}. Por favor revise la información detallada de esta solicitud y procésela:
+ID de retiro: {withdrawal_ID}
+Del cliente: {customer}
+Cantidad de retiro: {amount}
+Método de pago: {payment_method}
+Fecha procesada (estimado): {processed_date}
+{invoice_withdrawal}
+Tuyo sinceramente.

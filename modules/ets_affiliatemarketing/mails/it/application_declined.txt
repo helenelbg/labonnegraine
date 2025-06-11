@@ -1,0 +1,5 @@
+Ciao {username}
+La tua domanda di {program} è stata rifiutata.
+Ragione: {reason}
+Grazie per essere interessati al nostro programma!
+Cordiali saluti.

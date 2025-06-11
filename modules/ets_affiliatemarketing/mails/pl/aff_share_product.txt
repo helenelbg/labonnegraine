@@ -1,0 +1,6 @@
+Cześć {aff_name},
+{customer_name} udostępnił Ci produkt z naszej strony {shop_name}
+Produkt: {name_product}
+Wiadomość do Ciebie: {aff_message}
+Kliknij przycisk poniżej, aby wyświetlić produkt
+Zobacz produkt

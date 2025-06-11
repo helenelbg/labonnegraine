@@ -1,0 +1,3 @@
+Ciao {username}
+{your_friend} ti ha invitato a creare un account sul nostro sito web {shop_name}. Fai clic sul pulsante qui sotto per unirti a noi:
+{link_ref}

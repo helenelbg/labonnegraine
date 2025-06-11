@@ -1,0 +1,6 @@
+Ahoj {aff_name},
+{customer_name} s vámi sdílí produkt z našeho webu {shop_name}
+Produkt: {name_product}
+Zpráva pro vás: {aff_message}
+Kliknutím na tlačítko níže zobrazíte produkt
+Zobrazit produkt

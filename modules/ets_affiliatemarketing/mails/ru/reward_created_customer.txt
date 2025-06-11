@@ -1,0 +1,7 @@
+Привет {customer}
+Для вас создана новая награда
+Программа: {program}
+ID награды: R-{reward_id}
+Награда: {amount}
+Дата создания: {date_created}
+Статус: {status}

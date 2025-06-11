@@ -1,0 +1,6 @@
+Cześć {customer},
+Niestety Twoja prośba o wypłatę została odrzucona. Poniżej znajdują się szczegółowe informacje na temat Twojego żądania wypłaty:
+ID wypłaty: {withdrawal_ID}
+Kwota wypłaty: {amount}
+Forma płatności: {payment_method}
+Z poważaniem.

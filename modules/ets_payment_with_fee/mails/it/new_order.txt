@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Congratulazioni!
+
+Un nuovo ordine è stato effettuato su {shop_name} dal seguente cliente: {firstname} {lastname} ({email})
+
+Dettagli dell'ordine
+
+Ordine: {order_name} Creato il {date}
+
+Pagamento: {payment}
+
+Riferimento	Prodotto    Prezzo unitario	Quantità	Prezzo totale   {items}
+Prodotti	{total_products}
+Sconti	{total_discounts}
+Incartamento di regalo	{total_wrapping}
+Spedizione	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Compreso il totale delle tasse	{total_tax_paid}
+Totale pagato	{total_paid}
+
+Vettore
+
+Vettore: {carrier}
+
+Pagamento: {payment}
+
+Indirizzo di consegna
+
+{delivery_block_html}
+
+Indirizzo di fatturazione
+
+{invoice_block_html}
+
+Messaggio del cliente:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

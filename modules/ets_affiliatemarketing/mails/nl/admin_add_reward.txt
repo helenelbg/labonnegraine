@@ -1,0 +1,7 @@
+Hallo {customer_name}
+Beheerder heeft een beloning aan je toegevoegd
+Belonings-ID: R-{id_reward}
+Bedrag: {amount}
+Programma: {program}
+Reden: {reason}
+Met vriendelijke groeten

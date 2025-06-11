@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tipoftheday>
+<astuces>
+  <astuce key="0">
+    <id>1</id>
+    <name_en>Associate your products to multiple categories</name_en>
+    <intro_en><![CDATA[<p>Did you know that you can associate multiple products to various categories in just a few seconds?</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/659-associating-dissociating-products-to-one-or-more-categories-in-bulk.html</link_en>
+    <video_en>https://vimeo.com/592738199</video_en>
+    <category_en>Categories</category_en>
+    <name_es>Associate your products to multiple categories</name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/659-associating-dissociating-products-to-one-or-more-categories-in-bulk.html</link_es>
+    <video_es>https://vimeo.com/592738199</video_es>
+    <category_es>Categorías</category_es>
+    <name_fr>Associer vos produits à plusieurs catégories</name_fr>
+    <intro_fr><![CDATA[<p>Associer vos produits &agrave; plusieurs cat&eacute;gories en quelques secondes&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-produits-amp-les-declinaisons/659-associer-dissocier-en-masse-des-produits-a-une-ou-plusieurs-categories.html</link_fr>
+    <video_fr>https://vimeo.com/590909930</video_fr>
+    <category_fr>Catégories</category_fr>
+    <category_id>3</category_id>
+  </astuce>
+  <astuce key="1">
+    <id>2</id>
+    <name_en>Replacing images</name_en>
+    <intro_en><![CDATA[<p>You need to replaced images on hundreds of products?</p>
+
+<p>The CSV import will allow you to do this in bulk quickly!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/710-how-can-i-replace-product-images-in-bulk.html</link_en>
+    <video_en></video_en>
+    <category_en>Images</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/710-how-can-i-replace-product-images-in-bulk.html</link_es>
+    <video_es></video_es>
+    <category_es>Imágenes</category_es>
+    <name_fr>Remplacer vos images</name_fr>
+    <intro_fr><![CDATA[<p>Les images d&#39;une gamme de produits doivent &ecirc;tre remplac&eacute;es ?</p>
+
+<p>L&#39;import CSV vous permettra d&#39;effectuer cette modification en masse rapidement !&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/710-mettre-a-jour-remplacer-mes-images-en-masse.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Images</category_fr>
+    <category_id>13</category_id>
+  </astuce>
+  <astuce key="2">
+    <id>3</id>
+    <name_en>Share and activate products on shops</name_en>
+    <intro_en><![CDATA[<p>Share and activate products on your shops in a few clicks</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/multistore-management/794-multistore-adding-activating-multiple-products-on-several-stores-in-1-click.html</link_en>
+    <video_en>https://vimeo.com/676276031</video_en>
+    <category_en>Multistores</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/multistore-management/794-multistore-adding-activating-multiple-products-on-several-stores-in-1-click.html</link_es>
+    <video_es>https://vimeo.com/676276031</video_es>
+    <category_es>Multitienda</category_es>
+    <name_fr>Partager et activer vos produits sur vos boutiques</name_fr>
+    <intro_fr><![CDATA[<p>Partager et activer vos produits sur vos boutiques en quelques clics</p>
+
+<p>&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/la-gestion-multiboutiques/794-multistore-associer-et-activer-les-produits-aux-boutiques.html</link_fr>
+    <video_fr>https://vimeo.com/675935436</video_fr>
+    <category_fr>Multiboutiques</category_fr>
+    <category_id>18</category_id>
+  </astuce>
+  <astuce key="3">
+    <id>4</id>
+    <name_en>Rounding up prices</name_en>
+    <intro_en><![CDATA[<p>Your selling prices are not quite right? See how you can fix this fast using the rounding up options!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/prices-amp-discounts/646-rounding-up-prices.html</link_en>
+    <video_en>https://vimeo.com/668650694</video_en>
+    <category_en>Prices</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/prices-amp-discounts/646-rounding-up-prices.html</link_es>
+    <video_es>https://vimeo.com/668650694</video_es>
+    <category_es>Precios</category_es>
+    <name_fr>Arrondir les prix</name_fr>
+    <intro_fr><![CDATA[<p>Vos prix de ventes ne sont pas tr&egrave;s vendeurs ? Utilisez les options d&#39;arrondi pour afficher des prix psychologiquement corrects sur votre boutique&nbsp;en quelques secondes !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/prix-amp-promotions/646-arrondir-les-prix-produits.html</link_fr>
+    <video_fr>https://vimeo.com/668649330</video_fr>
+    <category_fr>Prix</category_fr>
+    <category_id>20</category_id>
+  </astuce>
+  <astuce key="4">
+    <id>5</id>
+    <name_en>Associate accessories</name_en>
+    <intro_en><![CDATA[<p>Optimize cross-selling&nbsp;by associating accessories to your products in seconds!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/accessories/692-mass-associating-dissociating-accessories-to-products.html</link_en>
+    <video_en></video_en>
+    <category_en>Accessories</category_en>
+    <name_es>Vincular accesorios</name_es>
+    <intro_es><![CDATA[<p>Aumente las ventas cruzadas vinculando los accesorios a sus productos en segundos.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/accesorios/692-vincular-desvincular-en-masa-accesorios-con-productos.html</link_es>
+    <video_es></video_es>
+    <category_es>Accesorios</category_es>
+    <name_fr>Associer les accessoires33</name_fr>
+    <intro_fr><![CDATA[<p>Augmentez les ventes crois&eacute;es en associant des accessoires &agrave; vos produits en quelques secondes !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/accessoires/692-associer-dissocier-en-masse-des-accessoires-aux-produits.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Accessoires</category_fr>
+    <category_id>1</category_id>
+  </astuce>
+  <astuce key="5">
+    <id>6</id>
+    <name_en>Checklist for seamless imports</name_en>
+    <intro_en><![CDATA[<p>Review the&nbsp;import configuration steps on this video!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/catalog-csv-import/837-checklist-for-seamless-imports.html</link_en>
+    <video_en>https://youtu.be/FUNDeiYY5dI</video_en>
+    <category_en>CSV Import</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/catalog-csv-import/837-checklist-for-seamless-imports.html</link_es>
+    <video_es>https://youtu.be/FUNDeiYY5dI</video_es>
+    <category_es>Importación de CSV</category_es>
+    <name_fr>Checklist pour vos imports réussis !</name_fr>
+    <intro_fr><![CDATA[<p>Retrouvez les &eacute;tapes de configuration d&#39;import en images !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/import-csv-catalogue/837-checklist-pour-vos-imports-reussis-.html</link_fr>
+    <video_fr>https://youtu.be/J6YrcKSQ8wc</video_fr>
+    <category_fr>Import CSV</category_fr>
+    <category_id>14</category_id>
+  </astuce>
+  <astuce key="6">
+    <id>7</id>
+    <name_en>Export your complete catalog in a blink of an eye!</name_en>
+    <intro_en><![CDATA[<p>Discover how to export your entire product catalog quickly without overloading your server.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/catalog-csv-export/888-exporting-the-entire-catalog-in-the-blink-of-an-eye.html</link_en>
+    <video_en>https://vimeo.com/666029098</video_en>
+    <category_en>CSV Export</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/catalog-csv-export/888-exporting-the-entire-catalog-in-the-blink-of-an-eye.html</link_es>
+    <video_es>https://vimeo.com/666029098</video_es>
+    <category_es>Exportación de CSV</category_es>
+    <name_fr>Exportez votre catalogue entier en un clin d'oeil !</name_fr>
+    <intro_fr><![CDATA[<p>D&eacute;couvrez comment exporter la totalit&eacute; de votre catalogue produits rapidement sans surcharger votre serveur.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/export-csv-catalogue/888-exporter-la-totalite-d-un-catalogue-en-un-clin-d-oeil.html</link_fr>
+    <video_fr>https://vimeo.com/591059648</video_fr>
+    <category_fr>Export CSV</category_fr>
+    <category_id>9</category_id>
+  </astuce>
+  <astuce key="7">
+    <id>8</id>
+    <name_en>Creating your combinations in Store Commander</name_en>
+    <intro_en><![CDATA[<p>Learn how to create your combinations in a quick and simple manner with Store Commander!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/combinations/695-creating-product-combinations-in-the-interface.html</link_en>
+    <video_en></video_en>
+    <category_en>Combinations</category_en>
+    <name_es>Crear sus combinaciones en Store Commander</name_es>
+    <intro_es><![CDATA[<p>La interfaz de Store Commander le permite crear sus combinaciones de forma r&aacute;pida y sencilla.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/combinaciones/695-crear-combinaciones-de-productos-en-la-interfaz.html</link_es>
+    <video_es></video_es>
+    <category_es>Combinaciones</category_es>
+    <name_fr>Créer vos déclinaisons dans Store Commander</name_fr>
+    <intro_fr><![CDATA[<p>L&#39;interface de Store Commander vous permet de cr&eacute;er vos d&eacute;clinaisons simplement et rapidement.</p>
+
+<p>&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/declinaisons/695-creer-des-declinaisons-produits-dans-l-interface.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Déclinaisons</category_fr>
+    <category_id>6</category_id>
+  </astuce>
+  <astuce key="8">
+    <id>9</id>
+    <name_en><![CDATA[Create your products & combinations by CSV import]]></name_en>
+    <intro_en><![CDATA[<p>Here is the video explaining how you can create hundreds of products and their combinations in bulk using Store Commander&#39;s CSV import tool.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/combinations/883-creating-new-products-with-their-combinations-in-bulk.html</link_en>
+    <video_en>https://youtu.be/gNQ7v0WPAy0</video_en>
+    <category_en>CSV Import</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/combinations/883-creating-new-products-with-their-combinations-in-bulk.html</link_es>
+    <video_es>https://youtu.be/gNQ7v0WPAy0</video_es>
+    <category_es>Importación de CSV</category_es>
+    <name_fr><![CDATA[Créer vos produits &amp; déclinaisons par import CSV]]></name_fr>
+    <intro_fr><![CDATA[<p>Voici la vid&eacute;o qui vous explique&nbsp;comment cr&eacute;er des centaines de produits et leurs d&eacute;clinaisons en masse avec l&#39;import CSV de Store Commander.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/declinaisons/883-creer-des-produits-et-leurs-declinaisons-par-import-csv.html</link_fr>
+    <video_fr>https://youtu.be/vMZdPI0ysvg</video_fr>
+    <category_fr>Import CSV</category_fr>
+    <category_id>14</category_id>
+  </astuce>
+  <astuce key="9">
+    <id>10</id>
+    <name_en>Finding a specific product reference</name_en>
+    <intro_en><![CDATA[<p>You are looking for a specific product reference amongst your hundreds of products in your catalog?</p>
+
+<p>No need to browse all your categories to find it, use the search tool and its filtering options!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/the-interface-amp-its-options/1608-find-a-product-fast-using-sc-search-tool.html</link_en>
+    <video_en>https://youtu.be/gY_nl6zw_8U</video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/the-interface-amp-its-options/1608-find-a-product-fast-using-sc-search-tool.html</link_es>
+    <video_es>https://youtu.be/gY_nl6zw_8U</video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Trouver une référence en particulier</name_fr>
+    <intro_fr><![CDATA[<p>Vous voulez retrouver un produit parmi vos centaines voire milliers de produits dans votre catalogue ?<br />
+Inutile de naviguer parmi toutes vos cat&eacute;gories, utilisez l&#39;outil de recherche et ses options de filtres !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/l-interface-amp-ses-options/1608-trouver-un-produit-rapidement-avec-la-recherche-sc.html</link_fr>
+    <video_fr>https://youtu.be/jOCtuO9InUQ</video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="10">
+    <id>11</id>
+    <name_en>Modifying order status</name_en>
+    <intro_en><![CDATA[<p>Use Sc copy/paste option to modify order status in bulk!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1813-changing-the-status-of-multiple-orders-in-bulk.html</link_en>
+    <video_en>https://vimeo.com/583848643</video_en>
+    <category_en>Orders</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1813-changing-the-status-of-multiple-orders-in-bulk.html</link_es>
+    <video_es>https://vimeo.com/583848643</video_es>
+    <category_es>Pedidos</category_es>
+    <name_fr>Modifier les états de commandes</name_fr>
+    <intro_fr><![CDATA[<p>Le copier/coller de Sc vous permet de modfier en masse les &eacute;tats de commandes !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1813-modifier-letat-dune-commande-en-masse.html</link_fr>
+    <video_fr>https://vimeo.com/540058195</video_fr>
+    <category_fr>Commandes</category_fr>
+    <category_id>5</category_id>
+  </astuce>
+  <astuce key="11">
+    <id>12</id>
+    <name_en>Modifying a product on multiple stores simultaneously</name_en>
+    <intro_en><![CDATA[<p>Do you know how to&nbsp;apply changes onto a product in multiple stores simultaneously!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/multistore-management/791-applying-modifications-made-one-product-onto-several-stores-in-bulk.html</link_en>
+    <video_en>https://vimeo.com/676209011</video_en>
+    <category_en>Multistores</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/multistore-management/791-applying-modifications-made-one-product-onto-several-stores-in-bulk.html</link_es>
+    <video_es>https://vimeo.com/676209011</video_es>
+    <category_es>Multitienda</category_es>
+    <name_fr>Modifier un produit sur plusieurs boutiques simultanément</name_fr>
+    <intro_fr><![CDATA[<p>Savez-vous comment appliquer des&nbsp;modifications&nbsp;produit sur plusieurs boutiques simultan&eacute;ment en une seule manipulation !</p>
+
+<p>&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/la-gestion-multiboutiques/791-multistore-modifier-les-produits-dans-plusieurs-boutiques-simultanement.html</link_fr>
+    <video_fr>https://vimeo.com/673641987</video_fr>
+    <category_fr>Multiboutiques</category_fr>
+    <category_id>18</category_id>
+  </astuce>
+  <astuce key="12">
+    <id>13</id>
+    <name_en><![CDATA[Products & Warehouses]]></name_en>
+    <intro_en><![CDATA[<p>You need to know in which warehouse your product is in?</p>
+
+<p>Open up the Warehouses grid in the Properties column to see which warehouse(s) is ticked.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/828-finding-out-whether-a-product-is-present-in-several-warehouses.html</link_en>
+    <video_en></video_en>
+    <category_en>Warehouses Management</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/828-finding-out-whether-a-product-is-present-in-several-warehouses.html</link_es>
+    <video_es></video_es>
+    <category_es>Stock avanzados y almacenes</category_es>
+    <name_fr><![CDATA[Produits &amp; Entrepôts]]></name_fr>
+    <intro_fr><![CDATA[<p>Vous voulez savoir dans quel entrep&ocirc;t se trouve un produit ?</p>
+
+<p>Affichez la grille des Entrep&ocirc;ts dans la colonne des Propri&eacute;t&eacute;s pour voir quels sont les entrep&ocirc;ts coch&eacute;s.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-stocks-avances-amp-les-entrepots/828-dans-quels-entrepots-se-trouve-mon-produit-.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Gestion des Entrepôts</category_fr>
+    <category_id>12</category_id>
+  </astuce>
+  <astuce key="13">
+    <id>14</id>
+    <name_en>Set up discounts on products in advance!</name_en>
+    <intro_en><![CDATA[<p>Watch this video to find out how to setup your sales and other promotional campaigns in advance very quickly!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/prices-amp-discounts/680-setting-up-a-discount.html</link_en>
+    <video_en>https://youtu.be/r9U9nlVox-o</video_en>
+    <category_en>Discounts</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/prices-amp-discounts/680-setting-up-a-discount.html</link_es>
+    <video_es>https://youtu.be/r9U9nlVox-o</video_es>
+    <category_es>Promociónes</category_es>
+    <name_fr>Préparez vos soldes en avance !</name_fr>
+    <intro_fr><![CDATA[<p>Visionnez la vid&eacute;o pour savoir comment mettre en place vos soldes et autres campagnes promotionnelles &agrave; l&#39;avance tr&egrave;s rapidement !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/prix-amp-promotions/680-creer-une-promotion-rapidement-avec-store-commander.html</link_fr>
+    <video_fr>https://youtu.be/Os0pkr200rg</video_fr>
+    <category_fr>Promotions</category_fr>
+    <category_id>22</category_id>
+  </astuce>
+  <astuce key="14">
+    <id>15</id>
+    <name_en>Online Products</name_en>
+    <intro_en><![CDATA[<p>To find out what the disabled products are on your store, use the filtering tool on the &#39;Active&#39; column on all your products.</p>
+]]></intro_en>
+    <link_en></link_en>
+    <video_en></video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es></link_es>
+    <video_es></video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Produits en ligne</name_fr>
+    <intro_fr><![CDATA[<p>Pour savoir quels sont les produits d&eacute;sactiv&eacute;s sur votre boutique, utilisez le filtre de la colonne &#39;Actif&#39; sur tous les produits.</p>
+]]></intro_fr>
+    <link_fr></link_fr>
+    <video_fr></video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="15">
+    <id>16</id>
+    <name_en>Unreadable product descriptions</name_en>
+    <intro_en><![CDATA[<p>A colored background is making your descriptions unreadable in Store Commander?</p>
+
+<p>Simply disable the use of your global.css in your descriptions!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/descriptions/700-disabling-the-background-color-in-store-commander-s-descriptions.html</link_en>
+    <video_en></video_en>
+    <category_en>Descriptions</category_en>
+    <name_es>Sus descripciones son ilegibles</name_es>
+    <intro_es><![CDATA[<p>&iquest;Sus descripciones en Store Commander son ilegibles debido al color de fondo que aparece en la ventana?</p>
+
+<p>Desactive el uso del archivo global.css en sus descripciones.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/descripciones/700-desactivar-el-color-de-fondo-de-los-editores-de-texto-de-store-commander.html</link_es>
+    <video_es></video_es>
+    <category_es>Descripciones</category_es>
+    <name_fr>Descriptions produits illisibles</name_fr>
+    <intro_fr><![CDATA[<p>Vos descriptions dans Store Commander&nbsp;sont illisibles &agrave; cause d&#39;une couleur de fond affich&eacute;e dans la fen&ecirc;tre ?</p>
+
+<p>D&eacute;sactivez l&#39;utilisation du fichier global.css dans vos descriptions !</p>
+]]></intro_fr>
+    <link_fr><![CDATA[https://www.storecommander.com/support/fr/descriptions/700-desactiver-la-couleur-de-fond-des-editeurs-de-texte-de-store-commander.html?search_query=css&results=4]]></link_fr>
+    <video_fr></video_fr>
+    <category_fr>Descriptions</category_fr>
+    <category_id>7</category_id>
+  </astuce>
+  <astuce key="16">
+    <id>17</id>
+    <name_en>Modifying the number of customers to display</name_en>
+    <intro_en><![CDATA[<p>By default, Store Commander displays a maximum of 100 customers in its Customers interface.</p>
+
+<p>You can modify this value by going to Tools &gt; Settings &gt; Customers &gt; maximum customers displayed</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/customer-management/740-number-of-customers-displayed-in-the-interface.html</link_en>
+    <video_en></video_en>
+    <category_en>Customers Management</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/customer-management/740-number-of-customers-displayed-in-the-interface.html</link_es>
+    <video_es></video_es>
+    <category_es>Clientes</category_es>
+    <name_fr>Modifier le nombre de clients affichés</name_fr>
+    <intro_fr><![CDATA[<p>Par d&eacute;faut, Store Commander affiche un maximum de 100 clients dans son interface Clients.</p>
+
+<p>Vous pouvez modifier cette valeur depuis Outils &gt; Pr&eacute;f&eacute;rences &gt; Clients &gt; Nombre max de clients affich&eacute;s</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-clients/740-modifier-le-nombre-de-clients-affiches-dans-store-commander.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Gestion des Clients</category_fr>
+    <category_id>11</category_id>
+  </astuce>
+  <astuce key="17">
+    <id>18</id>
+    <name_en>Changing the interfaces language</name_en>
+    <intro_en><![CDATA[<p>Did you know that you could display your catalog or even the complete Store Commander&#39;s interface in various languages?</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/top-10-qampa/617-modifying-the-language-of-store-commander-s-interface.html</link_en>
+    <video_en></video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/top-10-qampa/617-modifying-the-language-of-store-commander-s-interface.html</link_es>
+    <video_es></video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Modifier la langue de l'interfacebb</name_fr>
+    <intro_fr><![CDATA[<p>Saviez-vous que vous pouviez afficher les donn&eacute;es de votre catalogue&nbsp;ou bien m&ecirc;me toute l&#39;interface Store Commander en langues diff&eacute;rentes ?&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/top-10-questions-reponses/617-modifier-la-langue-de-l-interface-store-commander.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="18">
+    <id>19</id>
+    <name_en><![CDATA[Views & grids in Store Commander]]></name_en>
+    <intro_en><![CDATA[<p>Choose your&nbsp;default&nbsp;views and grids to be displayed when launching Store Commander in Tools &gt; Settings</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/the-interface-amp-its-options/1534-choosing-your-default-view.html</link_en>
+    <video_en></video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/the-interface-amp-its-options/1534-choosing-your-default-view.html</link_es>
+    <video_es></video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr><![CDATA[Vues & Grilles de Store Commander]]></name_fr>
+    <intro_fr><![CDATA[<p>Choisissez vos vues et vos grilles par d&eacute;faut &agrave; l&#39;ouverture de Store Commander dans les Pr&eacute;f&eacute;rences (Outils&gt;Pr&eacute;f&eacute;rences)</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/l-interface-amp-ses-options/1534-modifier-les-grilles-par-defaut.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="19">
+    <id>20</id>
+    <name_en>Deleting your discount prices</name_en>
+    <intro_en><![CDATA[<p>Delete discount prices in bulk very quickly via the Specific Prices window.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/663-deleting-discount-prices.html</link_en>
+    <video_en></video_en>
+    <category_en>Discounts</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/663-deleting-discount-prices.html</link_es>
+    <video_es></video_es>
+    <category_es>Promociónes</category_es>
+    <name_fr>Supprimer vos promotions</name_fr>
+    <intro_fr><![CDATA[<p>Supprimez&nbsp;vos promotions en masse rapidement avec la fen&ecirc;tre d&eacute;di&eacute;e aux prix sp&eacute;ciaux.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/663-supprimer-vos-promotions.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Promotions</category_fr>
+    <category_id>22</category_id>
+  </astuce>
+  <astuce key="20">
+    <id>21</id>
+    <name_en>Deleting duplicated attributes</name_en>
+    <intro_en><![CDATA[<p>Deleting&nbsp;duplicated combinations attributes has never been so easy!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1805-merging-duplicated-combination-attributes.html</link_en>
+    <video_en>https://vimeo.com/583818579</video_en>
+    <category_en>Combinations</category_en>
+    <name_es>Eliminar atributos duplicados</name_es>
+    <intro_es><![CDATA[<p>Eliminar los atributos duplicados de las variaciones sin modificar los productos nunca ha sido tan f&aacute;cil.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1805-merging-duplicated-combination-attributes.html</link_es>
+    <video_es>https://vimeo.com/583818579</video_es>
+    <category_es>Combinaciones</category_es>
+    <name_fr>Supprimer les doublons d'attributs</name_fr>
+    <intro_fr><![CDATA[<p>Supprimer les doublons d&#39;attributs de d&eacute;clinaisons sans modifier les produits n&#39;a jamais &eacute;t&eacute; si simple !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1805-fusionner-les-attributs-de-declinaison-en-doublon.html</link_fr>
+    <video_fr>https://vimeo.com/515235803</video_fr>
+    <category_fr>Déclinaisons</category_fr>
+    <category_id>6</category_id>
+  </astuce>
+  <astuce key="21">
+    <id>22</id>
+    <name_en>Associate images to combinations in bulk</name_en>
+    <intro_en><![CDATA[<p>Watch how you can associate multiple images to multiple combinations in just seconds!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/images/691-mass-associating-images-to-multiple-combinations.html</link_en>
+    <video_en></video_en>
+    <category_en>Images</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/images/691-mass-associating-images-to-multiple-combinations.html</link_es>
+    <video_es></video_es>
+    <category_es>Imágenes</category_es>
+    <name_fr>Associer en masse des images à plusieurs déclinaisons</name_fr>
+    <intro_fr><![CDATA[<p>D&eacute;couvrez comment associer&nbsp;plusieurs images &agrave; plusieurs d&eacute;clinaisons en quelques secondes !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/images/691-associer-en-masse-des-images-a-plusieurs-declinaisons.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Images</category_fr>
+    <category_id>13</category_id>
+  </astuce>
+  <astuce key="22">
+    <id>23</id>
+    <name_en>Users Permissions</name_en>
+    <intro_en><![CDATA[<p>Watch this introduction video to see how you can manage users permissions with Store Commander</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/installation/612-managing-users-permissions-in-store-commander.html</link_en>
+    <video_en>https://youtu.be/jex780_b9Dw</video_en>
+    <category_en>Permissions</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/installation/612-managing-users-permissions-in-store-commander.html</link_es>
+    <video_es>https://youtu.be/jex780_b9Dw</video_es>
+    <category_es>Permisos</category_es>
+    <name_fr>Permissions Utilisateurs</name_fr>
+    <intro_fr><![CDATA[<p>Visionnez la vid&eacute;o pour savoir comment&nbsp;g&eacute;rer les permissions utilisateurs avec Store Commander.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/installation/612-gestion-des-permissions-utilisateurs-dans-store-commander.html</link_fr>
+    <video_fr>https://youtu.be/l4JbPcHyDQM</video_fr>
+    <category_fr>Permissions</category_fr>
+    <category_id>19</category_id>
+  </astuce>
+  <astuce key="23">
+    <id>24</id>
+    <name_en>Search Engine</name_en>
+    <intro_en><![CDATA[<p>Optimize your search engine by creating and associating tags to your products in just a few clicks!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/706-managing-tags-with-store-commander.html</link_en>
+    <video_en></video_en>
+    <category_en>Tags</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/706-managing-tags-with-store-commander.html</link_es>
+    <video_es></video_es>
+    <category_es>Tags</category_es>
+    <name_fr>Moteur de recherche</name_fr>
+    <intro_fr><![CDATA[<p>Optimisez votre moteur de recherche en cr&eacute;ant et associant des tags &agrave; vos produits en quelques clicks !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/706-gestion-des-tags-avec-store-commander.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Tags</category_fr>
+    <category_id>23</category_id>
+  </astuce>
+  <astuce key="24">
+    <id>25</id>
+    <name_en>Stock updates in Warehouses</name_en>
+    <intro_en><![CDATA[<p>Use the CSV import tool to update the stock of your products and combinations in specific warehouses in bulk fast!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/816-updating-stocks-per-warehouse-in-bulk.html</link_en>
+    <video_en></video_en>
+    <category_en>Warehouses Management</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/816-updating-stocks-per-warehouse-in-bulk.html</link_es>
+    <video_es></video_es>
+    <category_es>Stock avanzados y almacenes</category_es>
+    <name_fr>Mise à jour de stocks dans les entrepôts</name_fr>
+    <intro_fr><![CDATA[<p>Utilisez l&#39;import CSV pour mettre &agrave; jour le stock&nbsp;de vos produits et d&eacute;clinaisons dans des entrep&ocirc;ts sp&eacute;cifiques en masse rapidement !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-stocks-avances-amp-des-entrepots/816-mettre-a-jour-les-quantites-produits-declinaisons-par-entrepot-en-masse.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Gestion des Entrepôts</category_fr>
+    <category_id>12</category_id>
+  </astuce>
+  <astuce key="25">
+    <id>26</id>
+    <name_en>Store Commander on the iPad</name_en>
+    <intro_en><![CDATA[<p>A modification to make urgently? From your sofa or your warehouse?</p>
+
+<p>Store Commander allows you to browse and quickly modify information on your store from your touchscreen tablet.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/faq-a-question-we-have-the-answer/1115-store-commander-on-ipad.html</link_en>
+    <video_en></video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/faq-a-question-we-have-the-answer/1115-store-commander-on-ipad.html</link_es>
+    <video_es></video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Store Commander sur votre iPad</name_fr>
+    <intro_fr><![CDATA[<p>Une modification &agrave; faire en urgence ? Depuis votre canap&eacute; ou au fond de votre entrep&ocirc;t ? Store Commander permet de naviguer et modifier rapidement l&#39;information sur votre boutique sur votre tablette tactile.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/faq-une-question-nous-avons-la-reponse-/1115-store-commander-sur-ipad.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="26">
+    <id>27</id>
+    <name_en>Modifying the order of products in categories</name_en>
+    <intro_en><![CDATA[<p>Reorganize the order of your&nbsp;products in their&nbsp;categories in a very simple manner.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1851-organizing-the-order-of-products-in-big-categories.html</link_en>
+    <video_en>https://vimeo.com/587824066</video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1851-organizing-the-order-of-products-in-big-categories.html</link_es>
+    <video_es>https://vimeo.com/587824066</video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Modifier l'ordre des produits dans les catégories</name_fr>
+    <intro_fr><![CDATA[<p>Modifiez l&#39;ordre de vos&nbsp;produits dans chacune de leur cat&eacute;gorie simplement.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1851-organisez-l-ordre-des-produits-dans-de-grandes-categories.html</link_fr>
+    <video_fr>https://vimeo.com/540030203</video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="27">
+    <id>28</id>
+    <name_en>Filtering Orders</name_en>
+    <intro_en><![CDATA[<p>Use the filtering tools to make order management easy</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1804-filtering-orders.html</link_en>
+    <video_en>https://vimeo.com/585349132</video_en>
+    <category_en>Orders</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1804-filtering-orders.html</link_es>
+    <video_es>https://vimeo.com/585349132</video_es>
+    <category_es>Pedidos</category_es>
+    <name_fr>Filtrer vos commandes</name_fr>
+    <intro_fr><![CDATA[<p>Utiliez les outils de filtres pour faciliter la gestion de vos commandes</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1804-filtrer-les-commandes.html</link_fr>
+    <video_fr>https://vimeo.com/515241662</video_fr>
+    <category_fr>Commandes</category_fr>
+    <category_id>5</category_id>
+  </astuce>
+  <astuce key="28">
+    <id>29</id>
+    <name_en>Display all products associated to the same supplier</name_en>
+    <intro_en><![CDATA[<p>Use the filtering tool to display all products associated to a specific supplier in seconds!</p>
+]]></intro_en>
+    <link_en></link_en>
+    <video_en></video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es></link_es>
+    <video_es></video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Afficher tous les produits d'un même fournisseur</name_fr>
+    <intro_fr><![CDATA[<p>Utilisez le filtre fournisseur pour afficher tous les produits associ&eacute;s rapidement !</p>
+]]></intro_fr>
+    <link_fr></link_fr>
+    <video_fr></video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="29">
+    <id>30</id>
+    <name_en>Products Features Order</name_en>
+    <intro_en><![CDATA[<p>Did you know that you can set the display order of products features on your store?</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/features/712-changing-the-display-order-of-products-features-on-product-pages.html</link_en>
+    <video_en></video_en>
+    <category_en>Features</category_en>
+    <name_es>Orden de las características de los productos</name_es>
+    <intro_es><![CDATA[<p>&iquest;Sab&iacute;a que puede decidir el orden en que se muestran las caracter&iacute;sticas en las fichas de los productos?</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/caracteristicas/712-modificarel-orden-de-visualizacion-de-las-caracteristicas-en-las-fichas-de-producto.html</link_es>
+    <video_es></video_es>
+    <category_es>Características</category_es>
+    <name_fr>Ordre des caractéristiques produits</name_fr>
+    <intro_fr><![CDATA[<p>Saviez-vous que vous pouviez d&eacute;cider de l&#39;ordre d&#39;affichage des caract&eacute;ristiques sur les fiches produits ?</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/caracteristiques/712-modifier-l-ordre-d-affichage-des-caracteristiques-sur-les-fiches-produits.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Caractéristiques</category_fr>
+    <category_id>2</category_id>
+  </astuce>
+  <astuce key="30">
+    <id>31</id>
+    <name_en>Open a new tab quickly</name_en>
+    <intro_en><![CDATA[<p>CTRL + Clic on Catalog, Orders or Customer menu&nbsp;to open the chosen interface in a new tab automatically</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1802-do-you-need-to-swap-from-the-catalog-to-the-order-interface-without-loosing-what-you-were-doing.html</link_en>
+    <video_en>https://vimeo.com/586187544</video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1802-do-you-need-to-swap-from-the-catalog-to-the-order-interface-without-loosing-what-you-were-doing.html</link_es>
+    <video_es>https://vimeo.com/586187544</video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Ouvrir un nouvel onglet simplement</name_fr>
+    <intro_fr><![CDATA[<p>CRTL + clic sur le&nbsp;menu&nbsp;Catalogue,&nbsp;Commandes&nbsp;ou Clients pour ouvrir l&#39;interface dans un&nbsp;nouvel onglet&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1802-besoin-de-basculer-de-linterface-catalogue-a-la-gestion-des-commandes-sans-perdre-votre-travail-.html</link_fr>
+    <video_fr>https://vimeo.com/515193751</video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="31">
+    <id>32</id>
+    <name_en>Searching for descriptions keywords</name_en>
+    <intro_en><![CDATA[<p>Enable the Descriptions view to use the filtering tool to look for keywords in descriptions.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1812-searching-and-modifiying-descriptions-using-the-word-discount-.html</link_en>
+    <video_en>https://vimeo.com/586194280</video_en>
+    <category_en>Descriptions</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1812-searching-and-modifiying-descriptions-using-the-word-discount-.html</link_es>
+    <video_es>https://vimeo.com/586194280</video_es>
+    <category_es>Descripciones</category_es>
+    <name_fr>Recherche de mots clés de descriptions</name_fr>
+    <intro_fr><![CDATA[<p>Affichez la vue Descriptions pour utiliser les filtres qui vous permettront de rechercher les mots cl&eacute;s utilis&eacute;s.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1812-chercher-et-corriger-les-descriptions-contenant-le-mot-solde-.html</link_fr>
+    <video_fr>https://vimeo.com/540035504</video_fr>
+    <category_fr>Descriptions</category_fr>
+    <category_id>7</category_id>
+  </astuce>
+  <astuce key="32">
+    <id>33</id>
+    <name_en>Customizing the export mapping</name_en>
+    <intro_en><![CDATA[<p>Generate a CSV file that matches your needs using the customization options.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/catalog-csv-export/1000-customizing-your-export-mapping.html</link_en>
+    <video_en></video_en>
+    <category_en>CSV Export</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/catalog-csv-export/1000-customizing-your-export-mapping.html</link_es>
+    <video_es></video_es>
+    <category_es>Exportación de CSV</category_es>
+    <name_fr>Personnaliser le mapping d'export</name_fr>
+    <intro_fr><![CDATA[<p>G&eacute;n&eacute;rez un fichier CSV d&#39;export sp&eacute;cifique &agrave; vos besoins avec les options de personnalisation.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/export-csv-catalogue/1000-personnaliser-le-mapping-d-export.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Export CSV</category_fr>
+    <category_id>9</category_id>
+  </astuce>
+  <astuce key="33">
+    <id>34</id>
+    <name_en>Associate a specific manufacturer automatically</name_en>
+    <intro_en><![CDATA[<p>Associate&nbsp;a specific manufacturer automatically when creating products with Store Commander.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/723-associating-a-specific-manufacturer-when-creating-new-products-by-default.html</link_en>
+    <video_en></video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/723-associating-a-specific-manufacturer-when-creating-new-products-by-default.html</link_es>
+    <video_es></video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Associer le fabricant automatiquement</name_fr>
+    <intro_fr><![CDATA[<p>Associez&nbsp;un fabricant sp&eacute;cifique automatiquement lorsque vous cr&eacute;ez vos produits gr&acirc;ce &agrave; l&#39;option Store Commander.&nbsp;</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/723-associer-automatiquement-un-fabricant-specifique-lors-de-la-creation-de-nouveaux.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="34">
+    <id>35</id>
+    <name_en>Increase prices in seconds</name_en>
+    <intro_en><![CDATA[<p>One of your supplier is increasing the prices and you need to reflect this price rise on associated products in your catalog?</p>
+
+<p>No need to panic! Watch how you can apply the changes in just a few clicks!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/manufacturers/654-increasing-product-prices-of-a-specific-supplier.html</link_en>
+    <video_en>https://vimeo.com/668655301</video_en>
+    <category_en>Prices</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/manufacturers/654-increasing-product-prices-of-a-specific-supplier.html</link_es>
+    <video_es>https://vimeo.com/668655301</video_es>
+    <category_es>Precios</category_es>
+    <name_fr>Augmenter les prix en quelques secondes</name_fr>
+    <intro_fr><![CDATA[<p>Un de vos fournisseurs augmentent ses tarifs et vous devez r&eacute;percuter cette hausse sur les produits associ&eacute;s ?</p>
+
+<p>Pas de panique ! Regardez comment appliquer cette modification en quelques clics !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/fabricants-marques/654-augmenter-les-prix-des-produits-d-un-meme-fabricant.html</link_fr>
+    <video_fr>https://vimeo.com/668656935</video_fr>
+    <category_fr>Prix</category_fr>
+    <category_id>20</category_id>
+  </astuce>
+  <astuce key="35">
+    <id>36</id>
+    <name_en>Synchronize the postions of your categories</name_en>
+    <intro_en><![CDATA[<p>When working in <strong>multistore</strong> mode and re-arranging the order of your categories, no need to repeat the process on each store, use the synchronization option.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/multistore-management/799-multistore-synchronizing-the-categories-positions-with-multiple-stores-in-seconds.html</link_en>
+    <video_en></video_en>
+    <category_en>Categories</category_en>
+    <name_es>Sincronize el orden de sus categorías</name_es>
+    <intro_es><![CDATA[<p>Si est&aacute; trabajando en modo multitienda y est&aacute; reorganizando el orden de sus categor&iacute;as, no haga las mismas manipulaciones en cada tienda, utilice la opci&oacute;n de sincronizaci&oacute;n.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/gestion-multitienda/799-multitiendas-sincronizar-las-posiciones-de-las-categorias-de-sus-tiendas-en-un-abrir-y-cerrar-de-ojos.html</link_es>
+    <video_es></video_es>
+    <category_es>Categorías</category_es>
+    <name_fr>Synchronisez l'ordre de vos catégories</name_fr>
+    <intro_fr><![CDATA[<p>Si vous travaillez en mode <strong>multiboutiques</strong> et que vous r&eacute;organisez l&#39;ordre de vos cat&eacute;gories, ne faites pas les m&ecirc;mes manipulations sur chaque boutique, utilisez l&#39;option de synchronisation.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/la-gestion-multiboutiques/799-multistore-synchroniser-les-positions-des-categories-de-vos-boutiques.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Catégories</category_fr>
+    <category_id>3</category_id>
+  </astuce>
+  <astuce key="36">
+    <id>37</id>
+    <name_en>Run your exports automatically</name_en>
+    <intro_en><![CDATA[<p>Export and update&nbsp;your products on marketplaces automatically with a CRON task!</p>
+]]></intro_en>
+    <link_en><![CDATA[https://www.storecommander.com/support/en/catalog-csv-export/885-automating-exports-with-a-cron-task.html?search_query=cron&results=16]]></link_en>
+    <video_en></video_en>
+    <category_en>CSV Export</category_en>
+    <name_es>Automatice sus exportaciones</name_es>
+    <intro_es><![CDATA[<p>Exporte a marketplaces y automatice sus exportaciones con una tarea CRON.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/exportacion-catalogo-csv/885-automatizar-las-exportaciones-csv-con-una-tarea-cron.html</link_es>
+    <video_es></video_es>
+    <category_es>Exportación de CSV</category_es>
+    <name_fr>Automatisez vos exports</name_fr>
+    <intro_fr><![CDATA[<p>Exportez sur les places de march&eacute;s et automatisez vos exports avec une t&acirc;che CRON !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/export-csv-catalogue/885-automatiser-les-exports-csv-avec-une-tache-cron.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Export CSV</category_fr>
+    <category_id>9</category_id>
+  </astuce>
+  <astuce key="37">
+    <id>38</id>
+    <name_en>Where is my product?</name_en>
+    <intro_en><![CDATA[<p>Find out quickly in which category(s) your product is associated to using the filtering option in the Categories grid.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/category-management/635-how-do-i-know-which-category-my-product-is-listed-under.html</link_en>
+    <video_en></video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/category-management/635-how-do-i-know-which-category-my-product-is-listed-under.html</link_es>
+    <video_es></video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Où se trouve mon produit ?</name_fr>
+    <intro_fr><![CDATA[<p>Retrouvez rapidement dans quelle(s) cat&eacute;gorie(s) se trouve un produit avec l&#39;outil de filtre de la grille des cat&eacute;gories.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-categories/635-dans-quelles-categories-se-trouve-mon-produit-.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="38">
+    <id>39</id>
+    <name_en>Add the same image onto multiple products</name_en>
+    <intro_en><![CDATA[<p>If you need to add the same image onto multiple products, no need to repeat the same steps for each product.&nbsp;Select the products, add the image and it&#39;s&nbsp;done!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/684-adding-the-same-image-on-multiple-products-in-the-interface.html</link_en>
+    <video_en></video_en>
+    <category_en>Images</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/684-adding-the-same-image-on-multiple-products-in-the-interface.html</link_es>
+    <video_es></video_es>
+    <category_es>Imágenes</category_es>
+    <name_fr>Ajouter la même image à plusieurs produits</name_fr>
+    <intro_fr><![CDATA[<p>Si vous souhaitez ajouter la m&ecirc;me image &agrave; plusieurs produits, inutile de faire la m&ecirc;me manipulation pour chacun des produits.&nbsp;S&eacute;lectionnez, ajoutez, c&#39;est fait !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/684-ajouter-la-meme-image-sur-plusieurs-produits-dans-l-interface.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Images</category_fr>
+    <category_id>13</category_id>
+  </astuce>
+  <astuce key="39">
+    <id>40</id>
+    <name_en>Add or modify your customers data in bulk</name_en>
+    <intro_en><![CDATA[<p>Use Store Commander&#39;s Customers CSV Import to create or modify your customers data quickly.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/customer-management/748-managing-customers-in-bulk-by-csv-import.html</link_en>
+    <video_en></video_en>
+    <category_en>Customers Management</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/customer-management/748-managing-customers-in-bulk-by-csv-import.html</link_es>
+    <video_es></video_es>
+    <category_es>Clientes</category_es>
+    <name_fr>Ajoutez et modifiez les données clients en masse</name_fr>
+    <intro_fr><![CDATA[<p>Utilisez l&#39;import CSV Clients de Store Commander pour cr&eacute;er ou modifier votre base clients en masse.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-clients/748-import-csv-clients-creer-modifier-des-clients-en-masse.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Gestion des Clients</category_fr>
+    <category_id>11</category_id>
+  </astuce>
+  <astuce key="40">
+    <id>41</id>
+    <name_en>Sell out-of-stock and obsolete products faster!</name_en>
+    <intro_en><![CDATA[<p>Check out how you can sell old products faster&nbsp; with this tip :)</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/656-selling-out-of-stock-and-obsolete-products-faster.html</link_en>
+    <video_en></video_en>
+    <category_en>Products</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/656-selling-out-of-stock-and-obsolete-products-faster.html</link_es>
+    <video_es></video_es>
+    <category_es>Productos</category_es>
+    <name_fr>Vendez vos produits en déstockage plus vite !</name_fr>
+    <intro_fr><![CDATA[<p>D&eacute;couvrez comment vendre vos anciens produits rapidement gr&acirc;ce &agrave; cette astuce&nbsp;:)</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/656-vendez-vos-produits-en-destockage-plus-vite-.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Produits</category_fr>
+    <category_id>21</category_id>
+  </astuce>
+  <astuce key="41">
+    <id>42</id>
+    <name_en>Replace attachments quickly</name_en>
+    <intro_en><![CDATA[<p>You have modified the contents of a document and you need to update it quickly without having to delete and reload the new version?&nbsp;</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/1046-replacing-attachments-quickly.html</link_en>
+    <video_en></video_en>
+    <category_en>Attachments</category_en>
+    <name_es>Reemplace sus documentos adjuntos rápidamente</name_es>
+    <intro_es><![CDATA[<p>&iquest;Ha modificado el contenido de un documento adjunto y quiere actualizarlo en Store Commander r&aacute;pidamente?</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/los-productos-amp-las-combinaciones/1046-sustituir-los-documentos-adjuntos-rapidamente.html</link_es>
+    <video_es></video_es>
+    <category_es>Documentos adjuntos</category_es>
+    <name_fr>Remplacez vos documents joints rapidement</name_fr>
+    <intro_fr><![CDATA[<p>Vous avez modifi&eacute; le contenu d&#39;un document joint et souhaitez le mettre &agrave; jour dans Store Commander rapidement ?</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-produits-amp-les-declinaisons/1046-remplacer-les-documents-joints-rapidement.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Documents joints</category_fr>
+    <category_id>8</category_id>
+  </astuce>
+  <astuce key="42">
+    <id>43</id>
+    <name_en>Too many duplicated features?</name_en>
+    <intro_en><![CDATA[<p>No need to worry, with the merge option, you can tidy up product features in no time!&nbsp;</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/features/1047-deleting-duplicated-feature-values.html</link_en>
+    <video_en></video_en>
+    <category_en>Features</category_en>
+    <name_es>¿Demasiadas características duplicadas?</name_es>
+    <intro_es><![CDATA[<p>No se preocupe, con la opci&oacute;n de fusi&oacute;n, puede limpiar sus caracter&iacute;sticas en un instante.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/caracteristicas/1047-suprimir-los-duplicados-de-caracteristicas.html</link_es>
+    <video_es></video_es>
+    <category_es>Características</category_es>
+    <name_fr>Trop de caractéristiques en double ?</name_fr>
+    <intro_fr><![CDATA[<p>Pas de souci, avec l&#39;option de fusion, vous pouvez faire le m&eacute;nage dans vos caract&eacute;ristiques en un clin d&#39;oeil !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/caracteristiques/1047-supprimer-les-doublons-de-caracteristiques.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Caractéristiques</category_fr>
+    <category_id>2</category_id>
+  </astuce>
+  <astuce key="43">
+    <id>44</id>
+    <name_en>Take part in making your e-merchant job evolve</name_en>
+    <intro_en><![CDATA[<p>Share your data (non-personal nor financial) to take part in setting up e-commerce Trends and so that we can provide you with&nbsp;a very precise monitoring tool for your business.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/e-commerce-trends/1056-the-trends-project.html</link_en>
+    <video_en></video_en>
+    <category_en>Trends</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/e-commerce-trends/1056-the-trends-project.html</link_es>
+    <video_es></video_es>
+    <category_es>Tendencias</category_es>
+    <name_fr>Participez à l'évolution de votre métier de e-commerçant</name_fr>
+    <intro_fr><![CDATA[<p>Partagez vos donn&eacute;es (non nominatives ni financi&egrave;res) pour collarorer&nbsp;aux&nbsp;Tendances e-commerce et mettre &agrave; disposition un outil de veille pr&eacute;cis en lien avec votre activit&eacute;.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/tendances-e-commerce/1056-le-projet-tendances-e-commerce.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Tendances</category_fr>
+    <category_id>24</category_id>
+  </astuce>
+  <astuce key="44">
+    <id>45</id>
+    <name_en>Checklist for your CSV exports</name_en>
+    <intro_en><![CDATA[<p>Check al your settings to run successful CSV exports first time round!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/catalog-csv-export/1094-checklist-for-your-csv-exports.html</link_en>
+    <video_en></video_en>
+    <category_en>CSV Export</category_en>
+    <name_es>Checklist para sus exportaciones de CSV</name_es>
+    <intro_es><![CDATA[<p>Compruebe todos los ajustes para que sus exportaciones de CSV sean correctas a la primera.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/exportacion-catalogo-csv/1094-checklist-para-sus-exportaciones-de-csv.html</link_es>
+    <video_es></video_es>
+    <category_es>Exportación de CSV</category_es>
+    <name_fr>Checklist pour vos exports CSV</name_fr>
+    <intro_fr><![CDATA[<p>V&eacute;rifiez tous les param&egrave;tres pour r&eacute;ussir vos exports CSV du premier coup !</p>
+]]></intro_fr>
+    <link_fr><![CDATA[https://www.storecommander.com/support/fr/export-csv-catalogue/1094-checklist-pour-vos-exports-csv.html?search_query=checklist&results=3]]></link_fr>
+    <video_fr></video_fr>
+    <category_fr>Export CSV</category_fr>
+    <category_id>9</category_id>
+  </astuce>
+  <astuce key="45">
+    <id>46</id>
+    <name_en>Manage your CMS pages in bulk</name_en>
+    <intro_en><![CDATA[<p>Did you know that you could manage your CMS pages from the CMS menu on Sc main toolbar?</p>
+]]></intro_en>
+    <link_en></link_en>
+    <video_en></video_en>
+    <category_en>CMS</category_en>
+    <name_es>Es - sdfsdqfsdfsfs</name_es>
+    <intro_es></intro_es>
+    <link_es></link_es>
+    <video_es></video_es>
+    <category_es>CMS</category_es>
+    <name_fr>Gérez vos pages CMS en masse</name_fr>
+    <intro_fr><![CDATA[<p>Saviez-vous que vous pouviez g&eacute;rer vos pages CMS depuis le menu CMS de la barre d&#39;outils principale de Sc ?</p>
+]]></intro_fr>
+    <link_fr></link_fr>
+    <video_fr></video_fr>
+    <category_fr>CMS</category_fr>
+    <category_id>4</category_id>
+  </astuce>
+  <astuce key="46">
+    <id>47</id>
+    <name_en>Setup discount prices for specific customers</name_en>
+    <intro_en><![CDATA[<p>Setup a discount on a product for a specific customer directly in Store Commander interface!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/product-amp-combination-management/1084-specific-prices-per-customer.html</link_en>
+    <video_en></video_en>
+    <category_en>Discounts</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/product-amp-combination-management/1084-specific-prices-per-customer.html</link_es>
+    <video_es></video_es>
+    <category_es>Promociónes</category_es>
+    <name_fr>Créez des prix réduits pour des clients spécifiques</name_fr>
+    <intro_fr><![CDATA[<p>Mettez en place une promotion sur un produit pour un client sp&eacute;cifique directement dans Store Commander !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-produits-declinaisons/1084-prix-speciaux-par-client.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Promotions</category_fr>
+    <category_id>22</category_id>
+  </astuce>
+  <astuce key="47">
+    <id>49</id>
+    <name_en>Cancelling a modification within SC History</name_en>
+    <intro_en><![CDATA[<p>Accessible from Tools menu, the History panel allows you to cancel a modification.</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/the-interface-amp-its-options/1123-cancelling-a-modification.html</link_en>
+    <video_en></video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/the-interface-amp-its-options/1123-cancelling-a-modification.html</link_es>
+    <video_es></video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Annuler une modification grâce à l'historique</name_fr>
+    <intro_fr><![CDATA[<p>Accessible depuis le menu Outils, l&#39;historique permet d&#39;annuler une modification.</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/l-interface-amp-ses-options/1123-annuler-une-modification.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+  <astuce key="48">
+    <id>50</id>
+    <name_en>Setting up discount prices on combinations</name_en>
+    <intro_en><![CDATA[<p>Applying discount on specific combinations has never been so easy!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/prices/697-setting-up-specific-prices-on-combinations.html</link_en>
+    <video_en></video_en>
+    <category_en>Discounts</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/prices/697-setting-up-specific-prices-on-combinations.html</link_es>
+    <video_es></video_es>
+    <category_es>Promociónes</category_es>
+    <name_fr>Créez des prix réduits sur les déclinaisons</name_fr>
+    <intro_fr><![CDATA[<p>Afficher des promotions sur des d&eacute;clinaisons sp&eacute;cifiques n&#39;a jamais &eacute;t&eacute; aussi simple !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/prix/697-creer-des-prix-speciaux-pour-les-declinaisons-en-masse.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Promotions</category_fr>
+    <category_id>22</category_id>
+  </astuce>
+  <astuce key="49">
+    <id>51</id>
+    <name_en>Use combination attributes as features</name_en>
+    <intro_en><![CDATA[<p>Insert the current product combination attributes as product features in a blink of an eye!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/features/1124-adding-combination-attributes-as-product-features.html</link_en>
+    <video_en></video_en>
+    <category_en>Features</category_en>
+    <name_es>Añadir los atributos como características</name_es>
+    <intro_es><![CDATA[<p>A&ntilde;ade los atributos de las declinaciones de los productos como caracter&iacute;sticas&nbsp;en un abrir y cerrar de ojos.</p>
+]]></intro_es>
+    <link_es>https://www.storecommander.com/support/es/caracteristicas/1124-anadir-los-atributos-como-caracteristicas.html</link_es>
+    <video_es></video_es>
+    <category_es>Características</category_es>
+    <name_fr>Intégrez les attributs en tant que caractéristiques</name_fr>
+    <intro_fr><![CDATA[<p>Ajoutez les attributs de d&eacute;clinaisons des produits en tant que caract&eacute;ristiques en un clin d&#39;oeil !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/caracteristiques/1124-ajouter-les-attributs-en-tant-que-caracteristiques.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Caractéristiques</category_fr>
+    <category_id>2</category_id>
+  </astuce>
+  <astuce key="50">
+    <id>52</id>
+    <name_en>Check Trends of your Shop</name_en>
+    <intro_en><![CDATA[<p>Display and customize trends of your shop with this new user friendly tool</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/e-commerce-trends/1414-the-customized-trends-of-your-shop.html</link_en>
+    <video_en></video_en>
+    <category_en>Trends</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/e-commerce-trends/1414-the-customized-trends-of-your-shop.html</link_es>
+    <video_es></video_es>
+    <category_es>Tendencias</category_es>
+    <name_fr>Visualisez les Tendances de votre boutique</name_fr>
+    <intro_fr><![CDATA[<p>Affichez et personnalisez les tendances de votre boutique avec ce nouvel outil simple d&#39;utilisation</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/tendances-e-commerce/1414-les-tendances-personnalisees-de-votre-boutique.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Tendances</category_fr>
+    <category_id>24</category_id>
+  </astuce>
+  <astuce key="51">
+    <id>54</id>
+    <name_en>Product locations in warehouses</name_en>
+    <intro_en><![CDATA[<p>Setting up location of your products in warehouses with Store Commander is ever so quick and simple!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/820-managing-location-in-store-commander.html</link_en>
+    <video_en></video_en>
+    <category_en>Warehouses Management</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/advanced-stock-amp-warehouse-management/820-managing-location-in-store-commander.html</link_es>
+    <video_es></video_es>
+    <category_es>Stock avanzados y almacenes</category_es>
+    <name_fr>Les emplacements des produits en entrepôts</name_fr>
+    <intro_fr><![CDATA[<p>D&eacute;finir les emplacements de vos produits dans les entrep&ocirc;ts avec Store Commander est simple et rapide !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-des-stocks-avances-amp-des-entrepots/820-gerer-les-emplacements-dans-store-commander.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Gestion des Entrepôts</category_fr>
+    <category_id>12</category_id>
+  </astuce>
+  <astuce key="52">
+    <id>55</id>
+    <name_en>Store Commander Store Tree</name_en>
+    <intro_en><![CDATA[<p>Do you know how to work with the store tree to work faster and more efficiently on all your various shops?</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/multistore-management/1400-how-does-the-store-tree-work-in-store-commander.html</link_en>
+    <video_en>https://vimeo.com/676307693</video_en>
+    <category_en>Multistores</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/multistore-management/1400-how-does-the-store-tree-work-in-store-commander.html</link_es>
+    <video_es>https://vimeo.com/676307693</video_es>
+    <category_es>Multitienda</category_es>
+    <name_fr>L'arbre à boutiques de Store Commander</name_fr>
+    <intro_fr><![CDATA[<p>Savez-vous comment utiliser l&#39;arbre &agrave; boutiques pour travailler plus rapidement et efficacement sur toutes vos boutiques ?</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/gestion-multiboutiques/1400-comment-fonctionne-l-arbre-a-boutiques-.html</link_fr>
+    <video_fr>https://vimeo.com/675946336</video_fr>
+    <category_fr>Multiboutiques</category_fr>
+    <category_id>18</category_id>
+  </astuce>
+  <astuce key="53">
+    <id>56</id>
+    <name_en>Store Commander one2one training sessions</name_en>
+    <intro_en><![CDATA[<p>You want to optimize and master Store Commander and all its functionalities quickly?<br />
+Think about our training sessions :)</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/en/training/1091-training-sessions.html</link_en>
+    <video_en></video_en>
+    <category_en>Training</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/en/training/1091-training-sessions.html</link_es>
+    <video_es></video_es>
+    <category_es>Formación</category_es>
+    <name_fr>Les formations one2one de Store Commander</name_fr>
+    <intro_fr><![CDATA[<p>Vous voulez optimiser et maitriser Store Commander et toutes ses fonctionnalit&eacute;s&nbsp;rapidement ?<br />
+Pensez &agrave; nos formations :)</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/fr/formations/1091-formations.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Formation</category_fr>
+    <category_id>10</category_id>
+  </astuce>
+  <astuce key="54">
+    <id>57</id>
+    <name_en></name_en>
+    <intro_en></intro_en>
+    <link_en>https://www.storecommander.com/support/en/installation/622-updating-store-commander.html</link_en>
+    <video_en></video_en>
+    <category_en>Sc updates</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/installation/622-updating-store-commander.html</link_es>
+    <video_es></video_es>
+    <category_es>Actualizaciónes Sc</category_es>
+    <name_fr>Mettre à jour votre version Store Commander</name_fr>
+    <intro_fr><![CDATA[<p>Appliquer les mises &agrave; jour de Store Commander vous permet de b&eacute;n&eacute;ficier des nouveaut&eacute;s int&eacute;gr&eacute;es, et elles sont surtout sans aucun risque comme vous pouvez le voir sur cette vid&eacute;o :)</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/installation/622-mettre-a-jour-store-commander.html</link_fr>
+    <video_fr>https://youtu.be/pM6XhEeL2II</video_fr>
+    <category_fr>Mises à jour Sc</category_fr>
+    <category_id>17</category_id>
+  </astuce>
+  <astuce key="55">
+    <id>58</id>
+    <name_en>Image cut out tool</name_en>
+    <intro_en><![CDATA[<p>Cut out your product images in a jiff and directly in Store Commander interface - click on the link below to find out how :)</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/image-cut-out-tool/1583-cutting-product-images-in-real-time-in-just-a-few-minutes.html</link_en>
+    <video_en></video_en>
+    <category_en>Images</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/image-cut-out-tool/1583-cutting-product-images-in-real-time-in-just-a-few-minutes.html</link_es>
+    <video_es></video_es>
+    <category_es>Imágenes</category_es>
+    <name_fr>Détourage d'images</name_fr>
+    <intro_fr><![CDATA[<p>D&eacute;tourez vos images hyper rapidement et directement dans Store Commander - cliquez sur le lien&nbsp;vid&eacute;o di-dessous pour d&eacute;couvrir comment :)</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/detourage-d-images/1583-le-detourage-photo-produit-facile-et-rapide.html</link_fr>
+    <video_fr></video_fr>
+    <category_fr>Images</category_fr>
+    <category_id>13</category_id>
+  </astuce>
+  <astuce key="56">
+    <id>59</id>
+    <name_en>Manage your products for Amazon in bulk!</name_en>
+    <intro_en><![CDATA[<p>You are exporting your products via the&nbsp;<a href="https://addons.prestashop.com/en/marketplaces/2501-amazon-market-place.html" target="_blank">Amazon Market Place</a>&nbsp;module by&nbsp;Common-Services, and you have lots of products to be configured?<br />
+Use&nbsp;<strong>Sc&nbsp;Amazon</strong>&nbsp;to input the information in bulk on multiple products in just one step!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/en/addon/1466-sc-amazon.html</link_en>
+    <video_en></video_en>
+    <category_en>Market Places</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/en/addon/1466-sc-amazon.html</link_es>
+    <video_es></video_es>
+    <category_es>Market Places</category_es>
+    <name_fr>Gérez en masse les produits présents sur Amazon !</name_fr>
+    <intro_fr><![CDATA[<p>Vous exportez vos produits via le module&nbsp;<a href="http://addons.prestashop.com/fr/marketplace/2501-amazon-market-place.html">Amazon Market Place</a>&nbsp;de Common-Services et vous avez &eacute;norm&eacute;ment de produits &agrave; configurer ?<br />
+Utilisez&nbsp;<strong>Sc&nbsp;Amazon&nbsp;</strong>pour saisir les informations en masse sur de multiples produits en une seule fois !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/490-sc-amazon</link_fr>
+    <video_fr>https://youtu.be/do5i-V3y12c</video_fr>
+    <category_fr>Market Places</category_fr>
+    <category_id>16</category_id>
+  </astuce>
+  <astuce key="57">
+    <id>60</id>
+    <name_en>Increase your conversion rate by with targeted discounts</name_en>
+    <intro_en><![CDATA[<p>Save time when managing combinations with the multi-product combinations panel used to display combinations of numerous products!&nbsp; &nbsp;</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/prices-amp-discounts/1667-how-can-i-setup-a-promotional-offer-on-all-red-product-attributes-of-my-website.html</link_en>
+    <video_en>https://vimeo.com/665939683</video_en>
+    <category_en>Combinations</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/prices-amp-discounts/1667-how-can-i-setup-a-promotional-offer-on-all-red-product-attributes-of-my-website.html</link_es>
+    <video_es>https://vimeo.com/665939683</video_es>
+    <category_es>Combinaciones</category_es>
+    <name_fr>Augmentez le taux de conversion en ciblant vos campagnes promo</name_fr>
+    <intro_fr><![CDATA[<p>Gagnez du temps avec la gestion de vos d&eacute;clinaisons gr&acirc;ce &agrave; la grille Multi-produits D&eacute;clinaisons qui affiche les d&eacute;clinaisons d&#39;une multitude de produits !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/prix-amp-promotions/1667-comment-mettre-en-promo-tous-les-produits-d-attribut-rouge-sur-mon-site-.html</link_fr>
+    <video_fr>https://vimeo.com/665556204</video_fr>
+    <category_fr>Déclinaisons</category_fr>
+    <category_id>6</category_id>
+  </astuce>
+  <astuce key="58">
+    <id>63</id>
+    <name_en>Searching and modifying descriptions using the word 'discount'</name_en>
+    <intro_en></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1812-searching-and-modifiying-descriptions-using-the-word-discount-.html</link_en>
+    <video_en>https://vimeo.com/586194280</video_en>
+    <category_en>Segmentation</category_en>
+    <name_es>Buscar y corregir las descripciones que contengan la palabra 'ventas'</name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1812-searching-and-modifiying-descriptions-using-the-word-discount-.html</link_es>
+    <video_es>https://vimeo.com/553332779</video_es>
+    <category_es>Segmentation</category_es>
+    <name_fr>Chercher et corriger les descriptions contenant le mot 'soldes'</name_fr>
+    <intro_fr></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1812-chercher-et-corriger-les-descriptions-contenant-le-mot-solde-.html</link_fr>
+    <video_fr>https://vimeo.com/540035504</video_fr>
+    <category_fr>Segmentation</category_fr>
+    <category_id>29</category_id>
+  </astuce>
+  <astuce key="59">
+    <id>64</id>
+    <name_en>Bookmark</name_en>
+    <intro_en><![CDATA[<p>Add your favorite websites to your Store Commander!</p>
+]]></intro_en>
+    <link_en>https://www.storecommander.com/support/en/tips/1806-adding-a-bookmark-to-your-sc-interface.html</link_en>
+    <video_en>https://vimeo.com/583776988</video_en>
+    <category_en>Interface</category_en>
+    <name_es></name_es>
+    <intro_es></intro_es>
+    <link_es>https://www.storecommander.com/support/en/tips/1806-adding-a-bookmark-to-your-sc-interface.html</link_es>
+    <video_es>https://vimeo.com/583776988</video_es>
+    <category_es>Interfaz</category_es>
+    <name_fr>Lien rapide vers un site extérieur</name_fr>
+    <intro_fr><![CDATA[<p>Ajoutez vos sites pr&eacute;f&eacute;r&eacute;s dans votre Store Commander !</p>
+]]></intro_fr>
+    <link_fr>https://www.storecommander.com/support/fr/les-astuces/1806-lien-rapide-vers-site-exterieur.html</link_fr>
+    <video_fr>https://vimeo.com/515231027</video_fr>
+    <category_fr>Interface</category_fr>
+    <category_id>15</category_id>
+  </astuce>
+</astuces>
+</tipoftheday>

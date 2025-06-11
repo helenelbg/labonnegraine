@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Herzliche Glückwünsche!
+
+Eine neue Bestellung wurde von folgendem Kunden im {shop_name} aufgegeben: {firstname} {lastname} ({email})
+
+Bestelldetails
+
+Bestellung: {order_name} Erstellt am {date}
+
+Zahlung: {payment}
+
+Referenz	Produkt	Stückpreis	Quantität	Gesamtpreis   {items}
+Produkte	{total_products}
+Rabatte	{total_discounts}
+Geschenkpapier	{total_wrapping}
+Versand	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Inklusive Gesamtsteuer	{total_tax_paid}
+Ganz bezahlt	{total_paid}
+
+Transportunternehmen
+
+Transportunternehmen: {carrier}
+
+Zahlung: {payment}
+
+Lieferadresse
+
+{delivery_block_html}
+
+Rechnungsadresse
+
+{invoice_block_html}
+
+Kundennachricht:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

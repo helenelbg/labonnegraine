@@ -1,0 +1,8 @@
+Hola {customer}
+Su recompensa fue cancelada.
+Programa: {program}
+ID de recompensa: R-{reward}
+Recompensa: {amount}
+Fecha de creación: {date_created}
+Fecha cancelada: {date_canceled}
+Nota: {note}

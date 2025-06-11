@@ -1,0 +1,6 @@
+Hallo beheerder,
+U heeft een opnameverzoek afgewezen. Hieronder vindt u gedetailleerde informatie over het opnameverzoek:
+Opname-ID: {withdrawal_ID}
+Van klant: {customer}
+Opnamebedrag: {amount}
+Betaalmethode: {payment_method}

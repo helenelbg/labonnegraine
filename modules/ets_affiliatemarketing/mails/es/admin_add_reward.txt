@@ -1,0 +1,7 @@
+Hola {customer_name}
+El administrador te ha agregado una recompensa
+ID de recompensa: R-{id_reward}
+Cantidad: {amount}
+Programa: {program}
+Razón: {reason}
+Tuyo sinceramente

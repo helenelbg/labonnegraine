@@ -1,0 +1,4 @@
+Hallo {username},
+Gefeliciteerd! Uw aanvraag voor {program} is goedgekeurd.
+Bericht: {reason}
+Met vriendelijke groeten.

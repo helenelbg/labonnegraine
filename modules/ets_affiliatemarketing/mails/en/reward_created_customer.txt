@@ -1,0 +1,7 @@
+Hi {customer}
+A new reward was created for you
+Program: {program}
+ID reward: R-{reward_id}
+Reward: {amount}
+Date created: {date_created}
+Status: {status}

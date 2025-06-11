@@ -1,0 +1,3 @@
+Hallo {username}
+{your_friend} hat Sie eingeladen, ein Konto auf unserer Website {shop_name} zu erstellen. Klicken Sie auf die Schaltfläche unten, um sich uns anzuschließen:
+{link_ref}

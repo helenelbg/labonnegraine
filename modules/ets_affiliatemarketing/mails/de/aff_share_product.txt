@@ -1,0 +1,6 @@
+Hallo {aff_name},
+{customer_name} hat mit Ihnen ein Produkt von unserer Website {shop_name} geteilt
+Produkt: {name_product}
+Nachricht an dich: {aff_message}
+Klicken Sie auf die Schaltfläche unten, um das Produkt anzuzeigen
+Produkt anzeigen

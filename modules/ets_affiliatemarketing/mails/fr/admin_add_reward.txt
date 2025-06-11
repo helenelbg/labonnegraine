@@ -1,0 +1,7 @@
+Bonjour {customer_name}
+L'administrateur vous a ajouté une récompense
+Identifiant de récompense: R-{id_reward}
+Montant: {amount}
+Programme: {program}
+Raison: {reason}
+Cordialement

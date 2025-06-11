@@ -1,0 +1,5 @@
+Cześć {username},
+Twoje zgłoszenie do programu {program} zostało odrzucone.
+Powód: {reason}
+Dziękujemy za zainteresowanie naszym programem!
+Z poważaniem.

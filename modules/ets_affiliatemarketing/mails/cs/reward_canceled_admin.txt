@@ -1,0 +1,8 @@
+Ahoj administrátore
+Odměna byla zrušena dne:
+Program: {program}
+Odměna za ID: R-{reward_id}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Datum zrušení: {date_canceled}
+Poznámka: {note}

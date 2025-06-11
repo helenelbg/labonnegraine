@@ -1,0 +1,4 @@
+Bonjour {username}
+Toutes nos félicitations! Votre candidature pour {program} a été approuvée.
+Message: {reason}
+Cordialement.

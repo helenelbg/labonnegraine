@@ -1,0 +1,4 @@
+Hallo {username},
+Herzliche Glückwünsche! Ihre Bewerbung für {program} wurde genehmigt.
+Nachricht: {reason}
+Hochachtungsvoll.

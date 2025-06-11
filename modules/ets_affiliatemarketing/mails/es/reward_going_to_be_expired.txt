@@ -1,0 +1,3 @@
+Hola {customer}
+Su recompensa R-{reward_id} caducará en {day} días si no se utiliza. Le recomendamos que use la recompensa antes de que sea tarde.
+Tuyo sinceramente.

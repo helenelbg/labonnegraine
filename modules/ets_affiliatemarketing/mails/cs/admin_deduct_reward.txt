@@ -1,0 +1,7 @@
+Ahoj {customer_name}
+Správce odečetl odměnu z vašeho zůstatku odměny
+ID odměny: S-{id_reward}
+Částka: {amount}
+Program: {program}
+Důvod: {reason}
+S pozdravem

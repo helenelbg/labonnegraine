@@ -1,0 +1,8 @@
+Bonjour {customer}
+Votre récompense a été annulée.
+Programme: {program}
+ID de récompense: R-{reward}
+Récompense: {amount}
+Date créée: {date_created}
+Date annulée: {date_canceled}
+Remarque: {note}

@@ -1,0 +1,5 @@
+Hallo {customer}
+U heeft zojuist uw beloningssaldo succesvol omgezet in een voucher. Hieronder vindt u gedetailleerde informatie over uw conversie:
+Vouchercode: {discount_code}
+Beloningsbedrag omgezet: {discount_value}
+Met vriendelijke groeten.

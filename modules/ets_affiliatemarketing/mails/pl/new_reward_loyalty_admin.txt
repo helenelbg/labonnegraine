@@ -1,0 +1,6 @@
+Cześć Admin
+Utworzono nową nagrodę dla {customer}
+Program: {program}
+Nagroda ID: R-{reward_id}
+Nagroda: {amount}
+Status: {status}

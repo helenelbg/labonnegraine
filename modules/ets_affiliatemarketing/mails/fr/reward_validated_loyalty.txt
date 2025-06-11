@@ -1,0 +1,8 @@
+Bonjour {customer}
+Toutes nos félicitations! Votre récompense a été approuvée.
+Programme: {program}
+ID de récompense: R-{reward}
+Récompense: {amount}
+Date créée: {date_created}
+Date d'approbation: {date_validated}
+Remarque: {note}

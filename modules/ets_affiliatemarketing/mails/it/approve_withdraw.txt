@@ -1,0 +1,6 @@
+Ciao {customer},
+Congratulazioni! La tua richiesta di prelievo nello negozio {shop_name} è stata approvata. Di seguito sono riportate informazioni dettagliate sulla richiesta di prelievo:
+ID prelievo: {withdrawal_ID}
+Importo del prelievo: {amount}
+Metodo di pagamento: {payment_method}
+Cordiali saluti.

@@ -1,0 +1,5 @@
+Ahoj {username},
+Vaše přihláška do {program} byla zamítnuta.
+Důvod: {reason}
+Děkujeme za váš zájem o náš program!
+S pozdravem.

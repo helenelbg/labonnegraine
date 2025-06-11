@@ -1,0 +1,81 @@
+.WP_recents_posts {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    color:darkgrey;
+    background-color: white;
+    text-align: center;
+}
+.WP_recents_posts h2{
+        text-align: center;
+    font-size: 93px;
+    color: #444;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+#logo_WP{
+    width: 370px;
+    height: auto;
+}
+.WP_recents_posts ul {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+.WP_recents_posts ul li.WP_recent_post{
+    text-align: left;
+    width: 30%;
+    display: inline-block;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    color :darkgrey;  
+    vertical-align: top;
+    border: 1px solid #e8e8e8;
+}
+.WP_recents_posts ul li.WP_recent_post h2{
+    color:#555555;
+}
+.WP_recents_posts ul li.WP_recent_post h3{
+     color:#565656;
+     font-size: 24px;
+     text-transform: uppercase;
+     padding-left: 22px;
+     padding-right: 22px;
+     min-height: 80px;
+
+}
+.WP_recents_posts ul li.WP_recent_post div.WP_content{
+    font-size: 19px;
+    line-height: 24px;
+    text-align: justify;
+    padding: 22px;
+    color:#616a74;
+}
+.WP_recents_posts ul li.WP_recent_post a{
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 22px;
+    font-size: 17px;
+    display: block;
+    color:#616a74 !important;
+}
+.WP_recents_posts ul li.WP_recent_post a:hover{
+    /*color:black !important;*/
+}
+.WP_img {
+    width: 100%;
+    height: 220px;
+    overflow: hidden;
+    background-size: cover;
+}
+.WP_img img{
+ display: none;   
+}
+.WP_recents_posts time.srpw-time {
+    display: block;
+    color: #616a74;
+    font-size: 13px;
+    margin-left: 22px;
+    margin-right: 22px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #e8e8e8;
+}

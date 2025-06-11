@@ -1,0 +1,5 @@
+Hola {customer}
+Acaba de convertir con éxito su saldo de recompensa en un voucher. A continuación encontrará información detallada sobre su conversión:
+Código de cupón: {discount_code}
+Cantidad de recompensa convertida: {discount_value}
+Tuyo sinceramente.

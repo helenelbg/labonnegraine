@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>categoriesenavant</name>
+    <displayName><![CDATA[Mise en avant de cat&eacute;gories]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Mise en avant de cat&eacute;gories]]></description>
+    <author><![CDATA[Anjou Web]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

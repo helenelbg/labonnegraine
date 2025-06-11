@@ -1,0 +1,10 @@
+Hi administrator,
+There is a new withdrawal request on {shop_name} store. Please review detailed information of this request and process it:
+Below is detailed information of your withdrawal request:
+Withdrawal ID: {withdrawal_ID}
+From customer: {customer}
+Withdrawal amount: {amount}
+Payment method: {payment_method}
+Processed date (estimated): {processed_date}
+{invoice_withdrawal}
+Yours sincerely.

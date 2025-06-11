@@ -1,0 +1,432 @@
+/**
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to a commercial license from Common-Services Co., Ltd.
+ * Use, copy, modification or distribution of this source file without written
+ * license agreement from the SARL SMC is strictly forbidden.
+ * In order to obtain a license, please contact us: contact@common-services.com
+ * ...........................................................................
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * L'utilisation de ce fichier source est soumise a une licence commerciale
+ * concedee par la societe Common-Services Co., Ltd.
+ * Toute utilisation, reproduction, modification ou distribution du present
+ * fichier source sans contrat de licence ecrit de la part de la Common-Services Co. Ltd. est
+ * expressement interdite.
+ * Pour obtenir une licence, veuillez contacter Common-Services Co., Ltd. a l'adresse: contact@common-services.com
+ * ...........................................................................
+ *
+ * @package   SoNice_Etiquetage
+ * @author    Alexandre D. <alexandre@common-services.com>
+ * @copyright Copyright (c) 2011-2015 Common Services Co Ltd - 90/25 Sukhumvit 81 - 10260 Bangkok - Thailand
+ * @license   Commercial license
+ * Support by mail  :  support.sonice@common-services.com
+ */
+
+hr {
+    border: 1px solid gainsboro;
+}
+
+.hint {
+    display: block !important;
+}
+
+.sne_table_split {
+    margin: 30px 0 40px;
+}
+
+.sne_douchette {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.session_btn_slip {
+    background-color: #F8F8F8;
+    border: 1px solid #CCCCCC;
+    margin-bottom: 10px;
+    padding: 5px 0;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    float: right;
+}
+
+.session_btn_slip:hover {
+    background-color: #fff;
+    border: 1px inset #ccc;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.pageTitle button {
+    font-size: 16px;
+    padding: 5px;
+}
+
+.send_exp {
+    border: 1px solid gray;
+    padding: 1px;
+    background-color: #DFF2BF;
+    cursor: pointer;
+}
+
+.send_exp:hover {
+    background-color: #EFF8DF;
+}
+
+.etq_selector {
+    height: 30px;
+    width: 200px;
+}
+
+.edit {
+    cursor: pointer;
+}
+
+.weight input, .weight_product input {
+    text-align: right;
+}
+
+#sne_labels_session tbody input {
+    border: 1px solid transparent;
+    background-color: transparent;
+    box-shadow: none;
+    width: 95%;
+}
+
+#sne_labels_session tbody input:focus {
+    border: 1px solid green;
+    background-color: white;
+}
+
+#sne_labels_session tbody .weight input:focus, #sne_labels_session tbody .weight_product input:focus {
+    text-align: left;
+}
+
+#sne_labels_availables tbody tr:nth-child(even) {
+    background-color: whitesmoke;
+}
+
+.edit_on {
+    border: 1px solid green !important;
+    background-color: white !important;
+}
+
+table tr th:nth-child(2) {
+    width: 50px;
+}
+
+table tbody tr:hover {
+    background-color: lemonchiffon !important;
+}
+
+#tab-listing table tr th:nth-child(3) {
+    width: 95px;
+}
+
+#tab-listing table tr th:nth-child(4) {
+    width: 85px;
+}
+
+#tab-listing table tr th:nth-child(5) {
+    width: 140px;
+}
+
+#tab-listing table tr th:nth-child(6) {
+    width: 220px;
+}
+
+#tab-listing table tr th:nth-child(7) {
+    width: 160px;
+}
+
+#tab-listing table tr th:nth-child(9) {
+    width: 50px;
+}
+
+#tab-listing table tr th:nth-child(10) {
+    width: 50px;
+}
+
+#table_exp th:nth-child(2), #table_exp th:nth-child(3) {
+    width: 100px;
+}
+
+thead tr th img {
+    vertical-align: baseline;
+    cursor: pointer;
+}
+
+.send_package {
+    text-align: center;
+}
+
+.send_package img {
+    top: -3px;
+    border:1px solid gainsboro;
+    padding: 2px;
+    cursor:pointer;
+    background-color:whitesmoke;  
+    border-radius:2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+
+.barcode-div {
+    height: 50px;
+    float: right;
+}
+
+.barcode-div span {
+    font-size: 18px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.barcode-input {
+    width: 200px;
+    height: 30px;
+}
+
+.send_package img:hover {
+    border:1px solid lavender;
+    background-color: lightgray;
+}
+
+.validated_row {
+    background-color: #EFF8DF;
+}
+
+.validated_row2 {
+    background-color: #DFF2BF;
+}
+
+.label span, .label a {
+    color: navy;
+}
+
+.id_order:hover, .id_order a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.no_orders {
+    text-align: center;
+}
+
+#sneTab {
+    margin-top: 20px;
+}
+
+#menuTab {
+    float: left;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background-color: #efefef;
+    padding: 10px;
+    border-top: 1px solid gainsboro;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+}
+
+#menuTab li { 
+    float: left;
+    text-align: left;
+    min-width: 150px;
+    height: 35px;
+    display: inline;
+    margin: 3px;
+    padding: 0 10px 15px 15px;
+    background: #EFEFEF;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#menuTab li span {
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+
+#menuTab li.menuTabButton.selected { 
+    border-bottom: 3px solid #6495ED;
+    padding-bottom: 12px;
+}
+
+#menuTab li.menuTabButton:hover { 
+    cursor: pointer;
+    background: #6495ED;
+    opacity: 0.7;
+}
+
+.clean {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+.cleaner {
+    clear: both;
+    margin: 10px 0;
+    padding: 0;
+    height: 0;
+}
+
+.sne_logo {
+    margin: 40px 0;
+}
+
+.product_list {
+    background-color: whitesmoke;
+}
+.product_list > :first-child {
+    background-color: white;
+    border-right: 1px solid gainsboro;
+}
+.product_list > :first-child:hover {
+    background-color: white;
+}
+.product_list > :last-child {
+    background-color: whitesmoke;
+}
+.product_list > :last-child:hover {
+    background-color: whitesmoke;
+}
+.product_list table {
+    background-color: whitesmoke;
+    border: none;
+}
+.product_list table td:nth-child(1) {
+    width: 50px;
+}
+.product_list table td:nth-child(2) {
+    width: 120px;
+}
+.product_list table td:nth-child(3) {
+    width: 50%;
+}
+.product_list table td:nth-child(4) {
+    width: 50px;
+}
+.product_list table td:nth-child(5) {
+    width: 50px;
+}
+
+.error_detected {
+    background-color: lightcoral;
+}
+
+.ta img {
+    cursor: pointer;
+}
+
+.product_list table td {
+    border-bottom: none;
+}
+
+.product_list td table tr:nth-child(1) td {
+    border-bottom: 1px solid gainsboro;
+}
+
+.sne_logo > img {
+    margin-top: -30px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.page {
+    color: black;
+    margin-right: 5px;
+}
+
+.page img {
+    vertical-align: initial;
+    cursor: pointer;
+}
+
+#listing_orders tbody tr td > img {
+    height: 32px;
+}
+
+#listing_orders tbody tr:nth-child(even) {
+    background-color: #EFF8DF;
+}
+
+#listing_orders tbody tr:nth-child(odd) {
+    background-color: #DFF2BF;
+}
+
+.pageTitle h3 input {
+    font-size: 18px;
+    margin-top: 15px;
+    float: right;
+    width: 350px;
+}
+
+.button_disabled {
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.container {
+    height: 50px;
+    border: 1px solid gainsboro;
+    background-color: #ccc;
+    margin-bottom: 15px;
+    background-color: #F8F8F8;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    text-align: center;
+}
+
+.container div {
+    margin-top: 8px;
+}
+
+#session_selection select, #session_fusion select {
+    margin-top: 10px;
+    height: 30px;
+    font-size: 16px;
+}
+#session_selection select {
+    vertical-align: 2px;
+}
+
+#new_sesseion_name {
+    width: 200px;
+    height: 30px;
+}
+
+.toolbar_btn .separator {
+    height: 40px;
+    border-left: 3px solid gray;
+    width: 3px;
+    margin-left: 20px;
+}
+
+.sne_sep {
+    width: 1px;
+    height: 100%;
+    background-color: gainsboro;
+    margin: 0 10px;
+}

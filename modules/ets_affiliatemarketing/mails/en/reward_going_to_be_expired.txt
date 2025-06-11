@@ -1,0 +1,3 @@
+Hi {customer}
+Your reward R-{reward_id} will be expired in {day} days(s) if it is not used. We recommend you to use the reward soon before it’s late.
+Yours sincerely

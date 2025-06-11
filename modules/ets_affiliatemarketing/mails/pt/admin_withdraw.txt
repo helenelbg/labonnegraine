@@ -1,0 +1,10 @@
+Olá administrador,
+Há uma nova solicitação de retirada na loja {shop_name}. Revise as informações detalhadas sobre esta solicitação e processe-a:
+Abaixo estão informações detalhadas sobre sua solicitação de retirada:
+ID de retirada: {withdrawal_ID}
+Do cliente: {customer}
+Valor do saque: {amount}
+Forma de pagamento: {payment_method}
+Data processada (estimada): {processed_date}
+{invoice_withdrawal}
+Com os melhores cumprimentos.

@@ -1,0 +1,20 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <ns2:generateLabelResponse xmlns:ns2="http://sls.ws.coliposte.fr">
+         <return>
+            <messages>
+               <id>0</id>
+                <messageContent>La requete a ete traitee avec succes</messageContent>
+               <type>INFOS</type>
+            </messages>
+            <labelResponse>
+               <label>
+                  <xop:Include href="cid:c5a4f718-01cc-4245-a390-1137eb2135b3-3669@cxf.apache.org" xmlns:xop="http://www.w3.org/2004/08/xop/include"/>
+               </label>
+               <parcelNumber>6A11353659104</parcelNumber>
+               <pdfUrl>https://ws.colissimo.fr/sls-ws/GetLabel?parcelNumber=6A11353659104&amp;signature=390da063311b2e8ba14ed36ace5d18484193e8a607eac18992436a4b064823de&amp;includeCustomsDeclarations=false&amp;preuveDepot=</pdfUrl>
+            </labelResponse>
+         </return>
+      </ns2:generateLabelResponse>
+   </soap:Body>
+</soap:Envelope>

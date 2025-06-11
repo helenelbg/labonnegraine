@@ -1,0 +1,8 @@
+Cześć {customer}
+Gratulacje! Twoja nagroda została zatwierdzona.
+Program: {program}
+Nagroda ID: R-{reward}
+Nagroda: {amount}
+Data utworzenia: {date_created}
+Data zatwierdzenia: {date_validated}
+Uwaga: {note}

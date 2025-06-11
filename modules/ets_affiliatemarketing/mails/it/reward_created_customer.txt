@@ -1,0 +1,7 @@
+Ciao {customer}
+Una nuova ricompensa è stata creata per te.
+Programma: {program}
+ID ricompensa: R-{reward_id}
+Ricompensa: {amount}
+Data di creazione: {date_created}
+Stato: {status}

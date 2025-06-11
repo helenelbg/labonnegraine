@@ -1,0 +1,343 @@
+
+.category-header-messages {
+    margin-bottom: 20px;
+}
+
+.category-header-message {
+    margin-bottom: 10px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+}
+
+.message-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #2fb5d2;
+}
+
+.message-content {
+    margin-bottom: 15px;
+}
+
+.message-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.message-cta .btn {
+    padding: 7px 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.category-header-messages {
+    margin-bottom: 2rem;
+  }
+  
+  .message-block {
+    padding: 1.5rem 0;
+    margin-bottom: 1rem;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+  }
+  
+  /* Style de base */
+  .message-type-standard {
+    background-color: #f8f8f8;
+    color: #232323;
+  }
+  
+  /* Style pour Produit phare */
+  .message-type-produit_phare {
+    background-color: #ffedd4;
+    color: #000000;
+    border-left: 4px solid #ff8c00;
+  }
+  
+  /* Style pour Promo du moment */
+  .message-type-promo_moment {
+    background-color: #ffe1e1;
+    color: #232323;
+    border-left: 4px solid #e53935;
+  }
+  
+  /* Style pour Réduction par lot */
+  .message-type-reduction_lot {
+    background-color: #e6f3ff;
+    color: #232323;
+    border-left: 4px solid #1976d2;
+  }
+  
+  /* Style pour Accessoires */
+  .message-type-accessoires {
+    background-color: #e8f5e9;
+    color: #232323;
+    border-left: 4px solid #388e3c;
+  }
+  
+  /* Style pour Offre eco */
+  .message-type-offre_eco {
+    background-color: #e0f2f1;
+    color: #232323;
+    border-left: 4px solid #00897b;
+  }
+  
+  /* Styles communs pour tous les types */
+  .message-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+  }
+  
+  .message-content {
+    margin-bottom: 1rem;
+  }
+  
+  .message-cta {
+    margin-top: 1rem;
+  }
+  
+  /* Styles pour l'affichage des produits */
+  .message-product {
+    padding: 10px;
+    border-left: 1px solid #e5e5e5;
+  }
+  
+  .product-container {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .product-image {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .product-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-name {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    min-height: 40px;
+  }
+  
+  .product-name a {
+    color: #232323;
+    text-decoration: none;
+  }
+  
+  .product-name a:hover {
+    color: #2fb5d2;
+  }
+  
+  .product-price {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+  }
+  
+  .regular-price {
+    text-decoration: line-through;
+    color: #7a7a7a;
+    font-size: 0.9rem;
+    margin-right: 5px;
+  }
+  
+  .price {
+    color: #232323;
+    font-weight: 600;
+  }
+  
+  .product-actions {
+    text-align: center;
+  }
+  
+  @media (max-width: 767px) {
+    .message-product {
+      margin-top: 15px;
+      border-left: none;
+      border-top: 1px solid #e5e5e5;
+      padding-top: 15px;
+    }
+  }
+  .category-header-message .row
+{
+	display: flex;
+}
+.category-header-message .image
+{
+	background-size: cover;
+    background-position: center center;
+	padding: 0;
+}
+.category-header-message .accroche
+{
+    float: left;
+    padding: 10px;    
+	bottom: 20px;
+    position: absolute;
+	font-size: 22px;
+		font-family: "Pacifico", cursive;
+		font-weight: 400;
+		font-style: normal;
+	  
+}
+.category-header-message .accroche.produit_phare
+{
+	background: #d82637;
+  color: #fff;
+}
+.category-header-message .accroche.promo_moment
+{
+	background: #5c766f;
+  color: #fff;
+}
+.category-header-message .accroche.reduction_lot
+{
+	background: #ee7141;
+  color: #fff;
+}
+.category-header-message .accroche.accessoires
+{
+	background: #C7B299;
+  color: #fff;
+}
+.category-header-message .accroche.offre_eco
+{
+	background: #F49914;
+  color: #fff;
+}
+
+.category-header-message .message-cta
+{
+	text-align: center;
+}
+.category-header-message .message-cta a
+{
+	/*background: #d82637;*/
+    margin-top: 10px;
+}
+.category-header-message h3.message-title {
+    text-transform: uppercase;
+    color: #d82637;
+    text-align: center;
+    text-decoration: underline;
+	text-underline-offset: 8px;
+    font-size: 25px;
+    margin-top: 0;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.category-header-messages {
+    margin-top: 20px;
+}
+
+.category-header-message .right.produit_phare
+{
+	border: 20px solid #d82637;
+  padding: 20px;
+}
+.category-header-message .right.promo_moment
+{
+	border: 20px solid #5c766f;
+  padding: 20px;
+}
+.category-header-message .right.reduction_lot
+{
+	border: 20px solid #ee7141;
+  padding: 20px;
+}
+.category-header-message .right.accessoires
+{
+	border: 20px solid #C7B299;
+  padding: 20px;
+}
+.category-header-message .right.offre_eco
+{
+	border: 20px solid #F49914;
+  padding: 20px;
+}
+
+
+.category-header-message .message-cta a.produit_phare
+{
+	background-color: #d82637;
+}
+.category-header-message .message-cta a.promo_moment
+{
+	background-color: #5c766f;
+}
+.category-header-message .message-cta a.reduction_lot
+{
+	background-color: #ee7141;
+}
+.category-header-message .message-cta a.accessoires
+{
+	background-color: #C7B299;
+}
+.category-header-message .message-cta a.offre_eco
+{
+	background-color: #F49914;
+}
+.category-header-message .message-cta span.price {
+  float: none;
+  margin-right: 10px;
+}
+.category-header-message .message-cta span.old_price {
+  margin-right: 10px;
+  text-decoration: line-through;
+}
+
+.category-header-message .message-content.image
+{
+  display:none;
+}
+.category-header-message .btn:hover .img-off, .category-header-message .btn .img-on {
+    display: none;
+}
+
+.category-header-message .btn:hover .img-on {
+    display: inline-block;
+}
+
+.category-header-message .btn .img-off, .category-header-message .btn .img-on {
+    margin-right: 15px;
+}
+
+@media (max-width: 767px) {
+.category-header-message .row
+{
+	display: block;
+}
+.category-header-message .accroche {
+  padding: 10px;
+  position: initial;
+  font-size: 22px;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  float:none;
+}
+.category-header-message .right {
+  border-top: 0 !important;
+}
+.category-header-message .message-content.description
+{
+  display:none;
+}
+.category-header-message .message-content.image
+{
+  display:block;
+}
+.category-header-message .message-content.image img
+{
+  width: 100%;
+}
+
+}

@@ -1,0 +1,118 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+set_time_limit(0);
+
+error_reporting(E_ALL);
+
+require(dirname(__FILE__).'../../../config/config.inc.php');
+
+echo date("Y-m-d H:i:s").' - Starting' . "<br>";
+
+// Count rules from already generated orders
+$sql = 'SELECT count(*) as count
+FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN `'._DB_PREFIX_.'cart` c ON (qdrc.id_cart = c.id_cart)
+LEFT JOIN `'._DB_PREFIX_.'orders` o ON (o.id_cart = c.id_cart)
+WHERE o.id_order IS NOT null;';
+
+$result = Db::getInstance(_PS_USE_SQL_SLAVE_)->getRow($sql);
+echo 'Remaining cart rules to remove from table '._DB_PREFIX_.'quantity_discount_rule_cart`: '. $result['count'] . "<br>";
+
+// Remove rules from already generated orders
+echo 'Remove rules from already generated orders'. "<br>";
+$sql = 'SELECT DISTINCT(qdrc.`id_cart_rule`)
+FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN `'._DB_PREFIX_.'cart` c ON (qdrc.id_cart = c.id_cart)
+LEFT JOIN `'._DB_PREFIX_.'orders` o ON (o.id_cart = c.id_cart)
+WHERE o.id_order IS NOT null
+ORDER BY c.date_add DESC
+LIMIT 10;';
+
+$result = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS($sql);
+foreach ($result as $rule) {
+    echo date("Y-m-d H:i:s").' - Remove rule '.(int)$rule['id_cart_rule']. "<br>";
+    $cartRule = new CartRule((int)$rule['id_cart_rule']);
+    if (Validate::isLoadedObject($cartRule)) {
+        $cartRule->delete();
+    } else {
+        echo 'Error loading cart rule ' .(int)$rule['id_cart_rule']. "<br>";
+    }
+
+}
+
+// Carts
+// Count rules from carts olders than 30 days
+$sql = 'SELECT count(*) as count
+FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN `'._DB_PREFIX_.'cart` c ON (qdrc.id_cart = c.id_cart)
+WHERE c.date_upd < DATE_SUB(NOW(), INTERVAL 30 DAY);';
+
+$result = Db::getInstance(_PS_USE_SQL_SLAVE_)->getRow($sql);
+echo 'Remaining cart rules to remove from table '._DB_PREFIX_.'quantity_discount_rule_cart`: '. $result['count'] . "<br>";
+
+echo "Remove rules from carts olders than 30 days". "<br>";
+$sql = 'SELECT c.`id_cart`, qdrc.`id_cart_rule`
+FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN `'._DB_PREFIX_.'cart` c ON (qdrc.id_cart = c.id_cart)
+WHERE c.date_upd < DATE_SUB(NOW(), INTERVAL 30 DAY)
+ORDER BY c.date_add DESC
+LIMIT 10;';
+$result = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS($sql);
+foreach ($result as $rule) {
+    echo date("Y-m-d H:i:s").' - Remove rule '.(int)$rule['id_cart_rule'].' from cart '.(int)$rule['id_cart'] . "<br>";
+    $cartRule = new CartRule((int)$rule['id_cart_rule']);
+    if (Validate::isLoadedObject($cartRule)) {
+        $cartRule->delete();
+    } else {
+        echo 'Error loading cart rule ' .(int)$rule['id_cart_rule']. "<br>";
+    }
+}
+
+//Orphanated records
+
+/*$sql = 'DELETE FROM `'._DB_PREFIX_.'quantity_discount_rule_cart`
+    WHERE `id_cart_rule` NOT IN (SELECT `id_cart_rule` FROM `'._DB_PREFIX_.'cart_rule`);';*/
+
+$sql = 'DELETE qdrc FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN '._DB_PREFIX_.'cart_rule cr ON qdrc.id_cart_rule= cr.id_cart_rule
+WHERE cr.id_cart_rule IS NULL';
+
+Db::getInstance()->execute($sql);
+
+/*$sql = 'DELETE FROM `'._DB_PREFIX_.'quantity_discount_rule_cart`
+    WHERE `id_cart` NOT IN (SELECT `id_cart` FROM `'._DB_PREFIX_.'cart`);';*/
+
+$sql = 'DELETE qdrc FROM `'._DB_PREFIX_.'quantity_discount_rule_cart` qdrc
+LEFT JOIN '._DB_PREFIX_.'cart c ON qdrc.id_cart= c.id_cart
+WHERE c.id_cart IS NULL';
+
+Db::getInstance()->execute($sql);
+
+/*$sql = 'DELETE FROM `'._DB_PREFIX_.'quantity_discount_rule_order`
+    WHERE `id_cart_rule` NOT IN (SELECT `id_cart_rule` FROM `'._DB_PREFIX_.'cart_rule`);';*/
+
+$sql = 'DELETE qdro FROM `'._DB_PREFIX_.'quantity_discount_rule_order` qdro
+LEFT JOIN '._DB_PREFIX_.'cart_rule cr ON qdro.id_cart_rule= cr.id_cart_rule
+WHERE cr.cart_rule IS NULL';
+
+Db::getInstance()->execute($sql);
+
+/*
+$sql = 'DELETE crc FROM `'._DB_PREFIX_.'cart_rule_combination` crc
+LEFT JOIN '._DB_PREFIX_.'cart_rule cr ON crc.id_cart_rule_1 = cr.id_cart_rule
+WHERE cr.id_cart_rule IS NULL';
+
+Db::getInstance()->execute($sql);
+*/
+/*
+$sql = 'DELETE crc FROM `'._DB_PREFIX_.'cart_rule_combination` crc
+LEFT JOIN '._DB_PREFIX_.'cart_rule cr ON crc.id_cart_rule_2 = cr.id_cart_rule
+WHERE cr.id_cart_rule IS NULL';
+
+Db::getInstance()->execute($sql);
+*/
+
+echo date("Y-m-d H:i:s").' - Finish' . "<br>";
+
+die;

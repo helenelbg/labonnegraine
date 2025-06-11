@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>AW_wordpressDBcontent</name>
+    <displayName><![CDATA[AW wordpress DB content]]></displayName>
+    <version><![CDATA[]]></version>
+    <description><![CDATA[Recupere le contenu de la base wordpress]]></description>
+    <author><![CDATA[AW]]></author>
+    <tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Are you sure that you want to delete all of your contacts?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

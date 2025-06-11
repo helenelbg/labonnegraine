@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>lbgorderlist</name>
+    <displayName><![CDATA[Date d&#039;exp&eacute;dition dans liste des commandes]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[]]></description>
+    <author><![CDATA[La Bonne Graine]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

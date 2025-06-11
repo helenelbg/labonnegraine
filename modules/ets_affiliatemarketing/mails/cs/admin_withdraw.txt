@@ -1,0 +1,10 @@
+Ahoj administrátore,
+V obchodě {shop_name} je nová žádost o výběr. Přečtěte si prosím podrobné informace o této žádosti a zpracujte ji:
+Níže jsou uvedeny podrobné informace o vaší žádosti o výběr:
+ID výběru: {withdrawal_ID}
+Od zákazníka: {customer}
+Částka výběru: {amount}
+Platební metoda: {payment_method}
+Datum zpracování (odhad): {processed_date}
+{invoice_withdrawal}
+S pozdravem.

@@ -1,0 +1,3 @@
+Hola {customer}
+Su recompensa R-{reward_id} ha caducado y ya no se puede utilizar en nuestro sitio web.
+Tuyo sinceramente.

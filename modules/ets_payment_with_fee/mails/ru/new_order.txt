@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Поздравляем!
+
+Новый заказ был размещен в {shop_name} следующим клиентом: {firstname} {lastname} ({email})
+
+Информация для заказа
+
+Заказ: {order_name} Создано {date}
+
+Оплата: {payment}
+
+Ссылка	Товар	Цена за единицу	Количество	Итоговая цена   {items}
+Товары	{total_products}
+Скидки	{total_discounts}
+Подарочная упаковка	{total_wrapping}
+Доставка	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Включая общий налог	{total_tax_paid}
+Общая сумма	{total_paid}
+
+Перевозчик
+
+Перевозчик: {carrier}
+
+Оплата: {payment}
+
+Адресс доставки
+
+{delivery_block_html}
+
+Адрес для выставления счета
+
+{invoice_block_html}
+
+Сообщение клиента:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

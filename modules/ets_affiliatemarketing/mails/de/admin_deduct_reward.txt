@@ -1,0 +1,7 @@
+Hallo {customer_name}
+Der Administrator hat eine Prämie von Ihrem Prämienguthaben abgezogen
+Belohnungs-ID: S-{id_reward}
+Betrag: {amount}
+Programm: {program}
+Grund: {reason}
+Mit freundlichen Grüßen

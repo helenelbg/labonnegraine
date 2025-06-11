@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>flashsales</name>
+    <displayName><![CDATA[Ventes flash - Etendu]]></displayName>
+    <version><![CDATA[2.4.0]]></version>
+    <description><![CDATA[Cr&eacute;ez, modifiez, personnalisez vos ventes flash efficacement et intuitivement pour booster vos ventes!]]></description>
+    <author><![CDATA[Keyrnel]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

@@ -1,0 +1,96 @@
+#paypal-buttons
+{
+    display:none;
+}
+.additional-information section.payment_fee {
+    margin-top: -90px;
+    margin-bottom: 50px;
+    background: #d82637;
+}
+.additional-information section.payment_fee dt, .additional-information section.payment_fee dd {
+    background: #d82637;
+    color: #fff;
+    font-weight: bold;
+}
+button.btn.btn-primary.loading:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -10px;
+    border-radius: 50%;
+    border-right: 2px solid #fff;
+    border-left: 2px solid #fff;
+    -webkit-animation: spiner_loading 0.8s infinite linear;
+    animation: spiner_loading 0.8s infinite linear;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+}
+button.btn.btn-primary.loading {
+    color: rgba(255,255,255,0.3);
+    position: relative;
+    pointer-events: none;
+}
+.js-conditions-to-approve {
+    clear: both;
+    display: block;
+    width: 100%;
+}
+@-webkit-keyframes spiner_loading {
+    from {
+        transform: rotate(0);
+        -webkit-transform: rotate(0);
+    }
+    to {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spiner_loading {
+    from {
+        transform: rotate(0);
+        -webkit-transform: rotate(0);
+    }
+    to {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+.payment-desc img {
+    margin-right: 15px;
+    max-width: 60px!important;
+    float: left;
+    margin-bottom: 5px;
+    height: auto!important;
+}
+body#checkout section.checkout-step .payment-options label span {
+    display: inline;
+    text-align: left;
+}
+.payment-desc {
+    display: block!important;
+    float: left;
+    width: 100%;
+    clear: both;
+}
+.payment-desc p {
+    margin-bottom: 0;
+    display: unset;
+}
+.payment-desc + dl {
+    clear: both;
+}
+
+span.fee {
+    color: #d82637;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+div#paypal-buttons {
+    margin-top: -45px;
+}

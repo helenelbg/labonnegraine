@@ -1,0 +1,3 @@
+Olá {customer}
+Sua recompensa R-{reward_id} expirará em {day} dia(s) se não for usada. Recomendamos que você use a recompensa logo antes que seja tarde.
+Com os melhores cumprimentos.

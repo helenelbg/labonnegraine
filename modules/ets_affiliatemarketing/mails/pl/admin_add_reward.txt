@@ -1,0 +1,7 @@
+Cześć {customer_name}
+Administrator dodał Ci nagrodę
+ID nagrody: R-{id_reward}
+Kwota: {amount}
+Program: {program}
+Powód: {reason}
+Z poważaniem

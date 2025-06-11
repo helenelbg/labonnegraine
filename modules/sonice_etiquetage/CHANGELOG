@@ -1,0 +1,258 @@
+NOTICE OF LICENSE
+
+This source file is subject to a commercial license from Common-Services Co., Ltd.
+Use, copy, modification or distribution of this source file without written
+license agreement from the SARL SMC is strictly forbidden.
+In order to obtain a license, please contact us: contact@common-services.com
+
+INFORMATION SUR LA LICENCE D'UTILISATION
+
+L'utilisation de ce fichier source est soumise a une licence commerciale concedee par la societe Common-Services Co., Ltd.
+Toute utilisation, reproduction, modification ou distribution du present fichier source sans contrat de licence ecrit de la part de la
+Common-Services Co. Ltd. est expressement interdite.
+Pour obtenir une licence, veuillez contacter Common-Services Co., Ltd. a l'adresse: contact@common-services.com
+
+@package    SoNice Etiquetage
+@copyright  Copyright (c) 2011-2015 Common Services Co Ltd - 90/25 Sukhumvit 81 - 10260 Bangkok - Thailand
+@author     Alexandre D.
+@license    Commercial license
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+####################################
+# v2.1.08 - (2017-04-10)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Update displayed price on CN23, without tax for europe, with tax for the rest of the world
+
+Improved/changed features:
+
+[*] CORE : CN23 are now merged in 1 PDF file
+[*] BO : N/A
+
+
+####################################
+# v2.1.07 - (2017-02-14)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Naming of the different Colissimo offers
+[*] FIX : Some malformed PDF file in international delivery
+
+Improved/changed features:
+
+[*] CORE : Added CN23 options during label creation
+[*] CORE : Added recommendation level options during label creation
+[*] CORE : It is now possible to merge all PDFs in a unique file, easier to print 1 file than many
+[*] CORE : Delivery slip is now generated via Colissimo Web Service
+[*] BO : N/A
+
+
+####################################
+# v2.1.06 - (2016-09-19)
+####################################
+
+Fixed bugs:
+
+[*] FIX : N/A
+
+Improved/changed features:
+
+[*] CORE : PrestaShop 1.7 compliant
+[*] CORE : Order are now sorted by `id_order` instead of `date_add` (DESC)
+[*] BO : N/A
+
+
+####################################
+# v2.1.05 - (2016-09-05)
+####################################
+
+Fixed bugs:
+
+[*] FIX : CommonPrintServer JavaScript API
+
+Improved/changed features:
+
+[*] CORE : Get sender country from module configuration instead of PS_SHOP_COUNTRY_ID
+[*] CORE : Automatically uses warehouse address when applicable
+[*] BO : Added country selection in address configuration
+
+
+
+####################################
+# v2.1.04 - (2016-08-18)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Carrier update in multishop context
+[*] FIX : Warning "phpinfo()  has been disabled  for security reasons."
+[*] FIX : Parameter "totalAmount" now cast to int, sometimes causes bug if more than 2 decimals
+
+Improved/changed features:
+
+[*] CORE : File structure update to be PrestaShop compliant
+[*] BO : Some translations have been updated
+
+
+
+####################################
+# v2.1.03 - (2016-08-01)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Added `id_customer` in SQL query to fetch delivery point ID, not only `id_cart`
+
+Improved/changed features:
+
+[*] CORE : If relay ID is missing, check if it is in Address::other (e.g.: module Shopping Flux, etc.)
+[*] CORE : Delivery adresse optimization if addresse is too long
+[*] CORE : Added delivery state next to the city (e.g.: delivery in USA => Brooklyn, New York)
+[*] BO : Check HTTP protocol and fix if necessary for label URI as `PS_SSL_ENABLED` does not confirm if seller is currently over HTTPS or HTTP
+
+
+####################################
+# v2.1.02 - (2016-07-07)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Removed Live Chat Pro JS files from Orders > SoNice Étiquetage as it was creating problems
+[*] FIX : Better weight calculation on display in Orders > SoNice Étiquetage
+[*] FIX : Try/catch around phpinfo() in case this function is forbidden by the server
+[*] FIX : Translations link to new Colissimo offers
+
+Improved/changed features:
+
+[*] CORE : Now uses Ajax to send request to Common-PrintServer instead of $.ajax
+[*] BO : N/A
+
+
+
+####################################
+# v2.1.01 - (2016-06-23)
+####################################
+
+Fixed bugs:
+
+[*] FIX : id_shop for multi-shop order queries
+[*] FIX : French phone mobile starts by 0, no more +33
+
+Improved/changed features:
+
+[*] CORE : Removed backward compatibility with deprecated other module SoNice Étiquetage International (ZPL)
+[*] CORE : Session are now filtered by id_shop
+[*] CORE : Better compatibility with multi-shop
+[*] BO : Better display for session fusion
+
+
+
+####################################
+# v2.1.00 - (2016-06-11)
+####################################
+
+Fixed bugs:
+
+[*] FIX : File path in PS 1.4
+[*] FIX : Disabled qtip in PS 1.4 ==> jQuery version is too low
+[*] FIX : Employee in functions/set_order_as_sent.php
+[*] FIX : `multishop_context` in controller
+[*] FIX : Label dpi in printer test
+[*] FIX : Translation "Télécgarger" => "Télécharger"
+[*] FIX : CN23 PDF was actually the label when printing mode is PDF (not ZPL/DPL)
+[*] FIX : printme.js was not loading on PS 1.4
+[*] FIX : Order::total_shipping_tax_incl does not exists on PS 1.4, uses Order::total_shipping instead for PS 1.4
+[*] FIX : Address:address2 was set to null when updating delivery address in Orders > SoNice Étiquetage
+
+Improved/changed features:
+
+[*] CORE : Added "Door Code" in web service parameters
+[*] CORE : Removed the use of limited countries for hook "displayAdminOrder" as the module is now international
+[*] CORE : It is now possible to print invoices in Orders > SoNice Étiquetage
+[*] CORE : Changed printing mode for Common-PrintServer Utility, now can print from any browser
+[*] CORE : Added Legacy mode to keep using QZ instead of Common-PrintServer for label printing, limited to some browsers
+[*] CORE : Added compatibility with the new Colissimo Flexibilité Europe delivery
+
+[*] BO : User experience improvment in order sheet
+[*] BO : It is now possible to create and print label (PDF or ZPL/DPL) and CN23 from order sheet
+[*] BO : More detailed sumup
+
+
+
+####################################
+# v2.0.14 - (2016-01-22)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Filename for CN23 download
+[*] FIX : File URL after retrieving label
+[*] FIX : Product description now strip HTML and PHP tags
+[*] FIX : Context with FrontController if missing
+[*] FIX : Order total paid for international shipping (CN23)
+
+Improved/changed features:
+
+[*] CORE : Compact mode button is now available in Orders > SoNice Étiquetage, to simplify the display
+[*] CORE : Auto correction of delivery mode to international and Outre-Mer in XML
+
+[*] BO : Added weight unit configuration
+
+
+
+####################################
+# v2.0.14 - (2016-01-??)
+####################################
+
+Fixed bugs:
+
+[*] FIX : N/A
+
+Improved/changed features:
+
+[*] CORE : Better Customs Tariff research
+
+
+
+####################################
+# v2.0.13 - (2016-01-07)
+####################################
+
+Fixed bugs:
+
+[*] FIX : Tare is now applied when label is created from order sheet page
+[*] FIX : Printing method changed, send ZPL/DPL file directly to printer rather than sending raw ZPL/DPL code
+[*] FIX : Bug that forced Outre-Mer delivery as "COLI" (Colissimo Expert International)
+[*] FIX : Licence header updated
+
+Improved/changed features:
+
+[*] CORE : Displayed errors now have a link to the documentation
+
+[*] BO : Added an option to remove PDF417 (barcode) from delivery slip
+[*] BO : Printing test in configuration now avaiable for all 10x15 method in 203dpi and 300dpi
+[*] BO : Error message simplified in Orders > SoNice Étiquetage
+
+
+
+####################################
+# v2.0.12 - (2015-12-02)
+####################################
+
+Fixed bugs:
+
+[-] FIX : Employee ID from cookie to change order status
+
+
+
+####################################
+# v2.0.11 - (2015-12-01)
+####################################
+
+Fixed bugs:
+
+[-] FIX : Use `id_reference` from carrier to find the delivery mode if it can't be find with the `id_carrier`

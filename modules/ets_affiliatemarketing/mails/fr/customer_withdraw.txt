@@ -1,0 +1,9 @@
+Bonjour {customer},
+Vous venez de soumettre avec succès une demande de retrait sur la boutique {shop_name}. Votre demande est en attente d'approbation, veuillez patienter et n'oubliez pas de vérifier dans votre boîte de réception le courrier électronique de confirmation.
+Vous trouverez ci-dessous des informations détaillées sur votre demande de retrait:
+ID de retrait: {withdrawal_ID}
+Montant de retrait: {amount}
+Mode de paiement: {payment_method}
+Date de traitement (estimée): {processed_date}
+{invoice_withdrawal}
+Cordialement.

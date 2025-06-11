@@ -1,0 +1,7 @@
+# your-module/config/services.yml
+services:
+  timactive.smartcartreminder.set_up_shop_demo:
+    class: TimActive\Module\SmartCartReminder\Command\SetUpShopDemoCommand
+    tags:
+      - { name: 'console.command' }
+

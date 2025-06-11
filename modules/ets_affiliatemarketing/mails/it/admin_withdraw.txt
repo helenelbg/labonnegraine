@@ -1,0 +1,9 @@
+Ciao amministratore,
+Esiste una nuova richiesta di prelievo nello negozio {shop_name}. Si prega di rivedere le informazioni dettagliate di questa richiesta ed elaborarla:
+ID prelievo: {withdrawal_ID}
+Dal cliente: {customer}
+Importo del prelievo: {amount}
+Metodo di pagamento: {payment_method}
+Data di elaborazione (stimata): {processed_date}
+{invoice_withdrawal}
+Cordiali saluti.

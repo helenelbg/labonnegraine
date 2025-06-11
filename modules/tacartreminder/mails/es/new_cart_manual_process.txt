@@ -1,0 +1,7 @@
+({shop_url})
+Nuevo recordatorio para hacer manualmente en {shop_name}
+Cliente : {firstname} {lastname}
+Contenido del carro :
+ {cart_products_txt}
+Regla aplicada : {rule_name}
+[ >Conseguir más detalles y realizar manualmente este recordatorio ]({link_admin_live_cart_reminder})

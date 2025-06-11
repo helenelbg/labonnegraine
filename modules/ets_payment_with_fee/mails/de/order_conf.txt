@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Hallo {firstname} {lastname},
+
+Vielen Dank für Ihren Einkauf mit {shop_name}! 
+
+Bestellung: {order_name} Aufgelegt am {date}
+
+Zahlung: {payment} 		 
+
+Bezug
+
+Produkt
+
+Stückpreis
+
+Quantität
+
+Gesamtpreis
+
+{products_txt} 
+
+{discounts} 
+
+Produkte 
+
+{total_products} 
+
+Ermäßigungen
+
+{total_discounts} 
+
+Geschenkpapier
+
+{total_wrapping} 
+
+Versand 
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Gesamtsteuer bezahlt 
+
+{total_tax_paid} 
+
+Ganz bezahlt 
+
+{total_paid} 
+
+Transportunternehmen: {carrier}
+
+Zahlung: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Sie können Ihre Bestellung überprüfen und Ihre Rechnung im Abschnitt
+"Bestellhistorie" [{history_url}]
+Ihres Kundenkontos herunterladen, indem Sie in unserem Shop auf "Mein Konto"
+[{my_account_url}] klicken.
+
+Wenn Sie ein Gastkonto haben, können Sie Ihre Bestellung über die Rubrik
+"Gästetracking"
+[{guest_tracking_url}?id_order={order_name}]
+in unserem Shop verfolgen.
+
+{shop_name} [{shop_url}] betrieben von PrestaShop(tm) [http://www.prestashop.com/] 
+

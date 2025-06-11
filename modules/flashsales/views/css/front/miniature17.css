@@ -1,0 +1,213 @@
+/*----------------------------------------------------------------------------
+ shared
+ ---------------------------------------------------------------------------*/
+/* .flashsale .products.owl-carousel .product-miniature {
+    margin: 0 !important;
+    width: 100% !important;
+    display: block !important;
+} */
+
+.flashsale .products .product-miniature .thumbnail-container {
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 1.563rem !important;
+    overflow: hidden !important;
+    height: auto !important;
+    width: 100% !important;
+    max-width: 257px !important;
+    background: #fff !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-top {
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-thumbnail {
+    position: relative !important;
+    height: calc(100% - 70px) !important;
+    display: block !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-thumbnail img {
+    position: relative !important;
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: auto !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .highlighted-informations {
+    position: absolute !important;;
+    top: 100% !important;;
+    z-index: 2 !important;;
+    width: 100% !important;;
+    height: 100% !important;;
+    padding: 0.625rem 0 !important;;
+    text-align: center !important;;
+    background: #fff !important;;
+    transition: .3s !important;;
+}
+
+.flashsale .products .product-miniature .thumbnail-container:focus .highlighted-informations, 
+.flashsale .products .product-miniature .thumbnail-container:hover .highlighted-informations {
+    top: calc(100% - 4.4rem) !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container:focus .highlighted-informations.no-variants, 
+.flashsale .products .product-miniature .thumbnail-container:hover .highlighted-informations.no-variants {
+    top: calc(100% - 2.5rem) !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .highlighted-informations .quick-view {
+    font-size: 1rem !important;
+    color: #7a7a7a !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .highlighted-informations .quick-view .material-icons {
+    font-family: Material Icons !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
+    font-size: 24px !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+    width: 1em !important;
+    height: 1em !important;
+    line-height: 1 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    word-wrap: normal !important;
+    white-space: nowrap !important;
+    direction: ltr !important;
+    -webkit-font-smoothing: antialiased !important;
+    text-rendering: optimizeLegibility !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    -webkit-font-feature-settings: "liga" !important;
+    font-feature-settings: "liga" !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .variant-links {
+    position: relative !important;
+    top: -0.25em !important;
+    width: 100% !important;
+    min-height: 2.5rem !important;
+    padding-top: 0.1875rem !important;
+    text-align: center !important;
+    background: #fff !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .variant-links .color {
+    width: 1.125rem !important;
+    height: 1.125rem !important;
+    display: inline-block !important;
+    margin: 0.3125rem 0.5rem 0.3125rem 0.3125rem !important;
+    border: 1px solid rgba(0,0,0,.05) !important;
+    cursor: pointer !important;
+    background-size: contain !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .count {
+    position: relative !important;
+    bottom: 0.5rem !important;
+    font-weight: 700 !important;
+    color: #7a7a7a !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-description {
+    position: relative !important;
+    bottom: 0 !important;
+    height: auto !important;
+    padding: 0.25rem 0.25rem 0.7rem !important;
+    background: #fff !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container:focus .product-description::after, 
+.flashsale .products .product-miniature .thumbnail-container:hover .product-description::after {
+    position: absolute !important;
+    top: 0 !important;
+    left: 10% !important;
+    width: 80% !important;
+    content: "" !important;
+    border-top: #7a7a7a 1px solid !important;
+    opacity: .25 !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-title {
+    margin-top: 0.7rem !important;
+    text-align: center !important;
+    text-transform: capitalize !important;
+    font-size: 1.125rem !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-title a {
+    font-size: .875rem !important;
+    font-weight: 400 !important;
+    color: #7a7a7a !important;
+    text-align: center !important;
+    text-decoration: none !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-price-and-shipping {
+    color: #232323 !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    position: relative !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-price-and-shipping .regular-price {
+    display: inline-block !important;
+    font-size: .875rem !important;
+    color: #7a7a7a !important;
+    text-decoration: line-through !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-price-and-shipping .discount-percentage {
+    display: none !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-flags {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 2 !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    pointer-events: none !important;
+    list-style: none !important;
+    margin-bottom: 1rem !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-flags li.product-flag {
+    width: -webkit-fit-content !important;
+    width: -moz-fit-content !important;
+    width: fit-content !important;
+    padding: 0.3125rem 0.4375rem !important;
+    margin-top: 0.625rem !important;
+    font-size: 1rem !important;
+    color: #fff !important;
+    text-transform: uppercase !important;
+    word-break: break-word !important;
+    pointer-events: auto !important;
+    background: #24b9d7 !important;
+    min-width: 3.125rem !important;
+    min-height: 1.875rem !important;
+    font-weight: 600 !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container .product-flags li.product-flag.discount, 
+.flashsale .products .product-miniature .thumbnail-container .product-flags li.product-flag.discount-amount, 
+.flashsale .products .product-miniature .thumbnail-container .product-flags li.product-flag.discount-percentage {
+    background-color: #f39d72 !important;
+}
+
+.flashsale .products .product-miniature .thumbnail-container img,
+.flashsale .products .product-miniature .thumbnail-container .product-description,
+.flashsale .products .product-miniature .thumbnail-container .highlighted-informations {
+    width: 100% !important;
+}

@@ -1,0 +1,9 @@
+Hola {customer},
+Acaba de enviar una solicitud de retiro en la tienda {shop_name}. u solicitud está en espera de aprobación, sea paciente y recuerde revisar su bandeja de entrada para recibir un correo electrónico de confirmación.
+A continuación se muestra información detallada de su solicitud de retiro:
+ID de retiro: {withdrawal_ID}
+Cantidad de retiro: {amount}
+Método de pago: {payment_method}
+Fecha de procesamiento (estimado): {processed_date}
+{invoice_withdrawal}
+Tuyo sinceramente.

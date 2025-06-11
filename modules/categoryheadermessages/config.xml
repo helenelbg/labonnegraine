@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>categoryheadermessages</name>
+    <displayName><![CDATA[Messages commerciaux en entête de catégorie]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Permet d'ajouter des messages commerciaux en entête des pages catégories]]></description>
+    <author><![CDATA[La Bonne Graine]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désinstaller ce module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>

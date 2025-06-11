@@ -1,0 +1,5 @@
+Hello {customer}
+You have just successfully converted your reward balance into a voucher. Below is detailed information about your conversion:
+Voucher code: {discount_code}
+Reward amount converted: {discount_value}
+Yours sincerely.

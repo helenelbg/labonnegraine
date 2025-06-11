@@ -1,0 +1,6 @@
+Hola administrador
+Has rechazado una solicitud de retiro. A continuación se muestra información detallada de la solicitud de retiro:
+ID de retiro: {withdrawal_ID}
+Del cliente: {customer}
+Cantidad de retiro: {amount}
+Método de pago: {payment_method}

@@ -1,0 +1,4 @@
+Bonjour Admin
+ {customer} vient de soumettre une candidature à {program_register}
+Email: {email}
+{intro}

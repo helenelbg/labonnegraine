@@ -1,0 +1,74 @@
+
+[{shop_url}] 
+
+Hallo {firstname} {lastname},
+
+Bedankt voor het winkelen bij {shop_name}!
+
+Bestelling: {order_name} Gemaakt op {date}
+
+Betaling: {payment}
+
+Referentie
+
+Product
+
+Eenheid prijs
+
+Hoeveelheid
+
+Totale prijs
+
+{products_txt} 
+
+{discounts} 
+
+Producten
+
+{total_products} 
+
+Kortingen
+
+{total_discounts} 
+
+Geschenkverpakking
+
+{total_wrapping} 
+
+Verzending
+
+{total_shipping} 
+
+{fee_payment_text}
+
+{fee_payment}
+
+Totaal betaalde belasting
+
+{total_tax_paid} 
+
+Totaal betaald
+
+{total_paid} 
+
+Vervoerder: {carrier}
+
+Betaling: {payment}
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+U kunt uw bestelling bekijken en uw factuur downloaden in het gedeelte
+"Bestelgeschiedenis" [{history_url}]
+van uw klantaccount door in onze winkel op "Mijn account"
+[{my_account_url}] te klikken.
+
+Als u een gastaccount heeft, kunt u uw bestelling volgen via het gedeelte
+"Gastvolging"
+[{guest_tracking_url}?id_order={order_name}]
+in onze winkel.
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
+

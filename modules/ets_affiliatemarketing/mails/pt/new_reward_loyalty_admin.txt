@@ -1,0 +1,6 @@
+Olá administrador,
+Uma nova recompensa foi criada para {customer}
+Programa: {program}
+Recompensa de ID: R-{reward_id}
+Recompensa: {amount}
+Estado: {status}

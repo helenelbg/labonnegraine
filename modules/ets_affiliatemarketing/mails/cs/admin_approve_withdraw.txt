@@ -1,0 +1,6 @@
+Ahoj administrátore
+Schválili jste žádost o výběr. Níže jsou uvedeny podrobné informace o žádosti o výběr:
+ID výběru: {withdrawal_ID}
+Od zákazníka: {customer}
+Částka výběru: {amount}
+Platební metoda: {payment_method}

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<egmails>
+ <egmail>
+ 	<id>1</id>
+ 	<title>Simple</title>
+ 	<suggestions>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#555454</color1><color2>#e8e8e8</color2>
+ 			<color3>#FFF</color3><color4>#FFF</color4>
+ 			<color5>#fe2e64</color5><color6>#2e8aad</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#CECECE</variable>
+ 			<variable type="color" id="background-shadow-color">#555454</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#e8e8e8</variable>
+ 			<variable type="color" id="border-logo-color">#333333</variable>
+ 			<variable type="color" id="font-color">#555454</variable>
+ 			<variable type="color" id="font-highlighted-color">#fe2e64</variable>
+ 			<variable type="color" id="title-background-color">#e8e8e8</variable>
+ 			<variable type="color" id="font-title-color">#555454</variable>
+ 			<variable type="color" id="button-background-color">#49a9ce</variable>
+ 			<variable type="color" id="button-border-color">#2e8aad</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#FFFBED</color1><color2>#FFF</color2>
+ 			<color3>#E6E0CF</color3><color4>#ED6666</color4>
+ 			<color5>#C9C1A9</color5><color6>#fff</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#FFFBED</variable>
+ 			<variable type="color" id="background-shadow-color">#C9C1A9</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#E6E0CF</variable>
+ 			<variable type="color" id="border-logo-color">#C9C1A9</variable>
+ 			<variable type="color" id="font-color">#555454</variable>
+ 			<variable type="color" id="font-highlighted-color">#ED6666</variable>
+ 			<variable type="color" id="title-background-color">#E6E0CF</variable>
+ 			<variable type="color" id="font-title-color">#555454</variable>
+ 			<variable type="color" id="button-background-color">#ED6666</variable>
+ 			<variable type="color" id="button-border-color">#6c1900</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#A7DBD8</color1><color2>#FFF</color2>
+ 			<color3>#E0E4CC</color3><color4>#FA6900</color4>
+ 			<color5>#69D2E7</color5><color6>#fff</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#A7DBD8</variable>
+ 			<variable type="color" id="background-shadow-color">#555454</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#E0E4CC</variable>
+ 			<variable type="color" id="border-logo-color">#69D2E7</variable>
+ 			<variable type="color" id="font-color">#555454</variable>
+ 			<variable type="color" id="font-highlighted-color">#FA6900</variable>
+ 			<variable type="color" id="title-background-color">#69D2E7</variable>
+ 			<variable type="color" id="font-title-color">#000</variable>
+ 			<variable type="color" id="button-background-color">#FA6900</variable>
+ 			<variable type="color" id="button-border-color">#FA6900</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#F9F2E7</color1><color2>#FFF</color2>
+ 			<color3>#69D2E7</color3><color4>#00A8C6</color4>
+ 			<color5>#AEE239</color5><color6>#8FBE00</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#F9F2E7</variable>
+ 			<variable type="color" id="background-shadow-color">#CECECE</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#F9F2E7</variable>
+ 			<variable type="color" id="border-logo-color">#8FBE00</variable>
+ 			<variable type="color" id="font-color">#555454</variable>
+ 			<variable type="color" id="font-highlighted-color">#00A8C6</variable>
+ 			<variable type="color" id="title-background-color">#69D2E7</variable>
+ 			<variable type="color" id="font-title-color">#000</variable>
+ 			<variable type="color" id="button-background-color">#8FBE00</variable>
+ 			<variable type="color" id="button-border-color">#AEE239</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#EEEEEE</color1><color2>#FFF</color2>
+ 			<color3>#FFF</color3><color4>#00B4FF</color4>
+ 			<color5>#00B4FF</color5><color6>#515151</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#EEEEEE</variable>
+ 			<variable type="color" id="background-shadow-color">#CECECE</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#EEEEEE</variable>
+ 			<variable type="color" id="border-logo-color">#00B4FF</variable>
+ 			<variable type="color" id="font-color">#515151</variable>
+ 			<variable type="color" id="font-highlighted-color">#00B4FF</variable>
+ 			<variable type="color" id="title-background-color">#FFF</variable>
+ 			<variable type="color" id="font-title-color">#00B4FF</variable>
+ 			<variable type="color" id="button-background-color">#00B4FF</variable>
+ 			<variable type="color" id="button-border-color">#00B4FF9</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#BED2D9</color1><color2>#BED2D9</color2>
+ 			<color3>#FFF</color3><color4>#FFF</color4>
+ 			<color5>#ECF1F2</color5><color6>#515151</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#BED2D9</variable>
+ 			<variable type="color" id="background-shadow-color">#515151</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#ECF1F2</variable>
+ 			<variable type="color" id="border-logo-color">#ECF1F2</variable>
+ 			<variable type="color" id="font-color">#515151</variable>
+ 			<variable type="color" id="font-highlighted-color">#515151</variable>
+ 			<variable type="color" id="title-background-color">#ECF1F2</variable>
+ 			<variable type="color" id="font-title-color">#515151</variable>
+ 			<variable type="color" id="button-background-color">#ECF1F2</variable>
+ 			<variable type="color" id="button-border-color">#BED2D9</variable>
+ 			<variable type="color" id="button-font-color">#515151</variable>
+ 		</variables>
+ 		</suggestion>
+ 		<suggestion>
+ 		<palette>
+ 			<color1>#fff4f5</color1><color2>#000</color2>
+ 			<color3>#FFF</color3><color4>#FFF</color4>
+ 			<color5>#bb0021</color5><color6>#000</color6>
+ 		</palette>
+ 		<variables>
+ 			<variable type="color" id="background-color">#fff4f5</variable>
+ 			<variable type="color" id="background-shadow-color">#CECECE</variable>
+ 			<variable type="color" id="message-background-color">#FFF</variable>
+ 			<variable type="color" id="footer-background-color">#fff4f5</variable>
+ 			<variable type="color" id="border-logo-color">#000</variable>
+ 			<variable type="color" id="font-color">#555454</variable>
+ 			<variable type="color" id="font-highlighted-color">#bb0021</variable>
+ 			<variable type="color" id="title-background-color">#555454</variable>
+ 			<variable type="color" id="font-title-color">#fff</variable>
+ 			<variable type="color" id="button-background-color">#000</variable>
+ 			<variable type="color" id="button-border-color">#000</variable>
+ 			<variable type="color" id="button-font-color">#fff</variable>
+ 		</variables>
+ 		</suggestion>
+ 	</suggestions>
+ </egmail>
+ 
+ <egmail>
+ 	<id>2</id>
+ 	<title>Monochrome</title>
+ 	<suggestions>
+		<suggestion>
+			<palette>
+				<color1>#9b0d0d</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#9b0d0d</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#000000</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#000000</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#666666</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#666666</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#D0AB04</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#D0AB04</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#609730</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#609730</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#F42C75</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#F42C75</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#B35A99</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#B35A99</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#075164</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#075164</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#640E4B</color1>
+				<color2>#777777</color2>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#640E4B</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>white.png</bgpattern>
+		</suggestion>
+ 	</suggestions>
+ </egmail>
+ 
+ <egmail>
+ 	<id>3</id>
+ 	<title>Flash</title>
+ 	<suggestions>
+		<suggestion>
+			<palette>
+				<color1>#38b9da</color1>
+				<color2>#cadbe0</color2>
+				<color3>#0894b8</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#38b9da</variable>
+				<variable type="color" id="background-color">#cadbe0</variable>
+				<variable type="color" id="banner-color">#0894b8</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>clock.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#F42C75</color1>
+				<color2>#e7dbdf</color2>
+				<color3>#cf0b53</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#F42C75</variable>
+				<variable type="color" id="background-color">#e7dbdf</variable>
+				<variable type="color" id="banner-color">#cf0b53</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>clock.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#eea631</color1>
+				<color2>#dad3c6</color2>
+				<color3>#de8b03</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#eea631</variable>
+				<variable type="color" id="background-color">#dad3c6</variable>
+				<variable type="color" id="banner-color">#de8b03</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>clock.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#79b442</color1>
+				<color2>#c7d3bd</color2>
+				<color3>#4b910a</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#79b442</variable>
+				<variable type="color" id="background-color">#c7d3bd</variable>
+				<variable type="color" id="banner-color">#4b910a</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>clock.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#8d8383</color1>
+				<color2>#c1b7b7</color2>
+				<color3>#665555</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#8d8383</variable>
+				<variable type="color" id="background-color">#c1b7b7</variable>
+				<variable type="color" id="banner-color">#665555</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>clock.png</bgpattern>
+		</suggestion>
+ 	</suggestions>
+ </egmail>
+ 
+ <egmail>
+ 	<id>4</id>
+ 	<title>Christmas</title>
+ 	<suggestions>
+		<suggestion>
+			<palette>
+				<color1>#6c9103</color1>
+				<color2>#bfcf9d</color2>
+				<color3>#c21414</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#6c9103</variable>
+				<variable type="color" id="background-color">#bfcf9d</variable>
+				<variable type="color" id="banner-color">#c21414</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>croix.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#cf0b0b</color1>
+				<color2>#9dcfb4</color2>
+				<color3>#cf0b0b</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#cf0b0b</variable>
+				<variable type="color" id="background-color">#9dcfb4</variable>
+				<variable type="color" id="banner-color">#cf0b0b</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>croix.png</bgpattern>
+		</suggestion>
+ 	</suggestions>
+ </egmail>
+ 
+ <egmail>
+ 	<id>5</id>
+ 	<title>Limited Offer</title>
+ 	<suggestions>
+		<suggestion>
+			<palette>
+				<color1>#eea631</color1>
+				<color2>#dad3c6</color2>
+				<color3>#de8b03</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#eea631</variable>
+				<variable type="color" id="background-color">#dad3c6</variable>
+				<variable type="color" id="banner-color">#de8b03</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>sablier.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#38b9da</color1>
+				<color2>#cadbe0</color2>
+				<color3>#0894b8</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#38b9da</variable>
+				<variable type="color" id="background-color">#cadbe0</variable>
+				<variable type="color" id="banner-color">#0894b8</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>sablier.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#F42C75</color1>
+				<color2>#e7dbdf</color2>
+				<color3>#cf0b53</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#F42C75</variable>
+				<variable type="color" id="background-color">#e7dbdf</variable>
+				<variable type="color" id="banner-color">#cf0b53</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>sablier.png</bgpattern>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#79b442</color1>
+				<color2>#c7d3bd</color2>
+				<color3>#4b910a</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#79b442</variable>
+				<variable type="color" id="background-color">#c7d3bd</variable>
+				<variable type="color" id="banner-color">#4b910a</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+		</suggestion>
+		<suggestion>
+			<palette>
+				<color1>#8d8383</color1>
+				<color2>#c1b7b7</color2>
+				<color3>#665555</color3>
+				<color4>#777777</color4>
+			</palette>
+			<variables>
+				<variable type="color" id="color">#8d8383</variable>
+				<variable type="color" id="background-color">#c1b7b7</variable>
+				<variable type="color" id="banner-color">#665555</variable>
+				<variable type="color" id="shadow-color">#777777</variable>
+			</variables>
+			<bgpattern>sablier.png</bgpattern>
+		</suggestion>
+ 	</suggestions>
+ </egmail>
+ 	
+ </egmails>

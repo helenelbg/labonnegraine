@@ -1,0 +1,9 @@
+Olá {customer},
+Você acabou de enviar com sucesso uma solicitação de retirada na loja {shop_name}. Sua solicitação está aguardando aprovação, por favor, seja paciente e lembre-se de verificar sua caixa de entrada para um e-mail de confirmação.
+Abaixo estão informações detalhadas sobre sua solicitação de retirada:
+ID de retirada: {withdrawal_ID}
+Valor do saque: {amount}
+Forma de pagamento:{payment_method}
+Data processada (estimada): {processed_date}
+{invoice_withdrawal}
+Com os melhores cumprimentos.

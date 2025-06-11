@@ -1,0 +1,73 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+li[id*=subtab-AdminEtsAm] a.link i:first-child {
+    font-size: 0!important;
+    width: 16px;
+    height: 16px;
+}
+li[id^=subtab-AdminEtsAm] a.link i:first-child:before,
+li[id=subtab-AdminEtsAm] a.link i:first-child:before,
+li[id*=subtab-AdminEtsAm] a.link i:first-child:before{
+    font-size: 1rem;
+    font-family: "Fontawesome";
+}
+.fa,.fa:before{
+	font-family: "Fontawesome"!important;
+}
+.icon-AdminEtsAm:before{
+    content: '\f091';
+}
+#subtab-AdminEtsAmMarketing a.link i:first-child:before{content:"\f0e8"}
+#subtab-AdminEtsAmRewards a.link i:first-child:before{content:"\f06b"}
+#subtab-AdminEtsAmCustomers a.link i:first-child:before{content:"\f0c0"}
+#subtab-AdminEtsAmBackup a.link i:first-child:before{content:"\f021"}
+#subtab-AdminEtsAmCronjob a.link i:first-child:before{content:"\f0ae"}
+#subtab-AdminEtsAmGeneral a.link i:first-child:before{content:"\f013"}
+
+
+
+
+
+
+
+
+.mobile li#tab-AdminEtsAm {
+    display: block;
+}
+.mobile li#tab-AdminEtsAm.actived > span.title:after {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    margin-top: 3px;
+}
+.mobile li#tab-AdminEtsAm > span.title:after {
+    content: "";
+    border-top: 2px solid #6c868e;
+    border-right: 2px solid #6c868e;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    float: right;
+    margin-right: 32px;
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.mobile li[id*=subtab-AdminEtsAm]{
+    display:none;
+}
+.mobile li[id*=subtab-AdminEtsAm].ets_sidebar_menu_show{
+    display: block;
+}
+.mobile li[id*=subtab-AdminEtsAm] a.link i:first-child {
+    width: 22px;
+    height: auto;
+    line-height: 12px!important;
+}
+.mobile li[id*=subtab-AdminEtsAm] a.link i:first-child:before{
+    font-size: 20px;
+}
+.mobile li[id*=subtab-AdminEtsAm] .sub-tabs-arrow {
+    font-size: 2.1rem!important;
+}
+
+

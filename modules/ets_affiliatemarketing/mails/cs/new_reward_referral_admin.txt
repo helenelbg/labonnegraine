@@ -1,0 +1,8 @@
+Ahoj administrátore,
+Pro {customer} byla vytvořena nová odměna
+Program: {program}
+ID odměna: R-{reward_id}
+Sponzor: {customer}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Stav: {status}

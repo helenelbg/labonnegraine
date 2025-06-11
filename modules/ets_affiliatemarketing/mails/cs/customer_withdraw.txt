@@ -1,0 +1,9 @@
+Ahoj {customer},
+Právě jste úspěšně odeslali žádost o výběr v obchodě {shop_name}. Vaše žádost čeká na schválení, buďte prosím trpěliví a nezapomeňte zkontrolovat svou doručenou poštu, zda nemáte potvrzovací e-mail.
+Níže jsou uvedeny podrobné informace o vaší žádosti o výběr:
+ID výběru: {withdrawal_ID}
+Částka výběru: {amount}
+Platební metoda:{payment_method}
+Datum zpracování (odhad): {processed_date}
+{invoice_withdrawal}
+S pozdravem.

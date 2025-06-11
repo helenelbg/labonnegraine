@@ -1,0 +1,7 @@
+Hi {customer_name}
+Admin has deducted a reward from your reward balance
+Reward ID: S-{id_reward}
+Amount: {amount}
+Program: {program}
+Reason: {reason}
+Yours sincerely

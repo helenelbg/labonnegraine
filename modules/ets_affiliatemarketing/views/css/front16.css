@@ -1,0 +1,86 @@
+/**
+ * Copyright ETS Software Technology Co., Ltd
+ *
+ * NOTICE OF LICENSE
+ *
+ * This file is not open source! Each license that you purchased is only available for 1 website only.
+ * If you want to use this file on more websites (or projects), you need to purchase additional licenses.
+ * You are not allowed to redistribute, resell, lease, license, sub-license or offer our resources to any third party.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ * versions in the future.
+ *
+ * @author ETS Software Technology Co., Ltd
+ * @copyright  ETS Software Technology Co., Ltd
+ * @license    Valid for 1 website (or project) for each purchase of license
+ */
+.nv-area { opacity: .3 }
+.eam-box-filter  .selector{
+	max-width: 125px;
+    display: inline-block;
+}
+.eam-box-filter  .selector span{
+	width: 100%!important;
+}
+#module-ets_affiliatemarketing-dashboard .stat-filter form.form-inline .eam_action {
+    padding: 0;
+}
+.ets-am-program .ets-am-content {
+    padding: 10px 0;
+}
+#eam-affiliate-link-add-on{
+	border-left: 1px solid #ddd;
+}
+.ets-am-content div.uploader{
+	display: none;
+}
+.eam-table-flat thead tr th{
+	background: #fff;
+}
+.eam-table-data thead tr th{
+	color: #fff;
+}
+.eam-tooltip:hover:before, .eam-input-link:hover + .eam-tooltip:before{
+	top: -14px;
+}
+a.eam-help{
+	margin-left: 0;
+}
+
+ul.ets-am-content-links{
+    height: 50px;
+}
+.ets-am-content .panel{
+    box-shadow: none;
+}
+
+@media (max-width: 767px){
+    
+    .eam-box-filter .selector{
+    	width: 100% !important;
+    	max-width: none !important;
+    	display: block !important;
+    }
+    .eam_action{
+    	margin-top: 15px;
+    	text-align: right;
+    }
+    .eam_action .btn,
+    .eam_action .btn-block{
+    	display: inline-block;
+    	float: none !important;
+    }
+    ul.ets-am-content-links{
+        height: auto;
+    }
+}
+.ets-am-content .alert{
+	display: inline-block;
+	width: 100%;
+}
+.ets-am-program .navbar-page{
+	display: inline-block;
+	width: 100%;
+}

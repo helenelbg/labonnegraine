@@ -1,0 +1,7 @@
+Hola {customer_name}
+El administrador ha deducido una recompensa de su saldo de recompensas
+ID de recompensa: S-{id_reward}
+Cantidad: {amount}
+Programa: {program}
+Razón: {reason}
+Tuyo sinceramente

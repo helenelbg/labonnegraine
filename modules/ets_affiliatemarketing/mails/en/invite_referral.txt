@@ -1,0 +1,3 @@
+Hi {username}
+{your_friend} invited you to create an account on our website {shop_name}. Click on the button below to join us:
+{link_ref}

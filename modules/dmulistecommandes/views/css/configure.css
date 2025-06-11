@@ -1,0 +1,34 @@
+/**
+* NOTICE OF LICENSE
+*
+* This source file is subject to a commercial license from SARL DREAM ME UP
+* Use, copy, modification or distribution of this source file without written
+* license agreement from the SARL DREAM ME UP is strictly forbidden.
+*
+*   .--.
+*   |   |.--..-. .--, .--.--.   .--.--. .-.   .  . .,-.
+*   |   ;|  (.-'(   | |  |  |   |  |  |(.-'   |  | |   )
+*   '--' '   `--'`-'`-'  '  `-  '  '  `-`--'  `--`-|`-'
+*        w w w . d r e a m - m e - u p . f r       '
+*
+*  @author    Dream me up <prestashop@dream-me-up.fr>
+*  @copyright 2007 - 2023 Dream me up
+*  @license   All Rights Reserved
+*/
+
+.tab_config_dmu_15 {
+	background-color: #ebedf4;
+	border: 1px solid #ccced7;
+	min-height: 404px;
+	padding: 5px 10px 10px;
+	margin-left: 140px;
+}
+.tab_config_dmu_15 h3 {
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0 0 .5em 0;
+	line-height: 1.4em;
+}
+.tab_config_dmu_15 fieldset {
+	border:none;	
+}

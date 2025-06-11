@@ -1,0 +1,6 @@
+Hallo {customer},
+Herzliche Glückwünsche! Ihr Auszahlungsantrag für den Shop {shop_name} wurde genehmigt. Nachfolgend finden Sie detaillierte Informationen zu Ihrer Auszahlungsanfrage:
+Auszahlungs-ID: {withdrawal_ID}
+Auszahlungsbetrag: {amount}
+Zahlungsmethode: {payment_method}
+Hochachtungsvoll.

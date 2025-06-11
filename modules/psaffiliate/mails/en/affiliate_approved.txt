@@ -1,0 +1,10 @@
+{shop_name}
+
+Hi {name},
+Your affiliate request on {shop_name} has been approved!
+
+To enter your affiliate account, first you have to login as a customer, then go to the Customer area, and there you will have a button which will take you to the affiliate area.
+
+
+{shop_name}
+{shop_url}

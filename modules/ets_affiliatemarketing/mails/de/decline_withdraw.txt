@@ -1,0 +1,6 @@
+Hallo {customer},
+Leider wurde Ihre Auszahlungsanfrage abgelehnt. Nachfolgend finden Sie detaillierte Informationen zu Ihrer Auszahlungsanfrage:
+Auszahlungs-ID: {withdrawal_ID}
+Auszahlungsbetrag: {amount}
+Zahlungsmethode: {payment_method}
+Hochachtungsvoll.

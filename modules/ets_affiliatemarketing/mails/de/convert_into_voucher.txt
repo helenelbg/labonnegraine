@@ -1,0 +1,5 @@
+Hallo {customer}
+Sie haben gerade Ihr Prämienguthaben erfolgreich in einen Gutschein umgewandelt. Nachfolgend finden Sie detaillierte Informationen zu Ihrer Konvertierung:
+Gutscheincode: {discount_code}
+Umgerechneter Prämienbetrag: {discount_value}
+Hochachtungsvoll.

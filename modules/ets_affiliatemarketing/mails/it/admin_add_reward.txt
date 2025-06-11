@@ -1,0 +1,7 @@
+Ciao {customer_name}
+L'amministratore ti ha aggiunto una ricompensa
+ID ricompensa: R-{id_reward}
+Importo: {amount}
+Programma: {program}
+Motivo: {reason}
+Cordiali saluti,

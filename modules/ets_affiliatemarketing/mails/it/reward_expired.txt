@@ -1,0 +1,3 @@
+Ciao {customer}
+Il tuo premio R-{reward_id} è scaduto e non può più essere utilizzato sul nostro sito Web.
+Cordiali saluti.

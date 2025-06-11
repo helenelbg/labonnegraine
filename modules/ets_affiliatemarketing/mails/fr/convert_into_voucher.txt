@@ -1,0 +1,5 @@
+Bonjour {customer}
+Vous venez de convertir avec succès votre solde de récompense en un bon. Vous trouverez ci-dessous des informations détaillées sur votre conversion:
+Code de bon d'achat: {discount_code}
+Le montant de la récompense converti: {discount_value}
+Cordialement.

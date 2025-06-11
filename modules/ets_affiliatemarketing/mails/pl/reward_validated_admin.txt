@@ -1,0 +1,8 @@
+Cześć Admin
+Nagroda klienta zostaje zatwierdzona. Znajdź szczegóły poniżej:
+Program: {program}
+Nagroda ID: R-{reward_id}
+Nagroda: {amount}
+Data utworzenia: {date_created}
+Data zatwierdzenia: {date_validated}
+Uwaga: {note}

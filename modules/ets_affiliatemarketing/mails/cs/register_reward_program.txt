@@ -1,0 +1,4 @@
+Ahoj administrátore,
+{customer} právě odeslal přihlášku do {program_register}
+E-mail: {email}
+{intro}

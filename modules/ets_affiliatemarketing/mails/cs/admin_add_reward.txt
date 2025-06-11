@@ -1,0 +1,7 @@
+Ahoj {customer_name}
+Admin vám přidal odměnu
+ID odměny: R-{id_reward}
+Částka: {amount}
+Program: {program}
+Důvod: {reason}
+S pozdravem

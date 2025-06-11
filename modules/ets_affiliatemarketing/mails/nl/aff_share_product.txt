@@ -1,0 +1,6 @@
+Hallo {aff_name},
+{customer_name} heeft een product van onze website {shop_name} met u gedeeld
+Product: {name_product}
+Bericht aan jou: {aff_message}
+Klik op de onderstaande knop om het product te bekijken
+Bekijk product

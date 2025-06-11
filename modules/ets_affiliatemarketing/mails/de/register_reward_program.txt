@@ -1,0 +1,4 @@
+Hallo Admin
+{customer} hat gerade eine Bewerbung an {program_register} gesendet.
+Email: {email}
+{intro}

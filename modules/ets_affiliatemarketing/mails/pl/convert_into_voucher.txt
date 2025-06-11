@@ -1,0 +1,5 @@
+Cześć {customer}
+Właśnie pomyślnie zamieniłeś saldo nagrody na kupon. Poniżej znajdują się szczegółowe informacje o Twojej konwersji:
+Kod kuponu: {discount_code}
+Przeliczona kwota nagrody: {discount_value}
+Z poważaniem.

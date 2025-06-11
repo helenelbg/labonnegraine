@@ -1,0 +1,5 @@
+Hi {username},
+Your application for {program} was declined.
+Reason: {reason}
+Thanks for being interested in our program!
+Yours sincerely.

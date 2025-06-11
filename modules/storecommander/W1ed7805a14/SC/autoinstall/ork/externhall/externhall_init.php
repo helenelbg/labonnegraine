@@ -1,0 +1,5 @@
+<?php
+/*
+StoreCommander
+*/
+ goto XtHx1; gDzBE: require "\125\x73\x61\x67\x65\56\x70\x68\x70"; goto rSu_f; VTV4O: $externHallObject->exitPage(403); goto FYng0; rSu_f: require "\x41\165\164\x6f\x55\160\144\141\164\145\x2e\x70\x68\x70"; goto ZyEIS; o0mf9: l2oZw: goto yNsEi; ZyEIS: $_GET = $_POST = null; goto AbATO; FYng0: E91Ql: goto slQk7; eEqca: if ($externHallObject->isValidEntrance()) { goto E91Ql; } goto VTV4O; XtHx1: require "\105\x78\x74\145\162\156\x48\141\x6c\x6c\56\x70\x68\x70"; goto gDzBE; gSONC: $externHallObject->exitPage(403); goto o0mf9; u8Vd9: if (!(!$externHallObject->allowSendingData() || !$externHallObject->isValidToken())) { goto l2oZw; } goto gSONC; CHc1K: $externHallObject->setPropertiesFromServer(); goto eEqca; AbATO: $externHallObject = new ExternHall($_SERVER); goto CHc1K; slQk7: require_once "\56\x2e\57\x2e\56\57\56\x2e\57\56\56\57\x63\x6f\x6e\146\x69\147\x2f\143\157\156\146\151\147\x2e\151\x6e\143\56\x70\x68\160"; goto u8Vd9; yNsEi: $externHallObject->doProcess(); goto jBCS8; jBCS8: $externHallObject->exitPage(200);

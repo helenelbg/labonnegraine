@@ -1,0 +1,7 @@
+({shop_url})  
+Nouvelle relance panier à traiter sur votre boutique {shop_name}
+Client : {firstname} {lastname}  
+Contenu du panier 
+{cart_products_txt} 
+Règle appliquée : {rule_name}
+[ &gt;Obtenez plus de détail et traitez cette relance ]({link_admin_live_cart_reminder})

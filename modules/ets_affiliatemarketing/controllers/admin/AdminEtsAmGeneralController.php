@@ -1,0 +1,43 @@
+<?php
+/**
+ * Copyright ETS Software Technology Co., Ltd
+ *
+ * NOTICE OF LICENSE
+ *
+ * This file is not open source! Each license that you purchased is only available for 1 website only.
+ * If you want to use this file on more websites (or projects), you need to purchase additional licenses.
+ * You are not allowed to redistribute, resell, lease, license, sub-license or offer our resources to any third party.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ * versions in the future.
+ *
+ * @author ETS Software Technology Co., Ltd
+ * @copyright  ETS Software Technology Co., Ltd
+ * @license    Valid for 1 website (or project) for each purchase of license
+ */
+
+if (!defined('_PS_VERSION_'))
+    exit;
+require_once dirname(__FILE__) . '/AdminEtsAmFormController.php';
+
+/**
+ * Class AdminEtsAmGeneralController
+ * @property Ets_affiliatemarketing $module;
+ */
+class AdminEtsAmGeneralController extends AdminEtsAmFormController
+{
+    public function init()
+    {
+        parent::init();
+        $this->bootstrap = true;
+    }
+    public function renderList()
+    {
+        $tabActive = Tools::getValue('tabActive','general_settings');
+        if(!in_array($tabActive,array('general_settings','general_email')))
+            Tools::redirectAdmin($this->context->link->getAdminLink('AdminEtsAmGeneral'));
+        return $this->_renderList($tabActive);
+    }
+}

@@ -1,0 +1,8 @@
+Hallo Admin,
+Die Prämie eines Kunden wird genehmigt. Einzelheiten finden Sie unten:
+Programm: {program}
+ID-Belohnung: R-{reward_id}
+Belohnung: {amount}
+Erstellungsdatum: {date_created}
+Genehmigungsdatum: {date_validated}
+Anmerkung: {note}

@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<title>{message_title}</title>
+	
+	
+		<style>	
+		/*CSSTOINLINECART*/
+		.product-line-col{border:1px solid #e8e8e8;}
+		.product-price{font-weight: bold}
+		.discount-percent{font-weight: bold;color:[[font-highlighted-color]];}
+		/*ENDCSSTOINLINECART*/
+		@media only screen and (max-width: 300px){
+				body {
+					margin:auto !important;
+				}
+				table.table {width:195px !important;margin:auto !important;}
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto !important;display: block !important;}
+				span.title{font-size:20px !important;line-height: 23px !important}
+				span.subtitle{font-size: 14px !important;line-height: 18px !important;padding-top:10px !important;display:block !important;}
+				td.box p{font-size: 12px !important;font-weight: bold !important;}
+				.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr {
+					display: block !important;
+				}
+				.table-recap{width: 200px!important;}
+				.table-recap tr td, .conf_body td{text-align:center !important;}
+				.address{display: block !important;margin-bottom: 10px !important;}
+				.space_address{display: none !important;}
+				
+			}
+	@media only screen and (min-width: 301px) and (max-width: 500px) {
+				body {width: 303px!important;margin:auto!important;}
+				table.table {width:285px!important;margin:auto!important;}
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr {
+					display: block !important;
+				}
+				.table-recap{width: 293px !important;}
+				.table-recap tr td, .conf_body td{text-align:center !important;}
+	
+			}
+	@media only screen and (min-width: 501px) and (max-width: 768px) {
+				body {width: 504px!important;margin:auto!important;}
+				table.table {width:485px!important;margin:auto!important;}
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr {
+					display: block !important;
+				}
+				.table-recap{width: 493px !important;}
+				.table-recap tr td, .conf_body td{text-align:center !important;}
+	
+			}
+	
+	@media only screen and (max-device-width: 480px) {
+				body {width:308px!important;margin:auto!important;}
+				table.table {width:285px;margin:auto!important;}
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+	
+				.table-recap{width: 285px!important;}
+				.table-recap tr td, .conf_body td{text-align:center!important;}
+				.address{display: block !important;margin-bottom: 10px !important;}
+				.space_address{display: none !important;}
+			}
+</style>
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="cursor: auto; background-color:[[background-color]];margin:0;padding:0;" bgcolor="[[background-color]]">
+<table border="0" cellspacing="0" cellpadding="0" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased;background-color:[[background-color]];
+font-family:Arial,Arial,Helvetica,sans-serif;font-weight:normal;font-style:normal;text-decoration:none;font-size:13px;" bgcolor="[[background-color]]" width="100% ">
+<tbody>
+<tr>
+	<td align="center" width="100% ">
+		<table width="650" border="0" cellspacing="0" cellpadding="0" class="table table-mail" bgcolor="[[message-background-color]]" style="background-color:[[message-background-color]];margin:0;
+		-moz-box-shadow:0 0 5px [[background-shadow-color]];-webkit-box-shadow:0 0 5px [[background-shadow-color]];-o-box-shadow:0 0 5px [[background-shadow-color]];box-shadow:0 0 5px [[background-shadow-colorr]];filter:progid:DXImageTransform.Microsoft.Shadow(color=[[background-shadow-color]],Direction=134,Strength=5)">
+<tbody>
+<tr>
+<td class="logo" style="border-bottom: 4px solid [[border-logo-color]]; padding: 7px 0;" align="center"><img src="{shop_logo}" alt="" style="max-width:100%"/></td>
+</tr>
+<tr>
+<td class="space_footer" style="padding: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0 0 0 10px;">
+<p>Bonjour {customer_firstname},<br/>
+			Certains de nos articles vous ont s&eacute;duit sur notre boutique&nbsp;{shop_name}.</p>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 0 10px;">Finalisez d&eacute;s maintenant votre commande, en effet, cas exceptionnel! <br /><span style="color: [[font-highlighted-color]]; font-weight: bold;">Frais de port offert valable jusqu'au &nbsp;<strong>{voucher_expirate_date}&nbsp;avec le code suivant&nbsp;</strong>&nbsp;<span style="color: #fff; background-color: [[font-highlighted-color]]; padding: 2px;">{voucher_code}</span>&nbsp;! </span></td>
+</tr>
+<tr>
+<td style="padding: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0 0 0 10px;">A toute suite chez {shop_name},<br />&Eacute;lodie<br/>Responsable Relation Client</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 7px;"><a href="{cart_url}"> <span style="color:[[button-font-color]]; padding: 6px; background-color:[[button-background-color]]; border: 1px solid [[button-border-color]]; display: inline-block; font-weight: bold; text-transform: uppercase;">&nbsp;&gt;&nbsp;Finalisez ma commande</span></a></td>
+</tr>
+<tr>
+<td style="color: [[font-highlighted-color]]; font-weight: bold;padding:0 0 0 10px;">Vous avez &eacute;t&eacute; s&eacute;duit pour...</td>
+</tr>
+<tr>
+<td>{cart_products}</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 7px;"><a href="{cart_url}"> <span style="color:[[button-font-color]]; padding: 6px; background-color:[[button-background-color]]; border: 1px solid [[button-border-color]]; display: inline-block; font-weight: bold; text-transform: uppercase;">&nbsp;&gt;&nbsp;Finalisez ma commande</span></a></td>
+</tr>
+<tr>
+<td style="padding: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: [[title-background-color]]; padding: 3px;color:[[font-title-color]]"><strong>LE SAVIEZ VOUS?</strong></td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td style="padding: 10px;" width="50px"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/delivery50.png" alt="" /></td>
+<td><strong><span style="font-weight:bold;font-size:1em">Livraison <span style="color:[[font-highlighted-color]]">rapide</span></span></strong>
+<p>Livraison 24h réalisé par TNT express</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td style="padding: 10px;" width="50px"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/lock50.png" alt="" /></td>
+<td><strong><span style="font-weight:bold;font-size:1em">Paiement <span style="color:[[font-highlighted-color]]">sécurisé</span></span></strong><br />
+<p>Réalisez vos achats en toute sérénité (Paypal, Visa, master card...)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td style="padding: 10px;" width="50px"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/happy50.png" alt="" /></td>
+<td><strong><span style="font-weight:bold;font-size:1em">Satisfait ou remboursé</span></strong><br />
+<p>Vous avez 14 jours de rétractation</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td style="padding: 10px;" width="50px"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/tel50.png" alt="" /></td>
+<td><span style="font-weight:bold;font-size:1em">Service clients <span style="color:[[font-highlighted-color]]">7J/7</span></span>
+<p class="">Notre service client à votre écoute 7J/7</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr>
+	<td style="background-color: [[footer-background-color]]; padding: 6px;" align="center">
+		Conformément à la loi informatique et libertés du 06/01/1978 (art. 27, 34) vous disposez d'un droit d'accès, de modification et de suppression des données vous concernant.<br/>
+		Cliquez <a href="{unscribe_url}">ici</a> pour ne plus recevoir de relance
+	</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

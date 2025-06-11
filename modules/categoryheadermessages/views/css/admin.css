@@ -1,0 +1,80 @@
+/**
+ * CSS pour l'administration du module CategoryHeaderMessages
+ */
+ 
+/* Styles pour le champ de recherche de produits */
+.form-group-product-search .input-group {
+  position: relative;
+}
+
+/* Styles pour la zone de résultats de recherche */
+.product-search-results-wrapper {
+  position: relative;
+  width: 100%;
+  margin-top: -1px;
+}
+
+.product-search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: white;
+  border: 1px solid #ddd;
+  max-height: 300px;
+  overflow-y: auto;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.product-search-item {
+  padding: 8px 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.product-search-item:last-child {
+  border-bottom: none;
+}
+
+.product-search-item:hover {
+  background-color: #f8f8f8;
+}
+
+.product-search-item img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  object-fit: contain;
+  border: 1px solid #eee;
+}
+
+.product-search-item-info {
+  flex: 1;
+}
+
+.product-search-item-name {
+  font-weight: bold;
+}
+
+.product-search-item-reference {
+  font-size: 0.9em;
+  color: #777;
+}
+
+/* Styles pour le champ de déclinaisons */
+select[name="id_product_attribute"] {
+  margin-top: 5px;
+  width: 100%;
+}
+
+/* Animation pour indiquer un chargement des déclinaisons */
+select[name="id_product_attribute"].loading {
+  background-image: url('../img/loader.gif');
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 20px;
+}

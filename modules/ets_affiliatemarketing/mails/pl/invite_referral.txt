@@ -1,0 +1,3 @@
+Cześć {username}
+{your_friend} zaprosił Cię do utworzenia konta na naszej stronie {shop_name}. Kliknij poniższy przycisk, aby do nas dołączyć:
+{link_ref}

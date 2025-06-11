@@ -1,0 +1,40 @@
+/*
+ * NOTICE OF LICENSE
+ *
+ * This file is licenced under the Software License Agreement.
+ * With the purchase or the installation of the software in your application
+ * you accept the licence agreement.
+ *
+ * You must not modify, adapt or create derivative works of this source code.
+ *
+ * @author    Active Design <office@activedesign.ro>
+ * @copyright 2016-2018 Active Design
+ * @license   LICENSE.txt
+ */
+
+.psaffiliates-product-link {
+    margin-top: 10px;
+}
+
+.psaffiliates-product-link.ps17 .control-label {
+    width: 25%;
+    line-height: 45px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.psaffiliates-product-link.ps16 .control-label {
+    line-height: 35px;
+}
+
+.psaffiliates-product-link i.material-icons {
+    margin: 0;
+}
+
+.psaffiliates-product-link.ps17 .form-control {
+    height: 45px;
+}
+
+.psaffiliates-product-link.ps16 .form-control {
+    height: 33px;
+}

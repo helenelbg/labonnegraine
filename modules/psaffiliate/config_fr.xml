@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>psaffiliate</name>
+    <displayName><![CDATA[PS Affiliate]]></displayName>
+    <version><![CDATA[1.6.14]]></version>
+    <description><![CDATA[PS Affiliate is an affiliate tracking system which allows Prestashop store owners to easily deploy a full-fledged affiliate program. It is ridiculously easy to install, configure and use, has all the features and flexibility you&#039;d need, and runs by itself - just deploy it and let it make you money.]]></description>
+    <author><![CDATA[Active Design]]></author>
+    <tab><![CDATA[advertising_marketing]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

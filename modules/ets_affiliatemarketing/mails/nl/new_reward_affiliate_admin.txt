@@ -1,0 +1,8 @@
+Hallo beheerder,
+Er is een nieuwe beloning gemaakt voor {customer}
+Programma: {program}
+Gelieerde onderneming: {customer}
+ID-beloning: R-{reward_id}
+Beloning: {amount}
+Datum gemaakt: {date_created}
+Status: {status}

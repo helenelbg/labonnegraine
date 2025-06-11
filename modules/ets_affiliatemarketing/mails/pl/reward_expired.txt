@@ -1,0 +1,3 @@
+Cześć {customer}
+Twoja nagroda R-{reward_id} wygasła i nie można jej już używać w naszej witrynie.
+Z poważaniem

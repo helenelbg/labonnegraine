@@ -1,0 +1,8 @@
+Ahoj {customer}
+Gratulujeme! Vaše odměna byla schválena.
+Program: {program}
+Odměna za ID: R-{reward}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Datum schválení: {date_validated}
+Poznámka: {note}

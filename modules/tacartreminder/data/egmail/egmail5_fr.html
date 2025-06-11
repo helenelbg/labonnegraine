@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<title>{message_title}</title>
+	
+	<style>	
+		/*CSSTOINLINECART*/
+		.product-price {font-weight: bold; font-size:14px !important; }
+		.product-line-col {border-top:1px solid #cccccc;border-bottom:1px solid #cccccc; padding:5px 0; }
+		.discount-percent {font-weight: bold;color:[[color]];}
+		.product_name {font-size:12px !important; }
+		.product-quantity {font-weight: bold; font-size:14px !important;}
+		/*ENDCSSTOINLINECART*/
+		a { color:[[color]];}
+		.max100 { max-width:100% !important; height:auto !important;}
+		@media only screen and (max-width: 670px){
+			body {width:100% !important;}
+			table.table {width:100% !important;}
+			.table-mail { padding:15px 10px !important;}
+			.table-recap{width: 100% !important;}
+			.hidden-xs { display:none !important;}
+			.block-xs {display: block !important; width:100% !important;}
+			.text-center-xs { text-align:center !important;}
+			.table-mail { margin:0 !important;}
+			.paddLR0-xs {padding-left:0 !important; padding-right:0 !important;}
+		}
+		@media only screen and (max-width: 500px){
+			.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr { display: block !important; }
+			.table-recap tr td, .conf_body td {text-align:center !important;}
+			.table-recap { border-bottom:1px solid #cccccc !important;}
+			.td-product-image { border-bottom:none!important;}
+			.td-product-description, .td-product-price, .td-product-quantity { border:none!important;}
+			.w50 { width:100% !important; display:block; !important}
+		}
+		@media only screen and (max-width: 320px){
+			.logo img { width:100% !important; height:auto !important;}
+		}
+
+
+	</style>
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="font-size:12px; cursor: auto; background-color:[[background-color]]; margin:0; padding:0; color:#333333" bgcolor="[[background-color]]">
+<table border="0" cellspacing="0" cellpadding="0" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased;background: transparent url([[mod_img_url]]egmail/bgpattern/[[bgpattern]]) repeat 0 0; background-attachment:fixed; font-family:Arial, Helvetica, sans-serif;font-weight:normal;text-decoration:none;font-size:12px;" background="[[mod_img_url]]egmail/bgpattern/[[bgpattern]]" width="100% ">
+    <tbody>
+        <tr>
+            <td align="center" width="100% ">
+                <table width="650" border="0" cellspacing="0" cellpadding="0" class="table table-mail" bgcolor="#ffffff" style="background-color:#ffffff; margin:15px 0; padding:15px; -moz-box-shadow:0 0 8px [[shadow-color]]; -webkit-box-shadow:0 0 8px [[shadow-color]]; -o-box-shadow:0 0 8px [[shadow-color]]; box-shadow:0 0 8px [[shadow-color]]; filter:progid:DXImageTransform.Microsoft.Shadow(color=[[shadow-color]],Direction=134,Strength=8)">
+                    <tbody>
+                    	<tr>
+                        	<td style="height:6px; background:[[color]];">
+                            	<p style="height:6px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]icons/separator-croix.gif) repeat-x 50% 0;">&nbsp;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="logo" style="padding: 10px 0;" align="center"><a href="{shop_link_url}" style="text-decoration:none;"><img src="{shop_logo}" alt="{shop_name}" style="max-width:100% !important; height:auto !important; margin:0 auto;"/></a></td>
+                        </tr>
+                        <tr>
+                        	<td style="height:6px; background:[[color]];">
+                            	<p style="height:6px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]icons/separator-croix.gif) repeat-x 50% 0;">&nbsp;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p style="font-size:14px; margin:0; padding:20px 0 0 0; text-align:center; "><span style="font-weight:bold; font-size:16px;">Bonjour {customer_firstname} {customer_lastname}</span><br/>Certains de nos articles vous ont séduit sur notre boutique {shop_name}.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; font-size:12px; margin:0; padding:20px 0 0 0; font-size:18px; font-style:italic; text-align:center; color:[[color]];">Pour vous r&eacute;compensez de votre fid&eacute;lit&eacute;, nous tenions &agrave; vous offrir un bon exceptionnel de <strong>5%</strong>.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="650" border="0" cellspacing="0" cellpadding="0" class="table table-mail" bgcolor="#ffffff" style="background-color:#ffffff; margin:15px 0; padding:15px; -moz-box-shadow:0 0 8px [[shadow-color]]; -webkit-box-shadow:0 0 8px [[shadow-color]]; -o-box-shadow:0 0 8px [[shadow-color]]; box-shadow:0 0 8px [[shadow-color]]; filter:progid:DXImageTransform.Microsoft.Shadow(color=[[shadow-color]],Direction=134,Strength=8)">
+                    <tbody>
+                        <tr>
+                        	<td style="height:8px; background:[[banner-color]];">
+                            	<p style="height:8px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]egmail/elements/fusain.png) repeat-x 50% 0;">&nbsp;</p>
+                            </td>
+                        </tr>
+                        <tr>
+							<td>
+                            	<table border="0" cellspacing="0" cellpadding="0" class="table" style="width:100%; padding:10px 0;">
+                                	<tr>
+                                    	<td align="center" class="block-xs text-center-xs">
+                                            <p style="padding:0; margin:0 auto; width:200px; height:200px; background:[[banner-color]];">
+                                                <img src="[[mod_img_url]]egmail/elements/sablier.png" alt="" width="200" height="200" style="width:200px; height:200px; float:left; display:block;"/>
+                                            </p>
+                                        </td>
+                                        <td style="vertical-align:middle; color:[[banner-color]]; padding:10px 0 10px 30px;" class="block-xs text-center-xs paddLR0-xs">
+                                            <p style="margin:0; padding:0;">
+                                            	<span style="font-size:32px; line-height:32px; font-style:italic; padding:5px 10px; display:inline-block; background:[[banner-color]]; color:#fff;"><strong>-5%</strong></span><br />
+                                            	<span style="display:inline-block; padding:10px 0; font-size:40px; line-height:38px; font-style:italic; text-transform:uppercase; color:[[banner-color]];"><strong>Offre limitée</strong></span><br />
+                                                <span style="font-size:32px; line-height:32px; font-style:italic; padding:5px 10px; display:inline-block; background:[[banner-color]]; color:#fff;">Plus que 3 jours</span><br /><br />
+                                                <span style="font-size:20px; font-style:italic; color:[[banner-color]];">Offre valable jusqu'au  {voucher_expirate_date} avec le code suivant <strong>{voucher_code}</strong>.</span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+							</td>
+                        </tr>
+                        <tr>
+                        	<td style="height:8px; background:[[banner-color]];">
+                            	<p style="height:8px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]egmail/elements/fusain.png) repeat-x 50% 0;">&nbsp;</p>
+                            </td>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; padding:10px 0 0 0; text-align:center;"><strong>A tout de suite sur</strong> <a href="{shop_link_url}" style="text-decoration:none; color:[[color]];"><strong>{shop_name}</strong></a></strong>...<br />&Eacute;lodie . <em>Responsable Relation Client</em></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="650" border="0" cellspacing="0" cellpadding="0" class="table table-mail" bgcolor="#ffffff" style="background-color:#ffffff; margin:15px 0; padding:15px; -moz-box-shadow:0 0 8px [[shadow-color]]; -webkit-box-shadow:0 0 8px [[shadow-color]]; -o-box-shadow:0 0 8px [[shadow-color]]; box-shadow:0 0 8px [[shadow-color]]; filter:progid:DXImageTransform.Microsoft.Shadow(color=[[shadow-color]],Direction=134,Strength=8)">
+                    <tbody>
+                        <tr>
+                            <td><p style="margin:0; padding: 7px 0; font-weight: bold; text-transform: uppercase; font-size:18px; color:#ffffff; background:[[color]]; text-align:center;">Finaliser ma commande</a></p></td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; font-weight: bold;padding:10px 0 10px 0;">Vous avez &eacute;t&eacute; s&eacute;duit par...</p></td>
+                        </tr>
+                        <tr>
+                            <td>{cart_products}</td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; text-align: right; padding: 10px 0 20px 0;"><a href="{cart_url}" style="text-decoration:none; padding: 6px; display: inline-block; font-weight: bold; text-transform: uppercase; color:#ffffff; background-color:[[color]];">&gt;&nbsp;Finaliser ma commande</a></p></td>
+                        </tr>
+                        <tr>
+                        	<td style="height:8px; background:[[color]];">
+                            	<p style="height:8px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]egmail/elements/fusain.png) repeat-x 50% 0;">&nbsp;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table border="0" cellspacing="0" cellpadding="0" style="width:100%;">
+                                    <tbody>
+                                        <tr>
+                                        	<td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="[[mod_img_url]]icons/icon-transport.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                            	<span style="text-transform:uppercase; color:#000000; font-weight:bold;">Livraison rapide</span><br />
+                                                Livraison 24h par TNT express</p>
+                                            </td>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="[[mod_img_url]]icons/icon-cadenas.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Paiement sécurisé</span><br />
+                                                Réalisez vos achats en toute sérénité</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="[[mod_img_url]]icons/icon-coeur.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Satisfait ou remboursé</span><br />
+                                                Vous avez 14 jours de rétractation</p>
+                                            </td>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="[[mod_img_url]]icons/icon-blabla.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Service clients 7j/7</span><br />
+                                                Notre service client à votre écoute 7J/7</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td style="height:8px; background:[[color]];">
+                            	<p style="height:8px; font-size:1px; line-height:1px; margin:0; padding:0; background:url([[mod_img_url]]egmail/elements/fusain.png) repeat-x 50% 100%;">&nbsp;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p style="padding:10px 0 0 0; font-size:11px; margin:0; color:#777777; text-align:center;">Conformément à la loi informatique et libertés du 06/01/1978 (art. 27, 34) vous disposez d'un droit d'accès, de modification et de suppression des données vous concernant. <a style="color:[[color]];" href="{unscribe_url}">Cliquez ici</a> pour ne plus recevoir de relance</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+		</tr>
+    </tbody>
+</table>
+</body>
+</html>

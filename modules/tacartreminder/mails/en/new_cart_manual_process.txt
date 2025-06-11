@@ -1,0 +1,7 @@
+({shop_url})  
+New reminder cart to do on {shop_name}
+Customer : {firstname} {lastname}  
+Cart contents :
+ {cart_products_txt} 
+Rule applied : {rule_name}
+[ >Get more detail and manually process this reminder ]({link_admin_live_cart_reminder})

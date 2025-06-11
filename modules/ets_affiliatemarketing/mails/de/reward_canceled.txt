@@ -1,0 +1,8 @@
+Hallo {customer}
+Ihre Prämie wurde storniert.
+Programm: {program}
+ID-Belohnung: R-{reward}
+Belohnung: {amount}
+Erstellungsdatum: {date_created}
+Stornierungsdatum: {date_canceled}
+Anmerkung: {note}

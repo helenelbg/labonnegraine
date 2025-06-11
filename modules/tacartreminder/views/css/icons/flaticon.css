@@ -1,0 +1,188 @@
+/**
+ * NOTICE OF LICENSE
+ *  _____ _            ___       _   _
+ * |_   _(_)          / _ \     | | (_)
+ *   | |  _ _ __ ___ / /_\ \ ___| |_ ___   _____
+ *   | | | | '_ ` _ \|  _  |/ __| __| \ \ / / _ \
+ *   | | | | | | | | | | | | (__| |_| |\ V /  __/
+ *   \_/ |_|_| |_| |_\_| |_/\___|\__|_| \_/ \___|
+ *
+ * This source file is subject to a commercial license from TimActive Siret 750 571 366 00046
+ * Use, copy, modification or distribution of this source file without written
+ * license agreement from the TimActive EIRL is strictly forbidden.
+ *
+ * @author    TimActive
+ * @copyright Since 2012 TimActive
+ * @license   Commercial license
+*/
+@font-face {
+	font-family: "Flaticon";
+	src: url("../../fonts/flaticon.eot");
+	src: url("../../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../../fonts/flaticon.woff") format("woff"),
+	url("../../fonts/flaticon.ttf") format("truetype"),
+	url("../../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+}.flaticon-add133:before {
+	content: "\e000";
+}
+.flaticon-add11:before {
+	content: "\e001";
+}
+.flaticon-ascendant6:before {
+	content: "\e002";
+}
+.flaticon-bell31:before {
+	content: "\e003";
+}
+.flaticon-tag2:before {
+	content: "\e004";
+}
+.flaticon-calendar146:before {
+	content: "\e005";
+}
+.flaticon-cancel1:before {
+	content: "\e006";
+}
+.flaticon-cancel6:before {
+	content: "\e007";
+}
+.flaticon-check33:before {
+	content: "\e008";
+}
+.flaticon-checklist6:before {
+	content: "\e009";
+}
+.flaticon-chronometer10:before {
+	content: "\e00a";
+}
+.flaticon-close13:before {
+	content: "\e00b";
+}
+.flaticon-comment3:before {
+	content: "\e00c";
+}
+.flaticon-close3:before {
+	content: "\e00d";
+}
+.flaticon-down13:before {
+	content: "\e00e";
+}
+.flaticon-email43:before {
+	content: "\e00f";
+}
+.flaticon-error6:before {
+	content: "\e010";
+}
+.flaticon-extra:before {
+	content: "\e011";
+}
+.flaticon-eye46:before {
+	content: "\e012";
+}
+.flaticon-finish:before {
+	content: "\e013";
+}
+.flaticon-html8:before {
+	content: "\e014";
+}
+.flaticon-info2:before {
+	content: "\e015";
+}
+.flaticon-left224:before {
+	content: "\e016";
+}
+.flaticon-left27:before {
+	content: "\e017";
+}
+.flaticon-list30:before {
+	content: "\e018";
+}
+.flaticon-magnifier13:before {
+	content: "\e019";
+}
+.flaticon-mail29:before {
+	content: "\e01a";
+}
+.flaticon-man403:before {
+	content: "\e01b";
+}
+.flaticon-man457:before {
+	content: "\e01c";
+}
+.flaticon-minus87:before {
+	content: "\e01d";
+}
+.flaticon-phone16:before {
+	content: "\e01e";
+}
+.flaticon-right208:before {
+	content: "\e01f";
+}
+.flaticon-save27:before {
+	content: "\e020";
+}
+.flaticon-search103:before {
+	content: "\e021";
+}
+.flaticon-seo5:before {
+	content: "\e022";
+}
+.flaticon-shopping11:before {
+	content: "\e023";
+}
+.flaticon-smart:before {
+	content: "\e024";
+}
+.flaticon-stopwatch6:before {
+	content: "\e025";
+}
+.flaticon-support3:before {
+	content: "\e026";
+}
+.flaticon-task:before {
+	content: "\e027";
+}
+.flaticon-tools6:before {
+	content: "\e028";
+}
+.flaticon-up21:before {
+	content: "\e029";
+}
+.flaticon-verified18:before {
+	content: "\e02a";
+}
+.flaticon-wizard:before {
+	content: "\e02b";
+}
+
+
+@font-face {
+	font-family: "tafontcustom";
+	src: url("../../fonts/font-custom.eot");
+	src: url("../../fonts/font-custom.eot#iefix") format("embedded-opentype"),
+	url("../../fonts/font-custom.woff") format("woff"),
+	url("../../fonts/font-custom.ttf") format("truetype"),
+	url("../../fonts/font-custom.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="taicon-"]:before, [class*=" taicon-"]:before,
+[class^="taicon-"]:after, [class*=" taicon-"]:after {   
+	font-family: tafontcustom;
+	font-style: normal;
+}.taicon-iphone:before {
+	content: "\e000";
+}
+.taicon-screenfull:before {
+	content: "\e001";
+}
+.taicon-smartphone55:before {
+	content: "\e002";
+}

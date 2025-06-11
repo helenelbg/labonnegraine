@@ -1,0 +1,3 @@
+Ahoj {username}
+{your_friend} vás pozval k vytvoření účtu na našem webu {shop_name}. Přidejte se k nám kliknutím na tlačítko níže:
+{link_ref}

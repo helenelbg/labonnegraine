@@ -1,0 +1,4 @@
+Ciao {username}
+Congratulazioni! La tua domanda di {program} è stata approvata.
+Messaggio: {reason}
+Cordiali saluti.

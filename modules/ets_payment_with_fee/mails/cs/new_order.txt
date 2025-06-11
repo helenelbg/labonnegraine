@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Gratulujeme!
+
+Na {shop_name} byla zadána nová objednávka následujícím zákazníkem: {firstname} {lastname} ({email})
+
+Podrobnosti objednávky
+
+Objednávka: {order_name} Vytvořeno {date}
+
+Způsob platby: {payment}
+
+Reference	Produkt	Jednotková cena	Množství	Celková cena   {items}
+Produkty	{total_products}
+Slevy	{total_discounts}
+Balení dárků	{total_wrapping}
+Poštovné	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Včetně celkové daně	{total_tax_paid}
+Celkem zaplaceno	{total_paid}
+
+Dopravce
+
+Dopravce: {carrier}
+
+Způsob platby: {payment}
+
+Doručovací adresa
+
+{delivery_block_html}
+
+Fakturační adresa
+
+{invoice_block_html}
+
+Zákaznická zpráva:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,3 @@
+Hi {customer}
+Your reward R-{reward_id} has been expired and can’t be used on our website anymore.
+Yours sincerely

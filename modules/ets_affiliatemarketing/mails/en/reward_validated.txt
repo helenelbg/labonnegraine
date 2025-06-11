@@ -1,0 +1,8 @@
+Hi {customer}
+Congratulations! Your reward was approved.
+Program: {program}
+ID reward: R-{reward}
+Reward: {amount}
+Date created: {date_created}
+Date approved: {date_validated}
+Note: {note}

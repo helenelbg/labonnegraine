@@ -1,0 +1,6 @@
+Ciao amministratore
+Hai approvato una richiesta di prelievo. Di seguito sono riportate informazioni dettagliate sulla richiesta di prelievo:
+ID prelievo: {withdrawal_ID}
+Dal cliente: {customer}
+Importo del prelievo: {amount}
+Metodo di pagamento: {payment_method}

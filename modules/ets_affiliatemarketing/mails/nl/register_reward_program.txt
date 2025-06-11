@@ -1,0 +1,4 @@
+Hallo Admin
+{customer} heeft zojuist een aanvraag ingediend bij {program_register}
+E-mail: {email}
+{intro}

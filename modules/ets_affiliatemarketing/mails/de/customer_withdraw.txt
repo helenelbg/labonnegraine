@@ -1,0 +1,9 @@
+Hallo {customer},
+Sie haben gerade erfolgreich eine Auszahlungsanforderung im {shop_name} Store eingereicht. Ihre Anfrage wartet auf Genehmigung. Bitte haben Sie etwas Geduld und denken Sie daran, in Ihrem Posteingang nach einer Bestätigungs-E-Mail zu suchen.
+Nachfolgend finden Sie detaillierte Informationen zu Ihrer Auszahlungsanfrage:
+Auszahlungs-ID: {withdrawal_ID}
+Auszahlungsbetrag: {amount}
+Zahlungsmethode:{payment_method}
+Verarbeitungsdatum (geschätzt): {processed_date}
+{invoice_withdrawal}
+Hochachtungsvoll.

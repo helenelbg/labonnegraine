@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>majmessagesmasse</name>
+    <displayName><![CDATA[Mise &agrave; jour de messages en masse]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[]]></description>
+    <author><![CDATA[Anjouweb]]></author>
+    <tab><![CDATA[Product]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désinstaller ce module ?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

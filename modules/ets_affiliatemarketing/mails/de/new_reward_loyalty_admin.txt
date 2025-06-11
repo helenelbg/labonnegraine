@@ -1,0 +1,6 @@
+Hallo Admin
+Für {customer} wurde eine neue Prämie erstellt.
+Programm: {program}
+ID-Belohnung: R-{reward_id}
+Belohnung: {amount}
+Zustand: {status}

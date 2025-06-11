@@ -1,0 +1,11 @@
+Bonjour {firstname} {lastname},
+
+Historique de votre commande n&#176;{id_order}
+
+Le paiement pour votre commande a été accepté.
+
+Nous avons bien reçu l’ensemble des documents nécessaires.
+La préparation de votre commande est en cours et celle-ci sera expédiée au plus vite.
+La facture a été envoyée pour paiement sur Chorus.
+
+La Bonne Graine vous remercie de votre confiance.

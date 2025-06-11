@@ -1,0 +1,4 @@
+Hi {username},
+Congratulations! Your application for {program} was approved.
+Message: {reason}
+Yours sincerely.

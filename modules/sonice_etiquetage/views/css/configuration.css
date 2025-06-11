@@ -1,0 +1,379 @@
+/**
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to a commercial license from Common-Services Co., Ltd.
+ * Use, copy, modification or distribution of this source file without written
+ * license agreement from the SARL SMC is strictly forbidden.
+ * In order to obtain a license, please contact us: contact@common-services.com
+ * ...........................................................................
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * L'utilisation de ce fichier source est soumise a une licence commerciale
+ * concedee par la societe Common-Services Co., Ltd.
+ * Toute utilisation, reproduction, modification ou distribution du present
+ * fichier source sans contrat de licence ecrit de la part de la Common-Services Co. Ltd. est
+ * expressement interdite.
+ * Pour obtenir une licence, veuillez contacter Common-Services Co., Ltd. a l'adresse: contact@common-services.com
+ * ...........................................................................
+ *
+ * @package   SoNice_Etiquetage
+ * @author    Alexandre D. <alexandre@common-services.com>
+ * @copyright Copyright (c) 2011-2015 Common Services Co Ltd - 90/25 Sukhumvit 81 - 10260 Bangkok - Thailand
+ * @license   Commercial license
+ * Support by mail  :  support.sonice@common-services.com
+ */
+
+hr {
+    border-bottom: 1px solid silver;
+    background-color: transparent;
+    height: 1px;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+#conf-account td {
+    text-align: center;
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+form p {
+    margin: 0;
+}
+
+fieldset, .margin-form, p {
+    color: black;
+}
+
+.sne_licenceContact a {
+    color: #ff502d;
+}
+
+.clean {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+.cleaner {
+  clear:both;
+  margin:5px;
+}
+
+.sohint {
+  min-height: 32px;
+  background: #BDE5F8 url(../img/icon-info.png) no-repeat 6px 6px;
+  border: 1px solid #00529B;
+  padding: 8px 5px 5px 50px;
+  border-radius: 3px;
+  color: black;
+}
+
+.sohint a {
+	font-weight: bold;
+}
+
+.font-red {
+    color: red;
+}
+
+.im_cmd_input {
+    font-family: "Lucida Console", Monaco, monospace;
+    width: 75%;
+    height: 20px;
+}
+
+table tbody tr td p {
+    height: 15px;
+}
+
+.sne_licence {
+    color: #ff502d;
+    font-weight: bold;
+}
+
+.sne_licenceContact {
+    font-weight: bold;
+}
+
+.sne_logo {
+    margin: 40px 0;
+}
+
+.sne_module_name {
+    font-size: 4em;
+}
+
+.sne_orange {
+    color: #ff502d;
+}
+
+.sne_grey {
+    color: #8c8c8c;
+}
+
+.sne_black {
+    color: black;
+}
+
+.sne_typo {
+    font-size: 1em;
+    margin-top: -4px;
+}
+
+.sne_typo_conftab {
+    font-size: 1em;
+}
+
+.sne_typo_conftab table tbody tr td p span, .sne_typo_conftab p span {
+    color: red;
+    font-size: 2em;
+    vertical-align: -7px;
+    margin-left: 5px;
+}
+
+.sne_typo_conftab table {
+    margin-top: -6px;
+}
+
+.sne_typo_conftab table td {
+    padding-right: 15px;
+}
+
+.sne_typo_conftab table td input, .sne_typo_conftab .connectParam {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid #DDDDDD;
+    
+    /*Applying CSS3 gradient*/
+    background: -moz-linear-gradient(center top , #FFFFFF,  #EEEEEE 1px, #FFFFFF 20px);    
+    background: -webkit-gradient(linear, left top, left 20, from(#FFFFFF), color-stop(5%, #EEEEEE) to(#FFFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FBFBFB', endColorstr='#FFFFFF');
+    
+    /*Applying CSS 3radius*/   
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    
+    /*Applying CSS3 box shadow*/
+    -moz-box-shadow: 0 0 2px #DDDDDD;
+    -webkit-box-shadow: 0 0 2px #DDDDDD;
+    box-shadow: 0 0 2px #DDDDDD;
+}
+
+.sne_typo_conftab .connectParam {
+    width: 100px;
+}
+
+.sne_documentation_list {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.sne_documentation_list td {
+    width: 50px;
+}
+
+.sne_documentation_list img {
+    cursor: pointer;
+}
+
+.sne_documentation_warning {
+    width: 100% !important;
+    float: left;
+    cursor: default !important;
+    margin-top: 5px;
+}
+
+.sne_documentation_warning span {
+    font-size: 1.2em;
+}
+
+.submitconf {
+    float: right;
+    margin: 20px;
+    width: 150px;
+}
+
+.sne-info p
+{
+  font-size:1.1em;
+}
+
+.add-weight img, .remove-weight img
+{
+    position: relative;
+    top: -3px;
+    border:1px solid gainsboro;
+    padding: 2px;
+    cursor:pointer;
+    background-color:whitesmoke;  
+    border-radius:2px;
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+
+.add-weight img:hover, .remove-weight img:hover
+{
+    border:1px solid lavender;
+    background-color: lightgray;
+}
+
+.arrow-next {
+    width: 15px;
+    vertical-align: -5px;
+    margin: 0 10px;
+}
+
+.sne-info-level-error
+{
+  min-height: 32px;
+  background: #FFBABA url('../../img/icon-cancel.png') no-repeat 6px 6px;
+  border: 1px solid #CC0000;
+  padding: 8px 5px 5px 50px;
+  border-radius: 3px;
+}
+
+.sne-info-level-warn
+{
+  min-height: 32px;
+  background: #FEEFB3 url('../../img/icon-attention.png') no-repeat 6px 6px;
+  border: 1px solid #9e6014;
+  padding: 8px 5px 5px 50px;
+  border-radius: 3px;
+}
+
+.sne-info-level-ok
+{
+  min-height: 32px;
+  background: #DFF2BF url('../img/icon-valid.png') no-repeat 6px 6px;
+  border: 1px solid #4F8A10;
+  padding: 8px 5px 5px 50px;
+  border-radius: 3px;
+}
+
+.sne-info-text-error
+{
+  color:red;
+  font-weight:bold;
+}
+
+.sne-info-text-warn
+{
+  color:#9e6014;
+  font-weight:bold;
+}
+
+.sne-info-text-ok {
+  color: #4F8A10;
+}
+
+.so-warning {
+    font-size: 12px;
+    margin-top: 5px;
+    display: block;
+    color: navy;
+}
+
+#sne_configuration_div hr {
+    border-top: 1px solid #ccc !important;
+    margin: 20px;
+}
+
+#conf-carrier_mapping img {
+    height: 20px;
+    vertical-align: -5px;
+}
+
+#conf-tare input {
+    margin: 0 5px;
+}
+
+#sneTab {
+    margin-bottom: 51px;
+}
+
+#menuTab {
+    float: left;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background-color: #efefef;
+    padding: 10px;
+    border-top: 1px solid gainsboro;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+}
+
+#menuTab li { 
+    float: left;
+    text-align: left;
+    min-width: 145px;
+    height: 35px;
+    display: inline;
+    margin: 3px;
+    padding: 0 10px 15px 15px;
+    background: #EFEFEF;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#menuTab li span {
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+
+#menuTab li.menuTabButton.selected { 
+    border-bottom: 3px solid #6495ED;
+    padding-bottom: 12px;
+}
+
+#menuTab li.menuTabButton:hover { 
+    cursor: pointer;
+    background: #6495ED;
+    opacity: 0.7;
+}
+
+#fieldset_2 select {
+    margin: 0 5px;
+    padding: 2px;
+}
+
+.sne_multi_select {
+    width: 250px;
+    height: 250px;
+}
+
+.sne_multi_select_heading {
+    width: 560px;
+    text-align: center;
+    letter-spacing: 300px;
+}
+
+.sne_move {
+    cursor: pointer;
+    padding:5px;
+    border:1px solid transparent;
+}
+
+.sne_move:hover {
+    padding:5px;
+    border:1px solid silver;
+    background-color:#ffe1d3;
+}
+
+.sne_sep {
+    margin: 100px 20px 0 20px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}

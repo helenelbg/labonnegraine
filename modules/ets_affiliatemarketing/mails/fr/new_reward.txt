@@ -1,0 +1,7 @@
+Bonjour 
+Une nouvelle récompense a été créée pour {customer}
+Programme: {program}
+ID de récompense: R-{reward_id}
+Récompense: {amount}
+Date créée: {date_created}
+Statut: {status}

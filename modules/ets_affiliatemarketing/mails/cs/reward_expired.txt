@@ -1,0 +1,3 @@
+Ahoj {customer}
+Platnost vaší odměny R-{reward_id} vypršela a na našem webu ji již nelze použít.
+S pozdravem.

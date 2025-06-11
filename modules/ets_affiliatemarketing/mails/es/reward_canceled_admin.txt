@@ -1,0 +1,8 @@
+Hola Admin
+Se canceló una recompensa en:
+Programa: {program}
+ID de recompensa: R-{reward_id}
+Recompensa: {amount}
+Fecha de creación: {date_created}
+Fecha cancelada: {date_canceled}
+Nota: {note}

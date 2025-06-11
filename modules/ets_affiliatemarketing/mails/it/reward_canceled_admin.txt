@@ -1,0 +1,8 @@
+Ciao Admin
+Una ricompensa è stata annullata sul:
+Programma: {program}
+ID ricompensa: R-{reward_id}
+Ricompensa: {amount}
+Data di creazione: {date_created}
+Data annullata: {date_canceled}
+Nota: {note}

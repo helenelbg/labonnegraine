@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>colissimo</name>
+    <displayName><![CDATA[Colissimo - Officiel : G&eacute;rer vos exp&eacute;ditions avec Colissimo.]]></displayName>
+    <version><![CDATA[2.0.2]]></version>
+    <description><![CDATA[Ce module vous permettra d&rsquo;int&eacute;grer l&rsquo;affichage des points de retrait sur votre site, d&rsquo;imprimer vos &eacute;tiquettes&nbsp;depuis votre back office ou Coliship et&nbsp;de proposer le suivi des exp&eacute;ditions &agrave; vos clients.]]></description>
+    <author><![CDATA[Colissimo]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

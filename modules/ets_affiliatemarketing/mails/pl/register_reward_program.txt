@@ -1,0 +1,4 @@
+Cześć Admin
+{customer} właśnie przesłał zgłoszenie do {program_register}
+E-mail: {email}
+{intro}

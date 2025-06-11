@@ -1,0 +1,8 @@
+Ciao Admin
+La ricompensa di un cliente è approvata. Leggi maggiori dettagli di seguito:
+Programma: {program}
+ID ricompensa: R-{reward_id}
+Ricompensa: {amount}
+Data di creazione: {date_created}
+Data approvata: {date_validated}
+Nota: {note}

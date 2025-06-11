@@ -1,0 +1,3 @@
+Hallo {customer}
+Ihre Prämie R-{reward_id} läuft in {day} Tagen ab, wenn sie nicht verwendet wird. Wir empfehlen Ihnen, die Prämie bald zu verwenden, bevor es spät ist.
+Hochachtungsvoll.

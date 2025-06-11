@@ -1,0 +1,6 @@
+Hi administrator
+Você recusou uma solicitação de retirada. Abaixo estão informações detalhadas sobre o pedido de retirada:
+ID de retirada: {withdrawal_ID}
+Do cliente: {customer}
+Valor do saque: {amount}
+Forma de pagamento: {payment_method}

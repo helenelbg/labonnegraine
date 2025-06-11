@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Gefeliciteerd!
+
+Een nieuwe bestelling is geplaatst op {shop_name} door de volgende klant: {firstname} {lastname} ({email})
+
+Bestelgegevens
+
+Bestelling: {order_name} Gemaakt op {date}
+
+Betaling: {payment}
+
+Referentie	Product	Eenheid prijs	Hoeveelheid	Totale prijs   {items}
+Producten	{total_products}
+Kortingen	{total_discounts}
+Geschenkverpakking	{total_wrapping}
+Verzending	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Inclusief totale belasting	{total_tax_paid}
+Totaal betaald	{total_paid}
+
+Vervoerder
+
+Vervoerder: {carrier}
+
+Betaling: {payment}
+
+Bezorgadres
+
+{delivery_block_html}
+
+Facturatie adres
+
+{invoice_block_html}
+
+Bericht van de klant:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

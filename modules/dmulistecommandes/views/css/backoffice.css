@@ -1,0 +1,233 @@
+/**
+* NOTICE OF LICENSE
+*
+* This source file is subject to a commercial license from SARL DREAM ME UP
+* Use, copy, modification or distribution of this source file without written
+* license agreement from the SARL DREAM ME UP is strictly forbidden.
+*
+*   .--.
+*   |   |.--..-. .--, .--.--.   .--.--. .-.   .  . .,-.
+*   |   ;|  (.-'(   | |  |  |   |  |  |(.-'   |  | |   )
+*   '--' '   `--'`-'`-'  '  `-  '  '  `-`--'  `--`-|`-'
+*        w w w . d r e a m - m e - u p . f r       '
+*
+*  @author    Dream me up <prestashop@dream-me-up.fr>
+*  @copyright 2007 - 2023 Dream me up
+*  @license   All Rights Reserved
+*/
+
+#product-tab-content-Views .color_field {
+	float:left;
+	padding:5px;
+	margin:2px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,.7);
+	border: 1px solid #fff;
+}
+#product-tab-content-Views table.dmu_vues_commandes tr.filter {
+	/* display:none; */
+}
+
+#product-tab-content-Status .icon-tasks {
+	position:relative;
+	top:-3px;
+}
+
+#product-tab-content-Status #dmu_status_on_line_label {
+	vertical-align:top;
+	padding:0 0 0 10px;
+	font-size:1.15em;
+	font-weight:bold;
+}
+
+#product-tab-content-Status .form-group,
+#product-tab-content-Carriers .form-group {
+	margin-bottom: 5px !important;
+}
+
+/* ****************************************** */
+
+#kpi_listecommandes span.title {
+	font-weight:bold;
+    margin-bottom: 5px;
+	text-transform: uppercase;
+}
+
+#dlc_views_panel.panel a.btn {
+	margin:2px !important;
+	float:left;
+	font-weight:bold;	
+}
+#dlc_views_panel.panel a.btn i {
+	color:#aaa;
+	margin-right:5px;
+}
+
+/* ****************************************** */
+
+table.order tr:hover td {
+	background:initial !important;
+	color:initial !important;
+}
+table.order .badge {
+	padding:3px 10px;
+}
+table.order tr.filter select.fixed-width-sm {
+	width:initial !important;
+}
+
+@media (max-width: 991px) {
+	.bootstrap .table-responsive-row .odd td {
+	    color: initial !important;
+	}
+}
+
+.carrier_label {
+	display:block !important;
+	padding:5px !important;
+	border:1px solid #fff;
+	box-shadow:1px 1px 3px rgba(0,0,0,.5);
+}
+
+/* ****************************************** */
+
+@media (max-width: 991px) {
+	#dlc_bulk_panel { display:none; }
+}
+
+#dlc_bulk_panel {
+	border-radius:5px;
+	border:2px solid #fff;
+	background:rgba(0,0,0,.8);
+	color:#f0f0f0;
+	box-shadow:0 0 10px #000;
+	white-space:nowrap;
+}
+.dlc_bulk_div {
+	display:inline-block;
+}
+.dlc_bulk_select {
+	font-weight:bold;
+}
+
+/* ****************************************** */
+
+table.order td:hover .dlc_tooltop { display:block; }
+table.order td:hover .badge .dlc_tooltop { display:block; }
+table.order td { position:relative; }
+.dlc_tooltop {
+    z-index:1;
+    display:none;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:1px;
+    height:1px;
+    text-align:left;
+	cursor:default;
+}
+.dlc_tooltip {
+    z-index:1024;
+    position:absolute;
+    top:3px;
+    left:10px;
+    min-width:300px;
+    padding:5px 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	background:#fff;
+	color:#000;
+	font-size:11px;
+	box-shadow:0 0 10px rgba(0,0,0,.5);
+	/* white-space:nowrap; */
+}
+.dlc_tooltip table { white-space:nowrap; }
+.dlc_tooltip:before {
+	content: ' ';
+	position:absolute;
+	width:10px;
+	height:10px;
+	left:5px;
+	top:-10px;
+	background:url(../img/tooltip.png) 0 0 no-repeat;
+}
+.dlc_tooltip .table {
+    background-color:initial !important;
+}
+
+.dlc_hr { margin:5px !important; }
+.dlc_title {
+	text-transform:uppercase;
+	color:#900;
+	font-size:11px;
+	font-weight:bold;
+}
+.dlc_customer_title {
+	padding-right:25px;
+	font-size:15px;
+	font-weight:bold;
+}
+.dlc_push {
+	margin:5px 10px;
+}
+
+/* ****************************************** */
+/* PS 15 */
+
+tr.row_hover i.icon-user:before,
+tr.row_hover i.icon-envelope:before,
+tr.row_hover i.icon-truck:before {
+	content: '-';
+}
+
+div.tab_config_dmu_15 div.margin-form input {
+	float:left;
+}
+div.tab_config_dmu_15 div.margin-form label {
+	width:initial;
+}
+
+#container .toolbarBox {
+	padding:10px;
+}
+#container .toolbarBox .panel-heading {
+	font-weight:bold;
+	padding:5px;
+	font-size:13px;
+}
+#container .toolbarBox .panel-heading-action {
+	float:right;
+}
+#container .toolbarBox .row:after {
+	content:' ';
+	display:table;
+	clear:both;
+}
+#container .toolbarBox .btn-default.active {
+	color: #555;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+#container .toolbarBox .btn-default {
+	color: #555;
+    background-color: #fff;
+    border-color: #ccc;
+}
+#container .toolbarBox .btn {
+	display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid #ccc;
+    white-space: nowrap;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

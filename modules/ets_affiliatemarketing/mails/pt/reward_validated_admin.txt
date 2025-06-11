@@ -1,0 +1,8 @@
+Olá administrador,
+A recompensa de um cliente é aprovada. Encontre detalhes abaixo:
+Programa: {program}
+Recompensa de ID: R-{reward_id}
+Recompensa: {amount}
+Data de criação: {date_created}
+Data de aprovação: {date_validated}
+Observação: {note}

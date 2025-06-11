@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>storecommander</name>
+    <displayName><![CDATA[Module d&#039;installation de Store Commander]]></displayName>
+    <version><![CDATA[2.1.10]]></version>
+    <description><![CDATA[Installez Store Commander pour booster votre backoffice]]></description>
+    <author><![CDATA[Store Commander]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Attention ! Cette action supprimera définitivement Store Commander.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

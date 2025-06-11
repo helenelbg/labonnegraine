@@ -1,0 +1,6 @@
+Hi {aff_name},
+{customer_name} shared with you a product from our website {shop_name}
+Product: {name_product}
+Message to you: {aff_message}
+Click on the button below to view the product
+View product

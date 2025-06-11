@@ -1,0 +1,8 @@
+Hallo beheerder,
+Een beloning is geannuleerd op:
+Programma: {program}
+ID-beloning: R-{reward_id}
+Beloning: {amount}
+Datum gemaakt: {date_created}
+Datum geannuleerd: {date_canceled}
+Opmerking: {note}

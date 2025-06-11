@@ -1,0 +1,4 @@
+Ahoj {username},
+Gratulujeme! Vaše přihláška do {program} byla schválena.
+Zpráva: {reason}
+S pozdravem.

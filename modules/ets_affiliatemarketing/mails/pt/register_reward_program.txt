@@ -1,0 +1,4 @@
+Olá administrador,
+{customer} acaba de enviar uma inscrição para {program_register}
+E-mail: {email}
+{intro}

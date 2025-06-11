@@ -1,0 +1,3 @@
+Olá {customer}
+Sua recompensa R-{reward_id} expirou e não pode mais ser usada em nosso site.
+Com os melhores cumprimentos.

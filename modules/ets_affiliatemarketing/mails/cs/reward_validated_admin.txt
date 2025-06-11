@@ -1,0 +1,8 @@
+Ahoj administrátore,
+Odměna zákazníka je schválena. Podrobnosti naleznete níže:
+Program: {program}
+Odměna za ID: R-{reward_id}
+Odměna: {amount}
+Datum vytvoření: {date_created}
+Datum schválení: {date_validated}
+Poznámka: {note}

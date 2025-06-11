@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>scalapay</name>
+    <displayName><![CDATA[Scalapay]]></displayName>
+    <version><![CDATA[2.1.2]]></version>
+    <description><![CDATA[Give to your customer the possibility to Pay in 3 or 4 easy instalments or Pay Later without interest using Scalapay.]]></description>
+    <author><![CDATA[Scalapay]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall Scalapay?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

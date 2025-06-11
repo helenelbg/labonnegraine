@@ -1,0 +1,44 @@
+ 
+
+{shop_url}
+
+Toutes nos félicitations!
+
+Une nouvelle commande a été passée sur {shop_name} par le client suivant : {firstname} {lastname} ({email})
+
+Détails de la commande
+
+Commande : {order_name} Créé le {date}
+
+Paiement : {payment}
+
+Référence	Produit	Prix​unitaire	Quantité	Prix total   {items}
+Produits	{total_products}
+Rabais	{total_discounts}
+Emballage cadeau	{total_wrapping}
+Livraison	{total_shipping}
+{fee_payment_text}	{fee_payment}
+Taxes totales comprises	{total_tax_paid}
+Total payé	{total_paid}
+
+Transporteur
+
+Transporteur : {carrier}
+
+Paiement : {payment}
+
+Adresse de livraison
+
+{delivery_block_html}
+
+Adresse de facturation
+
+{invoice_block_html}
+
+Message client :
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

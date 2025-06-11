@@ -1,0 +1,10 @@
+Hallo beheerder,
+Er is een nieuw opnameverzoek in de {shop_name}-winkel. Bekijk de gedetailleerde informatie over dit verzoek en verwerk het:
+Hieronder vindt u gedetailleerde informatie over uw opnameverzoek:
+Opname-ID: {withdrawal_ID}
+Van klant: {customer}
+Opnamebedrag: {amount}
+Betaalmethode: {payment_method}
+Verwerkte datum (geschat): {processed_date}
+{invoice_withdrawal}
+Met vriendelijke groeten.

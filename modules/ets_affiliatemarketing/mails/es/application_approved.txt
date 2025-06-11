@@ -1,0 +1,4 @@
+Hola {username}
+¡Felicidades! Su solicitud para {program} fue aprobada.
+Mensaje: {reason}
+Tuyo sinceramente.

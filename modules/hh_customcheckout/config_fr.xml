@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>hh_customcheckout</name>
+    <displayName><![CDATA[Sample checkout step module]]></displayName>
+    <version><![CDATA[0.2.0]]></version>
+    <description><![CDATA[Sample module for adding a custom step in checkout]]></description>
+    <author><![CDATA[hhennes]]></author>
+    <tab><![CDATA[others]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

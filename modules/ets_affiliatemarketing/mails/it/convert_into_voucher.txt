@@ -1,0 +1,5 @@
+Ciao {customer}
+Hai appena convertito con successo il saldo del tuo ricompensa in un buono. Di seguito sono riportate informazioni dettagliate sulla conversione:
+Codice del buono: {discount_code}
+Importo del ricompensa convertito: {discount_value}
+Cordiali saluti.

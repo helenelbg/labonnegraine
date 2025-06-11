@@ -1,0 +1,8 @@
+Olá {customer}
+Parabéns! Sua recompensa foi aprovada.
+Programa: {program}
+Recompensa de ID: R-{reward}
+Recompensa: {amount}
+Data de criação: {date_created}
+Data de aprovação: {date_validated}
+Observação: {note}

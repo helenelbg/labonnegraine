@@ -1,0 +1,6 @@
+Olá {aff_name},
+{customer_name} compartilhou com você um produto do nosso site {shop_name}
+Produto: {name_product}
+Mensagem para você: {aff_message}
+Clique no botão abaixo para visualizar o produto
+Ver produto

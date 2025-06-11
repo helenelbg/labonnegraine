@@ -1,0 +1,8 @@
+Bonjour Admin
+La récompense d'un client est approuvée. Lire plus de détails ci-dessous:
+Programme: {program}
+ID de récompense: R-{reward_id}
+Récompense: {amount}
+Date créée: {date_created}
+Date d'approbation: {date_validated}
+Remarque: {note}

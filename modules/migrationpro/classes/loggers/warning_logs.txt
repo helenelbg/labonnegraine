@@ -1,0 +1,11 @@
+Image (ID: 9758) cannot be saved. Product (ID: 3486). SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3486-1' for key 'id_product_cover' - 2023-09-14 10:04:01
+Order Message (ID: 3) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'PRIMARY' - 2023-09-14 10:05:26
+Order Message (ID: 5) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY' - 2023-09-14 10:05:26
+Order Message (ID: 3) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'PRIMARY' - 2023-09-14 10:06:01
+Order Message (ID: 5) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY' - 2023-09-14 10:06:01
+Order Message (ID: 3) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'PRIMARY' - 2023-09-14 10:06:30
+Order Message (ID: 5) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY' - 2023-09-14 10:06:30
+Order Message (ID: 3) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'PRIMARY' - 2023-09-14 10:06:53
+Order Message (ID: 5) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY' - 2023-09-14 10:06:53
+Order Message (ID: 3) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'PRIMARY' - 2023-09-14 10:07:00
+Order Message (ID: 5) cannot be saved. SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY' - 2023-09-14 10:07:00

@@ -1,0 +1,83 @@
+/**
+* NOTICE OF LICENSE
+*
+* This product is licensed for one customer to use on one installation (test stores and multishop included).
+* Site developer has the right to modify this module to suit their needs, but can not redistribute the module in
+* whole or in part. Any other use of this module constitues a violation of the user agreement.
+*
+* DISCLAIMER
+*
+* NO WARRANTIES OF DATA SAFETY OR MODULE SECURITY
+* ARE EXPRESSED OR IMPLIED. USE THIS MODULE IN ACCORDANCE
+* WITH YOUR MERCHANT AGREEMENT, KNOWING THAT VIOLATIONS OF
+* PCI COMPLIANCY OR A DATA BREACH CAN COST THOUSANDS OF DOLLARS
+* IN FINES AND DAMAGE A STORES REPUTATION. USE AT YOUR OWN RISK.
+*
+*  @author    idnovate.com <info@idnovate.com>
+*  @copyright 2022 idnovate.com
+*  @license   See above
+*/
+
+/*
+#cart-subtotal-discount,
+.cart-voucher .cart-summary-line .float-xs-right { display: none; }
+*/
+
+#products .product-description,
+.featured-products .product-description,
+.product-accessories .product-description,
+.product-miniature .product-description {
+    height: auto !important;
+    overflow: hidden;
+    padding-bottom: .7rem;
+    position: relative;
+}
+
+#products .thumbnail-container,
+.featured-products .thumbnail-container,
+.product-accessories .thumbnail-container,
+.product-miniature .thumbnail-container {
+    height: auto !important;
+}
+
+#products .thumbnail-container .product-thumbnail img,
+.featured-products .thumbnail-container .product-thumbnail img,
+.product-accessories .thumbnail-container .product-thumbnail img,
+.product-miniature .thumbnail-container .product-thumbnail img {
+    height: 250px;  /*Fallback*/
+    height: var(--img-height);
+    position: relative;
+}
+
+#products .highlighted-informations,
+.featured-products .highlighted-informations,
+.product-accessories .highlighted-informations,
+.product-miniature .highlighted-informations {
+    transition: top .3s;
+    top: 250px; /*Fallback*/
+    top: var(--img-height);
+}
+
+#products .thumbnail-container:focus .highlighted-informations.no-variants,
+#products .thumbnail-container:hover .highlighted-informations.no-variants,
+.featured-products .thumbnail-container:focus .highlighted-informations.no-variants,
+.featured-products .thumbnail-container:hover .highlighted-informations.no-variants,
+.product-accessories .thumbnail-container:focus .highlighted-informations.no-variants,
+.product-accessories .thumbnail-container:hover .highlighted-informations.no-variants,
+.product-miniature .thumbnail-container:focus .highlighted-informations.no-variants,
+.product-miniature .thumbnail-container:hover .highlighted-informations.no-variants {
+    top: calc(250px - 3.125rem); /*Fallback*/
+    top: calc(var(--img-height) - 3.125rem);
+}
+
+#products .thumbnail-container:focus .highlighted-informations,
+#products .thumbnail-container:hover .highlighted-informations,
+.featured-products .thumbnail-container:focus .highlighted-informations,
+.featured-products .thumbnail-container:hover .highlighted-informations,
+.product-accessories .thumbnail-container:focus .highlighted-informations,
+.product-accessories .thumbnail-container:hover .highlighted-informations,
+.product-miniature .thumbnail-container:focus .highlighted-informations,
+.product-miniature .thumbnail-container:hover .highlighted-informations {
+    top: calc(250px - 4.4rem); /*Fallback*/
+    top: calc(var(--img-height) - 4.4rem);
+}

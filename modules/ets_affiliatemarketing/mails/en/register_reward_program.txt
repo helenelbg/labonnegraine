@@ -1,0 +1,4 @@
+Hi Admin
+{customer} has just submitted an application to {program_register}
+Email: {email}
+{intro}

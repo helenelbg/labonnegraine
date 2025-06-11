@@ -1,0 +1,10 @@
+Cześć administratorze,
+W sklepie {shop_name} pojawiło się nowe żądanie wypłaty. Zapoznaj się ze szczegółowymi informacjami na temat tego wniosku i przetwórz go:
+Poniżej znajdują się szczegółowe informacje na temat Twojego żądania wypłaty:
+ID wypłaty: {withdrawal_ID}
+Od klienta: {customer}
+Kwota wypłaty: {amount}
+Forma płatności: {payment_method}
+Data przetworzenia (szacunkowa): {processed_date}
+{invoice_withdrawal}
+Z poważaniem.

@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<title>{message_title}</title>
+	
+	<style>	
+		/*CSSTOINLINECART*/
+		.product-price {font-weight: bold; font-size:14px !important;}
+		.product-line-col {border-top:1px solid #cccccc;border-bottom:1px solid #cccccc; padding:5px 0;}
+		.discount-percent {font-weight: bold;color:[[color]];}
+		.product_name {font-size:12px !important;}
+		.product-quantity {font-weight: bold; font-size:14px !important;}
+		/*ENDCSSTOINLINECART*/
+		a { color:[[color]];}
+		.max100 { max-width:100% !important; height:auto !important;}
+		@media only screen and (max-width: 670px){
+			body {width:100% !important;}
+			table.table {width:100% !important;}
+			.table-mail { padding:15px 10px !important;}
+			.table-recap{width: 100% !important;}
+			.hidden-xs { display:none !important;}
+			.block-xs {display: block !important; width:100% !important;}
+			.text-center-xs { text-align:center !important;}
+			.table-mail { margin:0 !important;}
+		}
+		@media only screen and (max-width: 500px){
+			.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr { display: block !important;}
+			.table-recap tr td, .conf_body td {text-align:center !important;}
+			.table-recap { border-bottom:1px solid #cccccc !important;}
+			.td-product-image { border-bottom:none!important;}
+			.td-product-description, .td-product-price, .td-product-quantity { border:none!important;}
+			.w50 { width:100% !important; display:block; !important}
+		}
+		@media only screen and (max-width: 320px){
+			.logo img { width:100% !important; height:auto !important;}
+		}
+
+
+	</style>
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="font-size:12px; cursor: auto; background-color:[[background-color]]; margin:0; padding:0; color:#333333" bgcolor="[[background-color]]">
+<table border="0" cellspacing="0" cellpadding="0" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased;background: transparent url([[mod_img_url]]egmail/bgpattern/[[bgpattern]]) repeat 0 0; font-family:Arial,Arial,Helvetica,sans-serif;font-weight:normal;font-style:normal;text-decoration:none;font-size:12px;" background="[[mod_img_url]]egmail/bgpattern/[[bgpattern]]" width="100% ">
+    <tbody>
+        <tr>
+            <td align="center" width="100% ">
+                <table width="650" border="0" cellspacing="0" cellpadding="0" class="table table-mail" bgcolor="#ffffff" style="background-color:#ffffff; margin:15px 0; padding:15px; -moz-box-shadow:0 0 8px [[shadow-color]]; -webkit-box-shadow:0 0 8px [[shadow-color]]; -o-box-shadow:0 0 8px [[shadow-color]]; box-shadow:0 0 8px [[shadow-color]]; filter:progid:DXImageTransform.Microsoft.Shadow(color=[[shadow-color]],Direction=134,Strength=8)">
+                    <tbody>
+                        <tr>
+                            <td class="logo" style="border-bottom: 5px solid [[color]]; border-top:5px solid [[color]]; padding: 10px 0;" align="center"><a href="{shop_link_url}" style="text-decoration:none;"><img src="{shop_logo}" alt="{shop_name}" style="max-width:100% !important; height:auto !important; margin:0 auto;"/></a></td>
+                        </tr>
+                         <tr>
+							<td style="padding:20px 0;">
+                            	<table class="table" style="width:100%">
+                                	<tr>
+                                    	<td width="55" class="hidden-xs">
+                                        	<p style="padding:0; margin:0; background-color:[[banner-color]]; width:55px; height:225px;">
+                                        		<img src="{shop_base_url}modules/tacartreminder/views/img/icons/rayon-left.png" alt="" width="55" height="225" style="width:55px; height:225px; float:left; display:block;" />
+                                            </p>
+										</td>
+                                    	<td align="center" class="block-xs text-center-xs">
+                                            <p style="padding:0; margin:0 auto; background-color:[[banner-color]]; width:171px; height:193px;">
+                                                <img src="{shop_base_url}modules/tacartreminder/views/img/icons/chrono.png" alt="" width="171" height="193" style="width:171px; height:193px; float:left; display:block;"/>
+                                            </p>
+                                        </td>
+                                        <td style="vertical-align:middle" class="block-xs text-center-xs">
+                                            <p style="color:[[banner-color]]; font-weight:bold; font-style:italic;">
+                                                <span style="font-size:40px; line-height:38px;">Promotion<br />Flash</span><br />
+                                                <span style="font-size:20px;">Offer valid only 3 days</span>
+                                            </p>
+                                        </td>
+                                        <td width="55" class="hidden-xs">
+                                        	<p style="padding:0; margin:0; background-color:[[banner-color]]; width:55px; height:225px;">
+                                        		<img src="{shop_base_url}modules/tacartreminder/views/img/icons/rayon-right.png" alt="" width="55" height="225" style="width:55px; height:225px; float:left; display:block;" />
+                                            </p>
+										</td>
+                                    </tr>
+                                </table>
+							</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p style="font-size:14px; margin:0; padding:0; text-align:center;"><span style="font-size:16px; font-weight:bold;">Hi {customer_firstname} {customer_lastname}</span><br/>Some of the items you were interested in attracted you to our store's {shop_name}.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; font-size:12px; margin:0; padding:20px 0 20px 0; font-size:18px; font-style:italic; text-align:center; color:[[color]];">For your first order, we would like to offer you an exceptional coupon of <strong>5%</strong>.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            	<p style="margin:0; font-size:18px; color:#fff; text-align:center; padding:10px 5px; background-color:[[color]];"><span style="text-transform:uppercase; font-weight:bold;">5% discount on your order</span><br />Until {voucher_expirate_date} with the following code<br /><strong>{voucher_code}</strong> !</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; padding:15px 0; text-align:center;"><strong>Right now on </strong> <a href="{shop_link_url}" style="text-decoration:none; color:[[color]];"><strong>{shop_name}</strong></a></strong>...<br />Alexa . <em>Customer Service Manager</em></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><p style="margin:0; padding: 7px 0; font-weight: bold; text-transform: uppercase; font-size:16px; color:[[color]]; border-top:2px solid [[color]]; border-bottom:2px solid [[color]];">Complete my order</a></p></td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; font-weight: bold;padding:10px 0 10px 0;">You were interested in ...</p></td>
+                        </tr>
+                        <tr>
+                            <td>{cart_products}</td>
+                        </tr>
+                        <tr>
+                            <td><p style="font-size:12px; margin:0; text-align: right; padding: 10px 0;"><a href="{cart_url}" style="text-decoration:none; padding: 6px; display: inline-block; font-weight: bold; text-transform: uppercase; color:#ffffff; background-color:[[color]];">&gt;&nbsp;Complete my order</a></p></td>
+                        </tr>
+                        <tr>
+                            <td style="border-top:2px solid [[color]]; display:block; margin:10px 0 0 0; padding:0 0 8px 0; height:0; font-size:0px; line-height:0px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table style="width:100%;">
+                                    <tbody>
+                                        <tr>
+                                        	<td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/icon-transport.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                            	<span style="text-transform:uppercase; color:#000000; font-weight:bold;">Fast delivery</span><br />
+                                                 24h shipping with TNT express</p>
+                                            </td>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/icon-cadenas.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Secure payment</span><br />
+                                                Make your purchases securely for complete peace of mind</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/icon-coeur.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Money back guarantee</span><br />
+                                                Return your item within 14 days for a full refund</p>
+                                            </td>
+                                            <td style="width:50%; vertical-align:top;" class="w50">
+                                            	<p style="font-size:12px; padding:0; margin:10px 0;">
+                                                <span style="background-color:[[color]]; float:left; margin-right:10px; width:33px; height:33px;"><img src="{shop_base_url}modules/tacartreminder/views/img/icons/icon-blabla.png" alt="" width="33" height="33" style="width:33px; height:33px; float:left; display:block;" /></span>
+                                                <span style="text-transform:uppercase; color:#000000; font-weight:bold;">Customer service 24/7</span><br />
+                                                Our customer service is available every day of the week</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="border-top:2px solid [[color]]; display:block; margin:10px 0 0 0; padding:0 0 8px 0; height:0; font-size:0px; line-height:0px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p style="font-size:11px; margin:0; color:#777777; text-align:center;"><a style="color:[[color]];" href="{unscribe_url}">Click here</a> to unsubscribe</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+		</tr>
+    </tbody>
+</table>
+</body>
+</html>

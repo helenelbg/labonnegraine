@@ -1,0 +1,7 @@
+Bonjour {customer_name}
+L'administrateur a déduit une récompense de votre solde de récompenses
+Identifiant de récompense: S-{id_reward}
+Montant: {amount}
+Programme: {program}
+Raison: {reason}
+Cordialement,

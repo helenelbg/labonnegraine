@@ -1,0 +1,4 @@
+Hola Admin
+ {customer} acaba de enviar una solicitud a {program_register}
+Email: {email}
+{intro}

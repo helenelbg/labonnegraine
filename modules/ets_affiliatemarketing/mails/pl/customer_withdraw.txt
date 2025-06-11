@@ -1,0 +1,9 @@
+Cześć {customer},
+Właśnie pomyślnie przesłałeś żądanie wypłaty w sklepie {shop_name} Twoja prośba czeka na zatwierdzenie, prosimy o cierpliwość i pamiętaj, aby sprawdzić swoją skrzynkę odbiorczą w celu otrzymania e-maila z potwierdzeniem.
+Poniżej znajdują się szczegółowe informacje na temat Twojego żądania wypłaty:
+ID wypłaty: {withdrawal_ID}
+Kwota wypłaty: {amount}
+Forma płatności:{payment_method}
+Data przetworzenia (szacunkowa): {processed_date}
+{invoice_withdrawal}
+Z poważaniem.

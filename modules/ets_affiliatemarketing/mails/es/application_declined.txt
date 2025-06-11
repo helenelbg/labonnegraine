@@ -1,0 +1,5 @@
+Hola {username}
+Su solicitud para {program} fue rechazada.
+Razón: {reason}
+¡Gracias por estar interesado en nuestro programa!
+Tuyo sinceramente.

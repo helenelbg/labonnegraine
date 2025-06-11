@@ -1,0 +1,7 @@
+Cześć {customer_name}
+Administrator odliczył nagrodę z Twojego salda nagród
+ID nagrody: S-{id_reward}
+Kwota: {amount}
+Program: {program}
+Powód: {reason}
+Z poważaniem

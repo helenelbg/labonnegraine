@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{storecommander}prestashop>storecommander_9d96d334549737ec4ca783309b290027'] = 'Módulo de instalación de Store Commander';
+$_MODULE['<{storecommander}prestashop>storecommander_7be506d43da786705d3d37fb86733a2b'] = 'Instale Store Commander para acelerar su backoffice';
+$_MODULE['<{storecommander}prestashop>storecommander_15296b292a8dc44ba70559a5ef65aa10'] = '¡Atención! Esta acción suprimirá definitivamente Store Commander.';
+$_MODULE['<{storecommander}prestashop>storecommander_72d3dbd5e90681fbc705e2741ae5ec6c'] = 'El fichero modulos/storecommander debe tener los permisos de escritura activados.';
+$_MODULE['<{storecommander}prestashop>storecommander_e6d2b840593e19e17c8a2b867db48121'] = '¡Store Commander no está instalado!';
+$_MODULE['<{storecommander}prestashop>storecommander_74754d0c8ebeeed63e58233fa2e1e20f'] = 'Store Commander + ya está instalado en su tienda. Puede iniciar la aplicación a partir del menú "Módulos > Store Commander". Si desea instalar esta versión del módulo Store Commander, deberá verificar que no tiene un abono de PrestaShop en curso (página de configuración del módulo) y desinstale entonces el módulo Store Commander +. Por último vuelva a iniciar la instalación.';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.4_ef59dbf80aeeb077a7754d016661cc72'] = 'Store Commander está instalado. Puede iniciar la aplicación desde el menú Módulos > Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.4_9f6f41c0acb633f50a73752aaf238289'] = 'Iniciar Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.4_3fff44f34fb8cd9ce3b0ae2d5cdd9263'] = 'Haciendo clic sobre este botón para actualizar acepta usted las';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.4_1d8cd2bfc6943dcf70236f7d351572a0'] = 'Condiciones Generales de Uso';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.4_f3d18edd0639b8a297844fa780bfcd51'] = 'Forzar la instalación de la última actualización de Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_ef59dbf80aeeb077a7754d016661cc72'] = 'Store Commander está instalado. Puede iniciar la aplicación desde el menú Módulos > Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_9f6f41c0acb633f50a73752aaf238289'] = 'Iniciar Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_de2b1335c4dbce24f2039d73ff4fdb43'] = 'Actualización de Store Commander correcta';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_3fff44f34fb8cd9ce3b0ae2d5cdd9263'] = 'Haciendo clic sobre este botón para actualizar acepta usted las';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_1d8cd2bfc6943dcf70236f7d351572a0'] = 'Condiciones Generales de Uso';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_f3d18edd0639b8a297844fa780bfcd51'] = 'Forzar la instalación de la última actualización de Store Commander';
+$_MODULE['<{storecommander}prestashop>etape_postinstall_1.5_fe4c6a5e7bd6793b37370e4e46daf998'] = 'Configuración avanzada';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.4_ff99dd707c37ffeab73f35227a7f635b'] = '¡Listo para la instalación de Store Commander!';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.4_d2f166a309507ac05e88171cf2dafc4c'] = 'Gane días enteros de trabajo gracias a Store Commander.';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.4_fd0e70c7478fbc5c50993b8b08b458a1'] = 'Haga clic sobre el botón de abajo: La aplicación Store Commander será descargada en un nuevo fichero en /modules/storecommander/';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.4_271e5285c076f6a61688c2fb955e7114'] = 'Si necesita asistencia nos puede contactar en';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.4_6c495a6790483df84e06465051ca3d66'] = 'Iniciar la descarga e instalación de SC';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.5_ff99dd707c37ffeab73f35227a7f635b'] = '¡Listo para la instalación de Store Commander!';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.5_d2f166a309507ac05e88171cf2dafc4c'] = 'Gane días enteros de trabajo gracias a Store Commander.';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.5_fd0e70c7478fbc5c50993b8b08b458a1'] = 'Haga clic sobre el botón de abajo: La aplicación Store Commander será descargada en un nuevo fichero en /modules/storecommander/';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.5_271e5285c076f6a61688c2fb955e7114'] = 'Si necesita asistencia nos puede contactar en';
+$_MODULE['<{storecommander}prestashop>etape_preinstall_1.5_6c495a6790483df84e06465051ca3d66'] = 'Iniciar la descarga e instalación de SC';
