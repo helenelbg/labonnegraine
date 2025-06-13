@@ -39,7 +39,7 @@ if (!defined('_PS_CYRIL_')) {
 define('_PS_CYRIL_', false); 
 }
 
-putenv('TMPDIR=/home/dev.labonnegraine.com/tmp');
+putenv('TMPDIR=/home/helene/tmp');
 
 /* Compatibility warning */
 if (!defined('_PS_DISPLAY_COMPATIBILITY_WARNING_')) {

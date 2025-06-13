@@ -150,6 +150,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
             'doctrine.mapping_convert_command' => true,
             'doctrine.mapping_import_command' => true,
             'doctrine.mapping_info_command' => true,
+            'doctrine.orm.command.entity_manager_provider' => true,
             'doctrine.orm.configuration' => true,
             'doctrine.orm.container_repository_factory' => true,
             'doctrine.orm.default_annotation_metadata_driver' => true,
@@ -279,7 +280,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         $a = new \Doctrine\DBAL\Configuration();
         $a->setSQLLogger(new \Doctrine\DBAL\Logging\LoggerChain([0 => new \Symfony\Bridge\Doctrine\Logger\DbalLogger(NULL, NULL), 1 => new \Doctrine\DBAL\Logging\DebugStack()]));
 
-        return $this->services['doctrine.dbal.default_connection'] = (new \Doctrine\Bundle\DoctrineBundle\ConnectionFactory([]))->createConnection(['driver' => 'pdo_mysql', 'host' => 'localhost', 'port' => '', 'dbname' => 'dev', 'user' => 'dev', 'password' => 'AYsUWk9s4PdWS4KqEeBMCu2D', 'charset' => 'utf8mb4', 'driverOptions' => [1002 => 'SET sql_mode=(SELECT REPLACE(@@sql_mode,\'ONLY_FULL_GROUP_BY\',\'\'))', 1013 => $this->getEnv('const:runtime:_PS_ALLOW_MULTI_STATEMENTS_QUERIES_')], 'defaultTableOptions' => []], $a, new \Symfony\Bridge\Doctrine\ContainerAwareEventManager($this), ['enum' => 'string']);
+        return $this->services['doctrine.dbal.default_connection'] = (new \Doctrine\Bundle\DoctrineBundle\ConnectionFactory([]))->createConnection(['driver' => 'pdo_mysql', 'host' => 'localhost', 'port' => '', 'dbname' => 'labonnegraine', 'user' => 'root', 'password' => 'coucou', 'charset' => 'utf8mb4', 'driverOptions' => [1002 => 'SET sql_mode=(SELECT REPLACE(@@sql_mode,\'ONLY_FULL_GROUP_BY\',\'\'))', 1013 => $this->getEnv('const:runtime:_PS_ALLOW_MULTI_STATEMENTS_QUERIES_')], 'defaultTableOptions' => []], $a, new \Symfony\Bridge\Doctrine\ContainerAwareEventManager($this), ['enum' => 'string']);
     }
 
     /**
@@ -292,16 +293,17 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         $a = new \Doctrine\ORM\Configuration();
 
         $b = new \Doctrine\Persistence\Mapping\Driver\MappingDriverChain();
-        $b->addDriver(new \Doctrine\ORM\Mapping\Driver\AnnotationDriver(($this->services['annotation_reader'] ?? ($this->services['annotation_reader'] = new \Doctrine\Common\Annotations\AnnotationReader())), [0 => '/home/dev.labonnegraine.com/public_html/src/PrestaShopBundle/Entity']), 'PrestaShop');
+        $b->addDriver(new \Doctrine\ORM\Mapping\Driver\AnnotationDriver(($this->services['annotation_reader'] ?? ($this->services['annotation_reader'] = new \Doctrine\Common\Annotations\AnnotationReader())), [0 => '/home/helene/prestashop/src/PrestaShopBundle/Entity']), 'PrestaShop');
 
         $a->setEntityNamespaces(['PrestaShopBundle\\Entity' => 'PrestaShop']);
         $a->setMetadataCache(new \Symfony\Component\Cache\Adapter\ArrayAdapter());
         $a->setQueryCache(new \Symfony\Component\Cache\Adapter\ArrayAdapter());
         $a->setResultCache(new \Symfony\Component\Cache\Adapter\ArrayAdapter());
         $a->setMetadataDriverImpl($b);
-        $a->setProxyDir('/home/dev.labonnegraine.com/public_html/var/cache/dev//doctrine/orm/Proxies');
+        $a->setProxyDir('/home/helene/prestashop/var/cache/dev//doctrine/orm/Proxies');
         $a->setProxyNamespace('Proxies');
         $a->setAutoGenerateProxyClasses(true);
+        $a->setSchemaIgnoreClasses([]);
         $a->setClassMetadataFactoryName('Doctrine\\ORM\\Mapping\\ClassMetadataFactory');
         $a->setDefaultRepositoryClassName('Doctrine\\ORM\\EntityRepository');
         $a->setNamingStrategy(($this->services['prestashop.database.naming_strategy'] ?? ($this->services['prestashop.database.naming_strategy'] = new \PrestaShopBundle\Service\Database\DoctrineNamingStrategy('ps_'))));
@@ -310,7 +312,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         $a->setRepositoryFactory(new \Doctrine\Bundle\DoctrineBundle\Repository\ContainerRepositoryFactory(new \Symfony\Component\DependencyInjection\ServiceLocator([])));
         $a->addCustomStringFunction('regexp', 'DoctrineExtensions\\Query\\Mysql\\Regexp');
 
-        $this->services['doctrine.orm.default_entity_manager'] = $instance = \Doctrine\ORM\EntityManager::create(($this->services['doctrine.dbal.default_connection'] ?? $this->getDoctrine_Dbal_DefaultConnectionService()), $a);
+        $this->services['doctrine.orm.default_entity_manager'] = $instance = new \Doctrine\ORM\EntityManager(($this->services['doctrine.dbal.default_connection'] ?? $this->getDoctrine_Dbal_DefaultConnectionService()), $a);
 
         (new \Doctrine\Bundle\DoctrineBundle\ManagerConfigurator([], []))->configure($instance);
 
@@ -394,7 +396,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
      */
     protected function getPrestashop_Adapter_Module_Repository_ModuleRepositoryService()
     {
-        return $this->services['prestashop.adapter.module.repository.module_repository'] = new \PrestaShop\PrestaShop\Adapter\Module\Repository\ModuleRepository('/home/dev.labonnegraine.com/public_html', '/home/dev.labonnegraine.com/public_html/modules/');
+        return $this->services['prestashop.adapter.module.repository.module_repository'] = new \PrestaShop\PrestaShop\Adapter\Module\Repository\ModuleRepository('/home/helene/prestashop', '/home/helene/prestashop/modules/');
     }
 
     /**
@@ -572,7 +574,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
      */
     protected function getPrestashop_Core_Localization_Cldr_Cache_AdapterService()
     {
-        return $this->services['prestashop.core.localization.cldr.cache.adapter'] = new \Symfony\Component\Cache\Adapter\FilesystemAdapter('CLDR', 0, '/home/dev.labonnegraine.com/public_html/var/cache/dev//localization');
+        return $this->services['prestashop.core.localization.cldr.cache.adapter'] = new \Symfony\Component\Cache\Adapter\FilesystemAdapter('CLDR', 0, '/home/helene/prestashop/var/cache/dev//localization');
     }
 
     /**
@@ -582,7 +584,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
      */
     protected function getPrestashop_Core_Localization_Cldr_Datalayer_LocaleCacheService()
     {
-        $this->services['prestashop.core.localization.cldr.datalayer.locale_cache'] = $instance = new \PrestaShop\PrestaShop\Core\Localization\CLDR\DataLayer\LocaleCache(($this->services['prestashop.core.localization.cldr.cache.adapter'] ?? ($this->services['prestashop.core.localization.cldr.cache.adapter'] = new \Symfony\Component\Cache\Adapter\FilesystemAdapter('CLDR', 0, '/home/dev.labonnegraine.com/public_html/var/cache/dev//localization'))));
+        $this->services['prestashop.core.localization.cldr.datalayer.locale_cache'] = $instance = new \PrestaShop\PrestaShop\Core\Localization\CLDR\DataLayer\LocaleCache(($this->services['prestashop.core.localization.cldr.cache.adapter'] ?? ($this->services['prestashop.core.localization.cldr.cache.adapter'] = new \Symfony\Component\Cache\Adapter\FilesystemAdapter('CLDR', 0, '/home/helene/prestashop/var/cache/dev//localization'))));
 
         $instance->setLowerLayer(($this->services['prestashop.core.localization.cldr.datalayer.locale_reference'] ?? $this->getPrestashop_Core_Localization_Cldr_Datalayer_LocaleReferenceService()));
 
@@ -744,7 +746,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
      */
     protected function getPrestashop_Translation_TranslatorLanguageLoaderService()
     {
-        return $this->services['prestashop.translation.translator_language_loader'] = new \PrestaShopBundle\Translation\TranslatorLanguageLoader(($this->services['prestashop.adapter.module.repository.module_repository'] ?? ($this->services['prestashop.adapter.module.repository.module_repository'] = new \PrestaShop\PrestaShop\Adapter\Module\Repository\ModuleRepository('/home/dev.labonnegraine.com/public_html', '/home/dev.labonnegraine.com/public_html/modules/'))));
+        return $this->services['prestashop.translation.translator_language_loader'] = new \PrestaShopBundle\Translation\TranslatorLanguageLoader(($this->services['prestashop.adapter.module.repository.module_repository'] ?? ($this->services['prestashop.adapter.module.repository.module_repository'] = new \PrestaShop\PrestaShop\Adapter\Module\Repository\ModuleRepository('/home/helene/prestashop', '/home/helene/prestashop/modules/'))));
     }
 
     /**
@@ -812,9 +814,9 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
         return [
             'database_host' => 'localhost',
             'database_port' => '',
-            'database_name' => 'dev',
-            'database_user' => 'dev',
-            'database_password' => 'AYsUWk9s4PdWS4KqEeBMCu2D',
+            'database_name' => 'labonnegraine',
+            'database_user' => 'root',
+            'database_password' => 'coucou',
             'database_prefix' => 'ps_',
             'database_engine' => 'InnoDB',
             'mailer_transport' => 'smtp',
@@ -835,12 +837,12 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
             'kernel.bundles' => [
 
             ],
-            'kernel.root_dir' => '/home/dev.labonnegraine.com/public_html/app',
-            'kernel.project_dir' => '/home/dev.labonnegraine.com/public_html',
+            'kernel.root_dir' => '/home/helene/prestashop/app',
+            'kernel.project_dir' => '/home/helene/prestashop',
             'kernel.name' => 'app',
             'kernel.debug' => true,
             'kernel.environment' => 'dev',
-            'kernel.cache_dir' => '/home/dev.labonnegraine.com/public_html/var/cache/dev/',
+            'kernel.cache_dir' => '/home/helene/prestashop/var/cache/dev/',
             'kernel.active_modules' => [
                 0 => 'ps_linklist',
                 1 => 'blockreassurance',
@@ -890,15 +892,15 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 45 => 'ps_viewedproduct',
                 46 => 'statsbestcustomers',
                 47 => 'statsbestvouchers',
-                48 => 'dashactivity',
-                49 => 'ps_wirepayment',
-                50 => 'statssales',
-                51 => 'statsproduct',
-                52 => 'pagesnotfound',
-                53 => 'statsregistrations',
-                54 => 'ps_themecusto',
-                55 => 'ps_emailalerts',
-                56 => 'dashgoals',
+                48 => 'ps_categoryproducts',
+                49 => 'dashactivity',
+                50 => 'ps_wirepayment',
+                51 => 'statssales',
+                52 => 'statsproduct',
+                53 => 'pagesnotfound',
+                54 => 'statsregistrations',
+                55 => 'ps_themecusto',
+                56 => 'ps_emailalerts',
                 57 => 'ps_facetedsearch',
                 58 => 'migrationpro',
                 59 => 'AW_wordpressDBcontent',
@@ -925,33 +927,32 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 80 => 'majmessagesmasse',
                 81 => 'payline',
                 82 => 'scalapay',
-                83 => 'paypal',
-                84 => 'ets_affiliatemarketing',
-                85 => 'soflexibilite',
-                86 => 'aw_impressionadresse',
-                87 => 'aw_bo',
-                88 => 'dpdfrance',
-                89 => 'fichesenvoiclient',
-                90 => 'statsetatventes',
-                91 => 'aw_googlesuite',
-                92 => 'categoriesenavant',
-                93 => 'awproduct',
-                94 => 'cdc_googletagmanager',
-                95 => 'dmulistecommandes',
-                96 => 'storecommander',
-                97 => 'ets_payment_with_fee',
-                98 => 'vatnumber',
-                99 => 'ybc_blog',
-                100 => 'lbgorderlist',
-                101 => 'multi_carrier',
-                102 => 'creativeelements',
-                103 => 'autocustomerselect',
-                104 => 'savpayment',
-                105 => 'tacartreminder',
-                106 => 'categoryheadermessages',
-                107 => 'ets_crosssell',
+                83 => 'ets_affiliatemarketing',
+                84 => 'soflexibilite',
+                85 => 'aw_impressionadresse',
+                86 => 'aw_bo',
+                87 => 'dpdfrance',
+                88 => 'fichesenvoiclient',
+                89 => 'statsetatventes',
+                90 => 'aw_googlesuite',
+                91 => 'categoriesenavant',
+                92 => 'awproduct',
+                93 => 'dmulistecommandes',
+                94 => 'storecommander',
+                95 => 'suiviachats',
+                96 => 'vatnumber',
+                97 => 'multi_carrier',
+                98 => 'lbgorderlist',
+                99 => 'ets_whatsapp',
+                100 => 'creativeelements',
+                101 => 'autocustomerselect',
+                102 => 'savpayment',
+                103 => 'tacartreminder',
+                104 => 'categoryheadermessages',
+                105 => 'ets_crosssell',
+                106 => 'cdc_googletagmanager',
             ],
-            'ps_cache_dir' => '/home/dev.labonnegraine.com/public_html/var/cache/dev/',
+            'ps_cache_dir' => '/home/helene/prestashop/var/cache/dev/',
             'mail_themes_uri' => '/mails/themes',
             'doctrine.dbal.logger.chain.class' => 'Doctrine\\DBAL\\Logging\\LoggerChain',
             'doctrine.dbal.logger.profiling.class' => 'Doctrine\\DBAL\\Logging\\DebugStack',
@@ -1021,7 +1022,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
             'doctrine.orm.second_level_cache.cache_configuration.class' => 'Doctrine\\ORM\\Cache\\CacheConfiguration',
             'doctrine.orm.second_level_cache.regions_configuration.class' => 'Doctrine\\ORM\\Cache\\RegionsConfiguration',
             'doctrine.orm.auto_generate_proxy_classes' => true,
-            'doctrine.orm.proxy_dir' => '/home/dev.labonnegraine.com/public_html/var/cache/dev//doctrine/orm/Proxies',
+            'doctrine.orm.proxy_dir' => '/home/helene/prestashop/var/cache/dev//doctrine/orm/Proxies',
             'doctrine.orm.proxy_namespace' => 'Proxies',
         ];
     }

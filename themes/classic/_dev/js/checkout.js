@@ -75,12 +75,7 @@ $(document).ready(() => {
     }
     // Hide all carrier extra content ...
     $(prestashop.themeSelectors.checkout.carrierExtraContent).hide();
-
-    // Show the one related to the selected carrier
-    const carrierExtraContent = params.deliveryOption.next(prestashop.themeSelectors.checkout.carrierExtraContent);
-
-    if (carrierExtraContent.html().trim() !== '') {
-      carrierExtraContent.slideDown();
-    }
+    // and show the one related to the selected carrier
+    params.deliveryOption.next(prestashop.themeSelectors.checkout.carrierExtraContent).slideDown();
   });
 });

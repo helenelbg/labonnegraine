@@ -4,9 +4,9 @@
     array (
       'database_host' => 'localhost',
       'database_port' => '',
-      'database_name' => 'dev',
-      'database_user' => 'dev',
-      'database_password' => 'AYsUWk9s4PdWS4KqEeBMCu2D',
+      'database_name' => 'labonnegraine',
+      'database_user' => 'root',
+      'database_password' => 'coucou',
       'database_prefix' => 'ps_',
       'database_engine' => 'InnoDB',
       'mailer_transport' => 'smtp',

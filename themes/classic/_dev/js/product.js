@@ -25,34 +25,19 @@
 import $ from 'jquery';
 import prestashop from 'prestashop';
 import ProductSelect from './components/product-select';
-import updateSources from './components/update-sources';
 
 $(document).ready(() => {
   function coverImage() {
     const productCover = $(prestashop.themeSelectors.product.cover);
-    const modalProductCover = $(prestashop.themeSelectors.product.modalProductCover);
     let thumbSelected = $(prestashop.themeSelectors.product.selected);
 
     const swipe = (selectedThumb, thumbParent) => {
       const newSelectedThumb = thumbParent.find(prestashop.themeSelectors.product.thumb);
 
-      // Swap active classes on thumbnail
+      $(prestashop.themeSelectors.product.modalProductCover).attr('src', newSelectedThumb.data('image-large-src'));
       selectedThumb.removeClass('selected');
       newSelectedThumb.addClass('selected');
-
-      // Update sources of both cover and modal cover
-      modalProductCover.prop('src', newSelectedThumb.data('image-large-src'));
       productCover.prop('src', newSelectedThumb.data('image-medium-src'));
-
-      // Get data from thumbnail and update cover src, alt and title
-      productCover.attr('title', newSelectedThumb.attr('title'));
-      modalProductCover.attr('title', newSelectedThumb.attr('title'));
-      productCover.attr('alt', newSelectedThumb.attr('alt'));
-      modalProductCover.attr('alt', newSelectedThumb.attr('alt'));
-
-      // Get data from thumbnail and update cover sources
-      updateSources(productCover, newSelectedThumb.data('image-medium-sources'));
-      updateSources(modalProductCover, newSelectedThumb.data('image-large-sources'));
     };
 
     $(prestashop.themeSelectors.product.thumb).on('click', (event) => {

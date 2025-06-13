@@ -1,0 +1,58 @@
+<?php
+/* Smarty version 4.5.5, created on 2025-06-13 16:28:58
+  from '/home/helene/prestashop/modules/creativeelements/views/templates/front/theme/_partials/microdata/product-list-jsonld.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '4.5.5',
+  'unifunc' => 'content_684c35aad07b35_63287105',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '70a9ca4582539c5cf4777fe4fb2c2389092e84b1' => 
+    array (
+      0 => '/home/helene/prestashop/modules/creativeelements/views/templates/front/theme/_partials/microdata/product-list-jsonld.tpl',
+      1 => 1749809061,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_684c35aad07b35_63287105 (Smarty_Internal_Template $_smarty_tpl) {
+echo '<script'; ?>
+ type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "ItemList",
+	"itemListElement": [
+	<?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['listing']->value['products'], 'item', false, NULL, 'products', array (
+  'iteration' => true,
+  'last' => true,
+  'total' => true,
+));
+$_smarty_tpl->tpl_vars['item']->do_else = true;
+if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['item']->value) {
+$_smarty_tpl->tpl_vars['item']->do_else = false;
+$_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['iteration']++;
+$_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['last'] = $_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['iteration'] === $_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['total'];
+?>
+		{
+			"@type": "ListItem",
+			"position": <?php echo htmlspecialchars((string) (intval((isset($_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['iteration']) ? $_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['iteration'] : null))), ENT_QUOTES, 'UTF-8');?>
+,
+			"name": "<?php echo htmlspecialchars((string) ($_smarty_tpl->tpl_vars['item']->value['name']), ENT_QUOTES, 'UTF-8');?>
+",
+			"url": "<?php echo htmlspecialchars((string) ($_smarty_tpl->tpl_vars['item']->value['url']), ENT_QUOTES, 'UTF-8');?>
+"
+		}<?php if (!(isset($_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['last']) ? $_smarty_tpl->tpl_vars['__smarty_foreach_products']->value['last'] : null)) {?>,<?php }?>
+	<?php
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
+	]
+}
+<?php echo '</script'; ?>
+><?php }
+}

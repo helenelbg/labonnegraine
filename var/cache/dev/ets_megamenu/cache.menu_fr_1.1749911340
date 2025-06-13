@@ -1,0 +1,2087 @@
+
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/menu-html.tpl -->
+
+               	           
+  
+
+    <ul class="mm_menus_ul  ">
+        						
+
+			
+
+            <li data-id-category="18" class="mm_menus_li abcdef mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/18-graines-potageres"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                GRAINES POTAGERES
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_2 mm_breaker mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="68" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="68" href="/18-graines-potageres"  style="font-size:16px">GRAINES potagères</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="68">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="141" >
+                <a class="ets_mm_url" href="http://prestashop.local/141-arroche">Arroches</a>
+                            </li>
+                    <li data-id="19" >
+                <a class="ets_mm_url" href="http://prestashop.local/19-artichauts">Artichauts</a>
+                            </li>
+                    <li data-id="20" >
+                <a class="ets_mm_url" href="http://prestashop.local/20-asperges">Asperges (griffes)</a>
+                            </li>
+                    <li data-id="21" >
+                <a class="ets_mm_url" href="http://prestashop.local/21-aubergines">Aubergines 🌱</a>
+                            </li>
+                    <li data-id="22" >
+                <a class="ets_mm_url" href="http://prestashop.local/22-betteraves">Betteraves</a>
+                            </li>
+                    <li data-id="439" >
+                <a class="ets_mm_url" href="http://prestashop.local/439-cardons">Cardons</a>
+                            </li>
+                    <li data-id="26" >
+                <a class="ets_mm_url" href="http://prestashop.local/26-carotte">Carottes</a>
+                            </li>
+                    <li data-id="27" >
+                <a class="ets_mm_url" href="http://prestashop.local/27-celeris">Céleris</a>
+                            </li>
+                    <li data-id="28" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/28-chicorees">Chicorées</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="435" >
+                <a class="ets_mm_url" href="http://prestashop.local/435-graines-endives">Graines endives</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="33" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/33-choux">Choux</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="430" >
+                <a class="ets_mm_url" href="http://prestashop.local/430-choux-brocolis">Choux brocolis</a>
+                            </li>
+                    <li data-id="425" >
+                <a class="ets_mm_url" href="http://prestashop.local/425-choux-cabus">Choux cabus</a>
+                            </li>
+                    <li data-id="428" >
+                <a class="ets_mm_url" href="http://prestashop.local/428-choux-chinois">Choux chinois</a>
+                            </li>
+                    <li data-id="427" >
+                <a class="ets_mm_url" href="http://prestashop.local/427-choux-de-bruxelles">Choux de Bruxelles</a>
+                            </li>
+                    <li data-id="426" >
+                <a class="ets_mm_url" href="http://prestashop.local/426-choux-de-milan">Choux de Milan</a>
+                            </li>
+                    <li data-id="432" >
+                <a class="ets_mm_url" href="http://prestashop.local/432-choux-kales-kalettes">Choux kales, kalettes</a>
+                            </li>
+                    <li data-id="429" >
+                <a class="ets_mm_url" href="http://prestashop.local/429-choux-fleurs">Choux-fleurs</a>
+                            </li>
+                    <li data-id="433" >
+                <a class="ets_mm_url" href="http://prestashop.local/433-choux-navets">Choux-navets</a>
+                            </li>
+                    <li data-id="431" >
+                <a class="ets_mm_url" href="http://prestashop.local/431-choux-raves">Choux-raves</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="195" >
+                <a class="ets_mm_url" href="http://prestashop.local/195-cucumis-sativus-sativus">Concombres 🌱</a>
+                            </li>
+                    <li data-id="422" >
+                <a class="ets_mm_url" href="http://prestashop.local/422-graines-cornichons">Cornichons 🌱</a>
+                            </li>
+                    <li data-id="435" >
+                <a class="ets_mm_url" href="http://prestashop.local/435-graines-endives">Graines endives</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="5" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">GRAINES</span>
+        <div class="ets_mm_block_content" data-id-subcategory="5">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="45" >
+                <a class="ets_mm_url" href="http://prestashop.local/45-courges">Courges - Potirons - Potimarrons 🌱</a>
+                            </li>
+                    <li data-id="46" >
+                <a class="ets_mm_url" href="http://prestashop.local/46-courgettes">Courgettes 🌱</a>
+                            </li>
+                    <li data-id="93" >
+                <a class="ets_mm_url" href="http://prestashop.local/93-engrais-verts">Engrais verts</a>
+                            </li>
+                    <li data-id="48" >
+                <a class="ets_mm_url" href="http://prestashop.local/48-epinards">Epinards</a>
+                            </li>
+                    <li data-id="76" >
+                <a class="ets_mm_url" href="http://prestashop.local/76-fenouils">Fenouils</a>
+                            </li>
+                    <li data-id="89" >
+                <a class="ets_mm_url" href="http://prestashop.local/89-feves">Fèves</a>
+                            </li>
+                    <li data-id="334" >
+                <a class="ets_mm_url" href="http://prestashop.local/334-gombo-okra">Gombo - Okra</a>
+                            </li>
+                    <li data-id="50" >
+                <a class="ets_mm_url" href="http://prestashop.local/50-haricots">Haricots</a>
+                            </li>
+                    <li data-id="246" >
+                <a class="ets_mm_url" href="http://prestashop.local/246-jeunes-pousses-salades-asiatiques">Jeunes pousses - Salades asiatiques</a>
+                            </li>
+                    <li data-id="54" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/54-laitues">Laitues</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="485" >
+                <a class="ets_mm_url" href="http://prestashop.local/485-laitues-batavias">Laitues Batavias</a>
+                            </li>
+                    <li data-id="484" >
+                <a class="ets_mm_url" href="http://prestashop.local/484-laitues-en-graines-enrobees">Laitues en graines enrobées</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="263" >
+                <a class="ets_mm_url" href="http://prestashop.local/263-lentille-soja">Lentille - Soja</a>
+                            </li>
+                    <li data-id="60" >
+                <a class="ets_mm_url" href="http://prestashop.local/60-maches">Mâches</a>
+                            </li>
+                    <li data-id="61" >
+                <a class="ets_mm_url" href="http://prestashop.local/61-mais">Maïs</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="6" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">GRAINES</span>
+        <div class="ets_mm_block_content" data-id-subcategory="6">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="62" >
+                <a class="ets_mm_url" href="http://prestashop.local/62-melons">Melons 🌱</a>
+                            </li>
+                    <li data-id="441" >
+                <a class="ets_mm_url" href="http://prestashop.local/441-moutardes">Moutardes</a>
+                            </li>
+                    <li data-id="63" >
+                <a class="ets_mm_url" href="http://prestashop.local/63-navets">Navets</a>
+                            </li>
+                    <li data-id="64" >
+                <a class="ets_mm_url" href="http://prestashop.local/64-oignons-echalions">Oignons - Echalions</a>
+                            </li>
+                    <li data-id="67" >
+                <a class="ets_mm_url" href="http://prestashop.local/67-oseilles">Oseilles</a>
+                            </li>
+                    <li data-id="68" >
+                <a class="ets_mm_url" href="http://prestashop.local/68-panais">Panais</a>
+                            </li>
+                    <li data-id="423" >
+                <a class="ets_mm_url" href="http://prestashop.local/423-graines-pasteques">Pastèques 🌱</a>
+                            </li>
+                    <li data-id="69" >
+                <a class="ets_mm_url" href="http://prestashop.local/69-patissons">Pâtissons 🌱</a>
+                            </li>
+                    <li data-id="230" >
+                <a class="ets_mm_url" href="http://prestashop.local/230-pepino">Pepino</a>
+                            </li>
+                    <li data-id="113" >
+                <a class="ets_mm_url" href="http://prestashop.local/113-persil">Persils</a>
+                            </li>
+                    <li data-id="70" >
+                <a class="ets_mm_url" href="http://prestashop.local/70-physalis">Physalis</a>
+                            </li>
+                    <li data-id="424" >
+                <a class="ets_mm_url" href="http://prestashop.local/424-graines-piments">Piments 🌱</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="71" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">GRAINES</span>
+        <div class="ets_mm_block_content" data-id-subcategory="71">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="80" >
+                <a class="ets_mm_url" href="http://prestashop.local/80-poireaux">Poireaux</a>
+                            </li>
+                    <li data-id="81" >
+                <a class="ets_mm_url" href="http://prestashop.local/81-bette-blette-carde">Poirées - Blettes - Bettes - Cardes</a>
+                            </li>
+                    <li data-id="82" >
+                <a class="ets_mm_url" href="http://prestashop.local/82-pois">Pois</a>
+                            </li>
+                    <li data-id="71" >
+                <a class="ets_mm_url" href="http://prestashop.local/71-graines-poivrons">Poivrons 🌱</a>
+                            </li>
+                    <li data-id="191" >
+                <a class="ets_mm_url" href="http://prestashop.local/191-porte-greffes-pour-especes-potageres">Porte-greffes pour espèces potagères</a>
+                            </li>
+                    <li data-id="72" >
+                <a class="ets_mm_url" href="http://prestashop.local/72-radis">Radis</a>
+                            </li>
+                    <li data-id="339" >
+                <a class="ets_mm_url" href="http://prestashop.local/339-rhubarbe">Rhubarbes</a>
+                            </li>
+                    <li data-id="440" >
+                <a class="ets_mm_url" href="http://prestashop.local/440-roquettes">Roquettes</a>
+                            </li>
+                    <li data-id="434" >
+                <a class="ets_mm_url" href="http://prestashop.local/434-rutabaga">Rutabaga</a>
+                            </li>
+                    <li data-id="75" >
+                <a class="ets_mm_url" href="http://prestashop.local/75-scorsoneres-salsifis">Scorsonères-Salsifis</a>
+                            </li>
+                    <li data-id="79" >
+                <a class="ets_mm_url" href="http://prestashop.local/79-tetragone">Tétragones</a>
+                            </li>
+                    <li data-id="77" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/77-tomates">Tomates 🌱</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="285" >
+                <a class="ets_mm_url" href="http://prestashop.local/285-tomates-tolerantes-au-mildiou">Tolérantes au mildiou</a>
+                            </li>
+                    <li data-id="468" >
+                <a class="ets_mm_url" href="http://prestashop.local/468-tomates-anciennes">Tomates anciennes</a>
+                            </li>
+                    <li data-id="471" >
+                <a class="ets_mm_url" href="http://prestashop.local/471-tomates-precoces">Tomates précoces</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="10" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="10" href="/78-graines-aromatiques-et-condimentaires"  style="font-size:16px">GRAINES AROMATIQUES ET CONDIMENTAIRES</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="10">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="78" >
+                <a class="ets_mm_url" href="http://prestashop.local/78-graines-aromatiques-et-condimentaires">Graines aromatiques et condimentaires</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                            <li data-id-block="69" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="69" href="/209-graines-de-gazons"  style="font-size:16px">GRAINES DE GAZONS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="69">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="210" >
+                <a class="ets_mm_url" href="http://prestashop.local/210-composition-speciale-pour-gazons-pelouses">Composition spéciale pour gazons / pelouses</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                            <li data-id-block="47" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="47" href="https://www.labonnegraine.com/360-le-potager-d-olivier"  style="font-size:16px">Le Potager d&#039;Olivier</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="47">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="340" >
+                <a class="ets_mm_url" href="http://prestashop.local/340-les-coups-de-coeur-du-potager-d-olivier">Les coups de cœur du Potager d&#039;Olivier</a>
+                            </li>
+                    <li data-id="359" >
+                <a class="ets_mm_url" href="http://prestashop.local/359-les-varietes-approuvees">Les nouveautés testées et approuvées par Olivier</a>
+                            </li>
+                    <li data-id="386" >
+                <a class="ets_mm_url" href="http://prestashop.local/386-les-accessoires-indispensables-du-potager-d-olivier">Les accessoires indispensables du Potager d&#039;Olivier</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="345" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/345-plants"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                PLANTS POTAGERS
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="48" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="48" href="https://www.labonnegraine.com/344-plants-potagers"  style="font-size:16px">plants potagers</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="48">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="349" >
+                <a class="ets_mm_url" href="http://prestashop.local/349-aubergines">Aubergines</a>
+                            </li>
+                    <li data-id="350" >
+                <a class="ets_mm_url" href="http://prestashop.local/350-concombres">Concombres</a>
+                            </li>
+                    <li data-id="436" >
+                <a class="ets_mm_url" href="http://prestashop.local/436-cornichons">Cornichons</a>
+                            </li>
+                    <li data-id="351" >
+                <a class="ets_mm_url" href="http://prestashop.local/351-courges-potirons-potimarrons">Courges - Potirons - Potimarrons</a>
+                            </li>
+                    <li data-id="352" >
+                <a class="ets_mm_url" href="http://prestashop.local/352-courgettes">Courgettes</a>
+                            </li>
+                    <li data-id="353" >
+                <a class="ets_mm_url" href="http://prestashop.local/353-melons">Melons</a>
+                            </li>
+                    <li data-id="437" >
+                <a class="ets_mm_url" href="http://prestashop.local/437-pasteques">Pastèques</a>
+                            </li>
+                    <li data-id="354" >
+                <a class="ets_mm_url" href="http://prestashop.local/354-patissons">Pâtissons</a>
+                            </li>
+                    <li data-id="438" >
+                <a class="ets_mm_url" href="http://prestashop.local/438-piments">Piments</a>
+                            </li>
+                    <li data-id="355" >
+                <a class="ets_mm_url" href="http://prestashop.local/355-poivrons">Poivrons</a>
+                            </li>
+                    <li data-id="356" >
+                <a class="ets_mm_url" href="http://prestashop.local/356-tomates">Tomates</a>
+                            </li>
+                    <li data-id="466" >
+                <a class="ets_mm_url" href="http://prestashop.local/466-nos-collections-de-plants-potagers">Nos Collections de plants potagers</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="49" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="49" href="https://www.labonnegraine.com/346-plants-potagers-greffes"  style="font-size:16px">Plants potagers greffés</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="49">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="346" >
+                <a class="ets_mm_url" href="http://prestashop.local/346-plants-potagers-greffes">Plants potagers greffés</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                            <li data-id-block="52" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="52" href="https://www.labonnegraine.com/387-plants-legumes-originaux"  style="font-size:16px">Plants de légumes originaux</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="52">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="390" >
+                <a class="ets_mm_url" href="http://prestashop.local/390-plants-de-patates-douces-bio">Plants de patates douces bio</a>
+                            </li>
+                    <li data-id="391" >
+                <a class="ets_mm_url" href="http://prestashop.local/391-plants-de-poire-de-terre-yacon">Plants de poire de terre (Yacon)</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="54" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="54" href="https://www.labonnegraine.com/388-plants-de-poireaux-en-botte-de-50"  style="font-size:16px">Plants de poireaux en botte</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="54">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="388" >
+                <a class="ets_mm_url" href="http://prestashop.local/388-plants-de-poireaux-en-botte-de-50">Plants de poireaux en botte de 50</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="50" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="50" href="https://www.labonnegraine.com/347-plants-aromatiques-vivaces-bio"  style="font-size:16px">plants aromatiques</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="50">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="493" >
+                <a class="ets_mm_url" href="http://prestashop.local/493-collection-de-plants-aromatiques">Collection de plants aromatiques</a>
+                            </li>
+                    <li data-id="491" >
+                <a class="ets_mm_url" href="http://prestashop.local/491-les-aromatiques-annuels">Les aromatiques annuels</a>
+                            </li>
+                    <li data-id="492" >
+                <a class="ets_mm_url" href="http://prestashop.local/492-les-aromatiques-vivaces">Les aromatiques vivaces</a>
+                            </li>
+                    <li data-id="490" >
+                <a class="ets_mm_url" href="http://prestashop.local/490-basilic">Basilic</a>
+                            </li>
+                    <li data-id="369" >
+                <a class="ets_mm_url" href="http://prestashop.local/369-plants-menthe-bio">Menthe</a>
+                            </li>
+                    <li data-id="370" >
+                <a class="ets_mm_url" href="http://prestashop.local/370-plant-origan-bio">Origan</a>
+                            </li>
+                    <li data-id="371" >
+                <a class="ets_mm_url" href="http://prestashop.local/371-plant-romarin-bio">Romarin</a>
+                            </li>
+                    <li data-id="372" >
+                <a class="ets_mm_url" href="http://prestashop.local/372-plant-sarriette-bio">Sarriette</a>
+                            </li>
+                    <li data-id="373" >
+                <a class="ets_mm_url" href="http://prestashop.local/373-plant-sauge-bio">Sauge</a>
+                            </li>
+                    <li data-id="374" >
+                <a class="ets_mm_url" href="http://prestashop.local/374-plant-thym-bio">Thym</a>
+                            </li>
+                    <li data-id="375" >
+                <a class="ets_mm_url" href="http://prestashop.local/375-plants-aromatiques-melliferes-bio">Autres aromatiques mellifères</a>
+                            </li>
+                    <li data-id="376" >
+                <a class="ets_mm_url" href="http://prestashop.local/376-aromatiques-originales-bio">Aromatiques originales</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="231" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/231-pommes-de-terre"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                POMMES DE TERRE
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="2" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="2" href="https://www.labonnegraine.com/231-pommes-de-terre"  style="font-size:16px">POMMES DE TERRE</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="2">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="417" >
+                <a class="ets_mm_url" href="http://prestashop.local/417-plants-de-pommes-de-terre-anciennes">Plants de pommes de terre anciennes</a>
+                            </li>
+                    <li data-id="108" >
+                <a class="ets_mm_url" href="http://prestashop.local/108-plants-de-pommes-de-terre-bio">Plants de pommes de terre BIO</a>
+                            </li>
+                    <li data-id="420" >
+                <a class="ets_mm_url" href="http://prestashop.local/420-plants-de-pommes-de-terre-non-traitees">Plants de pommes de terre non traitées</a>
+                            </li>
+                    <li data-id="419" >
+                <a class="ets_mm_url" href="http://prestashop.local/419-plants-de-pommes-de-terre-originales">Plants de pommes de terre originales</a>
+                            </li>
+                    <li data-id="229" >
+                <a class="ets_mm_url" href="http://prestashop.local/229-les-varietes-anti-mildiou">Plants de pommes de terre résistantes au mildiou</a>
+                            </li>
+                    <li data-id="421" >
+                <a class="ets_mm_url" href="http://prestashop.local/421-plants-de-pommes-de-terre-traditionnelles">Plants de pommes de terre traditionnelles</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        													
+
+			
+
+            <li data-id-category="112" class="active mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/112-bulbes-potagers"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                BULBES POTAGERS
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="3" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="3" href="https://www.labonnegraine.com/112-bulbes-potagers"  style="font-size:16px">BULBES POTAGERS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="3">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="137" >
+                <a class="ets_mm_url" href="http://prestashop.local/137-aulx-en-gousses">Ail/Aulx en gousses</a>
+                            </li>
+                    <li data-id="138" >
+                <a class="ets_mm_url" href="http://prestashop.local/138-echalotes">Bulbes d&#039;échalotes</a>
+                            </li>
+                    <li data-id="136" >
+                <a class="ets_mm_url" href="http://prestashop.local/136-oignons">Bulbes d&#039;oignons</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="148" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/148-plants-de-petits-fruits-bio"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                PETITS FRUITS
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="11" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="11" href="/148-plants-de-petits-fruits-bio"  style="font-size:16px">PLANTS DE PETITS FRUITS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="11">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="151" >
+                <a class="ets_mm_url" href="http://prestashop.local/151-plants-de-cassis-ou-de-casseille">Plants de Cassis ou de Casseille</a>
+                            </li>
+                    <li data-id="401" >
+                <a class="ets_mm_url" href="http://prestashop.local/401-plants-de-figuiers">Plants de Figuiers</a>
+                            </li>
+                    <li data-id="149" >
+                <a class="ets_mm_url" href="http://prestashop.local/149-plants-de-fraisiers">Plants de Fraisiers</a>
+                            </li>
+                    <li data-id="152" >
+                <a class="ets_mm_url" href="http://prestashop.local/152-plants-de-framboisiers">Plants de Framboisiers</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="12" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">PETITS FRUITS</span>
+        <div class="ets_mm_block_content" data-id-subcategory="12">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="172" >
+                <a class="ets_mm_url" href="http://prestashop.local/172-plants-de-goji">Plants de Goji</a>
+                            </li>
+                    <li data-id="153" >
+                <a class="ets_mm_url" href="http://prestashop.local/153-plants-de-groseilliers-a-grappes">Plants de Groseilliers à grappes</a>
+                            </li>
+                    <li data-id="154" >
+                <a class="ets_mm_url" href="http://prestashop.local/154-plants-de-groseilliers-a-maquereaux">Plants de Groseilliers à maquereaux</a>
+                            </li>
+                    <li data-id="405" >
+                <a class="ets_mm_url" href="http://prestashop.local/405-plants-de-kiwis-et-kiwais">Plants de Kiwis et Kiwaïs</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="13" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">PETITS FRUITS</span>
+        <div class="ets_mm_block_content" data-id-subcategory="13">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="155" >
+                <a class="ets_mm_url" href="http://prestashop.local/155-plants-de-mures-domestiques">Plants de Mûres domestiques et hybrides mûres-framboises</a>
+                            </li>
+                    <li data-id="171" >
+                <a class="ets_mm_url" href="http://prestashop.local/171-plants-de-myrtilliers">Plants de Myrtilliers</a>
+                            </li>
+                    <li data-id="403" >
+                <a class="ets_mm_url" href="http://prestashop.local/403-plants-de-noisetiers">Plants de Noisetiers</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="14" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">PETITS FRUITS</span>
+        <div class="ets_mm_block_content" data-id-subcategory="14">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="232" >
+                <a class="ets_mm_url" href="http://prestashop.local/232-plants-de-rhubarbes">Plants de Rhubarbes</a>
+                            </li>
+                    <li data-id="398" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/398-plants-de-vignes">Plants de Vignes</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="399" >
+                <a class="ets_mm_url" href="http://prestashop.local/399-plants-de-vignes-sans-pepins">Plants de vignes sans pépins</a>
+                            </li>
+                    <li data-id="400" >
+                <a class="ets_mm_url" href="http://prestashop.local/400-plants-de-vignes-resistantes">Plants de vignes résistantes</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="177" >
+                <a class="ets_mm_url" href="http://prestashop.local/177-plants-de-petits-fruits-originaux-ou-exotiques">Plants de Petits fruits originaux ou exotiques</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="143" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/143-legumes-anciens-et-originaux"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                LÉGUMES ORIGINAUX
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="15" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="15" href="https://www.labonnegraine.com/143-legumes-anciens-et-originaux"  style="font-size:16px">LÉGUMES ORIGINAUX</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="15">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="145" >
+                <a class="ets_mm_url" href="http://prestashop.local/145-anciens">Légumes anciens</a>
+                            </li>
+                    <li data-id="146" >
+                <a class="ets_mm_url" href="http://prestashop.local/146-originaux-et-exotiques">Légumes originaux et exotiques</a>
+                            </li>
+                    <li data-id="248" >
+                <a class="ets_mm_url" href="http://prestashop.local/248-patates-douces">Patates Douces Bio</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="233" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/233-graines-de-fleurs"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                FLEURS
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="16" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="16" href="/129-rosiers"  style="font-size:16px">ROSIERS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="16">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="481" >
+                <a class="ets_mm_url" href="http://prestashop.local/481-porte-greffes-pour-rosiers">Porte-greffes pour rosiers</a>
+                            </li>
+                    <li data-id="135" >
+                <a class="ets_mm_url" href="http://prestashop.local/135-anciens-et-anglais">Rosiers Anciens et Anglais</a>
+                            </li>
+                    <li data-id="132" >
+                <a class="ets_mm_url" href="http://prestashop.local/132-buissons-a-fleurs-groupes">Rosiers Buissons à Fleurs Groupées</a>
+                            </li>
+                    <li data-id="131" >
+                <a class="ets_mm_url" href="http://prestashop.local/131-buissons-a-grandes-fleurs">Rosiers Buissons à Grandes Fleurs</a>
+                            </li>
+                    <li data-id="133" >
+                <a class="ets_mm_url" href="http://prestashop.local/133-grimpants">Rosiers Grimpants</a>
+                            </li>
+                    <li data-id="134" >
+                <a class="ets_mm_url" href="http://prestashop.local/134-lianes">Rosiers Lianes</a>
+                            </li>
+                    <li data-id="213" >
+                <a class="ets_mm_url" href="http://prestashop.local/213-rosiers-decorosiers-">Rosiers Décorosiers®</a>
+                            </li>
+                    <li data-id="299" >
+                <a class="ets_mm_url" href="http://prestashop.local/299-rosiers-comestibles-taste-of-love-">Rosiers Comestibles Taste of love®</a>
+                            </li>
+                    <li data-id="338" >
+                <a class="ets_mm_url" href="http://prestashop.local/338-rosiers-la-star-de-doue">Rosiers La Star de Doué®</a>
+                            </li>
+                    <li data-id="467" >
+                <a class="ets_mm_url" href="http://prestashop.local/467-rosiers-en-mottes-compressees">Rosiers en mottes compressées</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="19" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="19" href="/91-bulbes-a-fleurs"  style="font-size:16px">BULBES À FLEURS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="19">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="292" >
+                <a class="ets_mm_url" href="http://prestashop.local/292-bulbes-d-alliums">Bulbes d&#039;alliums</a>
+                            </li>
+                    <li data-id="325" >
+                <a class="ets_mm_url" href="http://prestashop.local/325-bulbes-d-anemones">Bulbes d&#039;anémones</a>
+                            </li>
+                    <li data-id="102" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/102-bulbes-de-crocus">Bulbes de crocus</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="289" >
+                <a class="ets_mm_url" href="http://prestashop.local/289-crocus-botaniques">Crocus Botaniques</a>
+                            </li>
+                    <li data-id="290" >
+                <a class="ets_mm_url" href="http://prestashop.local/290-crocus-grandiflora">Crocus Grandiflora</a>
+                            </li>
+                    <li data-id="291" >
+                <a class="ets_mm_url" href="http://prestashop.local/291-crocus-a-safran">Crocus à safran</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="294" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/294-bulbes-iris">Bulbes d&#039;iris</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="323" >
+                <a class="ets_mm_url" href="http://prestashop.local/323-iris-botaniques">Iris Botaniques</a>
+                            </li>
+                    <li data-id="333" >
+                <a class="ets_mm_url" href="http://prestashop.local/333-iris-hollandais">Iris Hollandais</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="114" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/114-jacinthes">Bulbes de jacinthes</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="326" >
+                <a class="ets_mm_url" href="http://prestashop.local/326-jacinthes-preparees">Jacinthes préparées</a>
+                            </li>
+                    <li data-id="411" >
+                <a class="ets_mm_url" href="http://prestashop.local/411-jacinthes-d-espagne">Jacinthes des bois</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="128" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/128-narcisses">Bulbes de narcisses</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="168" >
+                <a class="ets_mm_url" href="http://prestashop.local/168-narcisses-cyclamineus">Narcisses Cyclamineus</a>
+                            </li>
+                    <li data-id="327" >
+                <a class="ets_mm_url" href="http://prestashop.local/327-narcisses-decasplit">Narcisses Decasplit</a>
+                            </li>
+                    <li data-id="169" >
+                <a class="ets_mm_url" href="http://prestashop.local/169-narcisses-doubles">Narcisses Doubles</a>
+                            </li>
+                    <li data-id="170" >
+                <a class="ets_mm_url" href="http://prestashop.local/170-narcisses-trompettes">Narcisses Trompettes</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="115" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/115-tulipes">Bulbes de tulipes</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="116" >
+                <a class="ets_mm_url" href="http://prestashop.local/116-tulipes-botaniques">Tulipes Botaniques</a>
+                            </li>
+                    <li data-id="147" >
+                <a class="ets_mm_url" href="http://prestashop.local/147-tulipes-botaniques-speciales">Tulipes Botaniques Spéciales</a>
+                            </li>
+                    <li data-id="120" >
+                <a class="ets_mm_url" href="http://prestashop.local/120-tulipe-darwin-hybride">Tulipes Darwin Hybrides</a>
+                            </li>
+                    <li data-id="124" >
+                <a class="ets_mm_url" href="http://prestashop.local/124-tulipes-dentelles">Tulipes Dentelles</a>
+                            </li>
+                    <li data-id="118" >
+                <a class="ets_mm_url" href="http://prestashop.local/118-tulipes-doubles-hatives">Tulipes Doubles Hâtives</a>
+                            </li>
+                    <li data-id="127" >
+                <a class="ets_mm_url" href="http://prestashop.local/127-tulipes-doubles-tardives">Tulipes Doubles Tardives</a>
+                            </li>
+                    <li data-id="324" >
+                <a class="ets_mm_url" href="http://prestashop.local/324-tulipes-dynasty">Tulipes Dynasty</a>
+                            </li>
+                    <li data-id="121" >
+                <a class="ets_mm_url" href="http://prestashop.local/121-tulipes-a-fleur-de-lis">Tulipes à Fleur de Lis</a>
+                            </li>
+                    <li data-id="122" >
+                <a class="ets_mm_url" href="http://prestashop.local/122-tulipes-perroquets">Tulipes Perroquets</a>
+                            </li>
+                    <li data-id="123" >
+                <a class="ets_mm_url" href="http://prestashop.local/123-tulipe-pluriflore">Tulipes Pluri-flore</a>
+                            </li>
+                    <li data-id="330" >
+                <a class="ets_mm_url" href="http://prestashop.local/330-tulipes-prince">Tulipes Prince</a>
+                            </li>
+                    <li data-id="117" >
+                <a class="ets_mm_url" href="http://prestashop.local/117-tulipes-simples-hatives">Tulipes Simples Hâtives</a>
+                            </li>
+                    <li data-id="126" >
+                <a class="ets_mm_url" href="http://prestashop.local/126-tulipes-simples-tardives">Tulipes Simples Tardives</a>
+                            </li>
+                    <li data-id="119" >
+                <a class="ets_mm_url" href="http://prestashop.local/119-tulipes-triomphes">Tulipes Triomphes</a>
+                            </li>
+                    <li data-id="206" >
+                <a class="ets_mm_url" href="http://prestashop.local/206-tulipes-triomphes-varietes-courtes">Tulipes Triomphes : variétés courtes</a>
+                            </li>
+                    <li data-id="125" >
+                <a class="ets_mm_url" href="http://prestashop.local/125-tulipes-viridiflora">Tulipes Viridiflora</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="284" >
+                <a class="ets_mm_url" href="http://prestashop.local/284-autres-bulbes-a-fleurs">Autres bulbes à fleurs</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="18" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="18" href="/233-graines-de-fleurs"  style="font-size:16px">GRAINES DE FLEURS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="18">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="442" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/442-fleurs-annuelles">Fleurs annuelles</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="454" >
+                <a class="ets_mm_url" href="http://prestashop.local/454-alysses">Alysses</a>
+                            </li>
+                    <li data-id="457" >
+                <a class="ets_mm_url" href="http://prestashop.local/457-chrysanthemes">Chrysanthèmes</a>
+                            </li>
+                    <li data-id="453" >
+                <a class="ets_mm_url" href="http://prestashop.local/453-capucines">Capucines</a>
+                            </li>
+                    <li data-id="450" >
+                <a class="ets_mm_url" href="http://prestashop.local/450-centauree-a-fleurs">Centaurées à fleurs</a>
+                            </li>
+                    <li data-id="447" >
+                <a class="ets_mm_url" href="http://prestashop.local/447-cosmos">Cosmos</a>
+                            </li>
+                    <li data-id="448" >
+                <a class="ets_mm_url" href="http://prestashop.local/448-geranium">Géraniums</a>
+                            </li>
+                    <li data-id="452" >
+                <a class="ets_mm_url" href="http://prestashop.local/452-linum">Lin (Linum)</a>
+                            </li>
+                    <li data-id="451" >
+                <a class="ets_mm_url" href="http://prestashop.local/451-mufliers-des-jardins">Mufliers des Jardins</a>
+                            </li>
+                    <li data-id="449" >
+                <a class="ets_mm_url" href="http://prestashop.local/449-pavot">Pavots</a>
+                            </li>
+                    <li data-id="456" >
+                <a class="ets_mm_url" href="http://prestashop.local/456-petunias">Pétunias</a>
+                            </li>
+                    <li data-id="463" >
+                <a class="ets_mm_url" href="http://prestashop.local/463-pois-de-senteur">Pois de senteur</a>
+                            </li>
+                    <li data-id="446" >
+                <a class="ets_mm_url" href="http://prestashop.local/446-tagetes">Tagètes (oeillet d&#039;inde)</a>
+                            </li>
+                    <li data-id="487" >
+                <a class="ets_mm_url" href="http://prestashop.local/487-tournesols-helianthus">Tournesols (Helianthus)</a>
+                            </li>
+                    <li data-id="462" >
+                <a class="ets_mm_url" href="http://prestashop.local/462-soucis">Soucis</a>
+                            </li>
+                    <li data-id="455" >
+                <a class="ets_mm_url" href="http://prestashop.local/455-zinnias">Zinnias</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="443" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/443-fleurs-bisannuelles">Fleurs bisannuelles</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="464" >
+                <a class="ets_mm_url" href="http://prestashop.local/464-campanules">Campanules</a>
+                            </li>
+                    <li data-id="459" >
+                <a class="ets_mm_url" href="http://prestashop.local/459-myosotis">Myosotis</a>
+                            </li>
+                    <li data-id="461" >
+                <a class="ets_mm_url" href="http://prestashop.local/461-oeillet-de-poete">Oeillets de poète</a>
+                            </li>
+                    <li data-id="460" >
+                <a class="ets_mm_url" href="http://prestashop.local/460-pensee-des-jardins">Pensées des Jardins</a>
+                            </li>
+                    <li data-id="470" >
+                <a class="ets_mm_url" href="http://prestashop.local/470-giroflees">Giroflées</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="444" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/444-fleurs-vivaces">Fleurs vivaces</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="458" >
+                <a class="ets_mm_url" href="http://prestashop.local/458-lupins">Lupins</a>
+                            </li>
+                    <li data-id="472" >
+                <a class="ets_mm_url" href="http://prestashop.local/472-graines-fleurs-achillees">Achillées</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="261" >
+                <a class="ets_mm_url" href="http://prestashop.local/261-fleurs-comestibles">Fleurs comestibles</a>
+                            </li>
+                    <li data-id="465" >
+                <a class="ets_mm_url" href="http://prestashop.local/465-fleurs-melliferes">Fleurs mellifères</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="17" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="17" href="/92-graines-de-fleurs"  style="font-size:16px">MÉLANGE DE FLEURS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="17">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="207" >
+                <a class="ets_mm_url" href="http://prestashop.local/207-melanges-engrais-verts">Mélanges engrais verts</a>
+                            </li>
+                    <li data-id="140" >
+                <a class="ets_mm_url" href="http://prestashop.local/140-prairie-fleurie">Prairie Fleurie</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="77" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="77" href="/473-fleurs-en-godet"  style="font-size:16px">FLEURS EN GODET</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="77">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="477" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/477-agapanthes">Agapanthes</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="478" >
+                <a class="ets_mm_url" href="http://prestashop.local/478-agapanthes-naines">Agapanthes naines</a>
+                            </li>
+                    <li data-id="479" >
+                <a class="ets_mm_url" href="http://prestashop.local/479-agapanthes-hautes">Agapanthes hautes</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="474" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/474-alstroemeres">Alstroemères</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="475" >
+                <a class="ets_mm_url" href="http://prestashop.local/475-alstroemeres-ducs-danjou">Alstroemères Ducs d’Anjou</a>
+                            </li>
+                    <li data-id="476" >
+                <a class="ets_mm_url" href="http://prestashop.local/476-alstroemeres-duchesses-danjou">Alstroemères Duchesses d’Anjou</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="182" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/182-cannas">Cannas</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="183" >
+                <a class="ets_mm_url" href="http://prestashop.local/183-cannas-nains">Cannas Nains</a>
+                            </li>
+                    <li data-id="184" >
+                <a class="ets_mm_url" href="http://prestashop.local/184-cannas-hauts">Cannas Hauts</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="480" >
+                <a class="ets_mm_url" href="http://prestashop.local/480-tulbaghias">Tulbaghias</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="269" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/269-idees-cadeaux"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                IDÉES CADEAUX
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="20" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="20" href="/227-les-box-de-la-bonne-graine"  style="font-size:16px">LES BOX DE LA BONNE GRAINE</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="20">
+                            <a href="/227-les-box-de-la-bonne-graine">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/box-lbg.jpg" alt="LES BOX DE LA BONNE GRAINE" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="21" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="21" href="/cartes-cadeaux"  style="font-size:16px">CARTES CADEAUX &quot;LA BONNE GRAINE&quot;</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="21">
+                            <a href="/cartes-cadeaux">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/menu-chequecadeau.jpg" alt="CARTES CADEAUX &quot;LA BONNE GRAINE&quot;" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="22" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="22" href="/303-cadeaux-par-budget"  style="font-size:16px">CADEAUX PAR BUDGET</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="22">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="300" >
+                <a class="ets_mm_url" href="http://prestashop.local/300-moins-de-15-e">Moins de 15 €</a>
+                            </li>
+                    <li data-id="301" >
+                <a class="ets_mm_url" href="http://prestashop.local/301-de-15-a-50-e">De 15 à 50 €</a>
+                            </li>
+                    <li data-id="302" >
+                <a class="ets_mm_url" href="http://prestashop.local/302-50-e-et-plus">50 € et plus</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                            <li data-id-block="38" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="38" href="https://www.labonnegraine.com/308-eco-responsables"  style="font-size:16px">OUTILLAGE/MATERIEL</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="38">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="308" >
+                <a class="ets_mm_url" href="http://prestashop.local/308-eco-responsables">Eco-responsables</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="23" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="23" href="/266-couteaux-de-jardin"  style="font-size:16px">COUTEAUX DE JARDIN</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="23">
+                            <a href="/266-couteaux-de-jardin">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/couteaux.jpg" alt="COUTEAUX DE JARDIN" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="234" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="http://prestashop.local/234-accessoires"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                ACCESSOIRES
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:100%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="28" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="28" href="/249-special-semis"  style="font-size:16px">SPÉCIAL SEMIS</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="28">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="238" >
+                <a class="ets_mm_url" href="http://prestashop.local/238-etiquettes">Etiquettes</a>
+                            </li>
+                    <li data-id="335" >
+                <a class="ets_mm_url" href="http://prestashop.local/335-pastilles-de-semis">Pastilles de semis</a>
+                            </li>
+                    <li data-id="240" >
+                <a class="ets_mm_url" href="http://prestashop.local/240-plaques-alveolees-pour-semis">Plaques alvéolées pour semis</a>
+                            </li>
+                    <li data-id="247" >
+                <a class="ets_mm_url" href="http://prestashop.local/247-presse-mottes">Presse-mottes</a>
+                            </li>
+                    <li data-id="242" >
+                <a class="ets_mm_url" href="http://prestashop.local/242-serres-de-semis">Serres de semis</a>
+                            </li>
+                    <li data-id="336" >
+                <a class="ets_mm_url" href="http://prestashop.local/336-systemes-de-chauffage-et-lumiere-pour-semis">Systèmes de chauffage et éclairage</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="29" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="29" href="/413-outils-de-jardin"  style="font-size:16px">OUTILS DE JARDIN</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="29">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="482" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/482-arrosage">Arrosage</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="392" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/392-arrosoirs-seaux">Arrosoirs et seaux</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="394" >
+                <a class="ets_mm_url" href="http://prestashop.local/394-arrosoirs-a-semis">Arrosoirs à semis</a>
+                            </li>
+                    <li data-id="393" >
+                <a class="ets_mm_url" href="http://prestashop.local/393-arrosoirs-en-acier-galvanise-a-chaud">Arrosoirs en acier galvanisé à chaud</a>
+                            </li>
+                    <li data-id="395" >
+                <a class="ets_mm_url" href="http://prestashop.local/395-arrosoir-petite-contenance-en-acier-galvanise">Arrosoirs petite contenance en acier galvanisé</a>
+                            </li>
+                    <li data-id="396" >
+                <a class="ets_mm_url" href="http://prestashop.local/396-seaux-en-acier-galvanise">Seaux en acier galvanisé</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="483" >
+                <a class="ets_mm_url" href="http://prestashop.local/483-tuyaux-d-arrosage">Tuyaux d&#039;arrosage</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="266" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/266-couteaux-de-jardin">Couteaux de jardin</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="268" >
+                <a class="ets_mm_url" href="http://prestashop.local/268-les-atypiques">Les atypiques</a>
+                            </li>
+                    <li data-id="267" >
+                <a class="ets_mm_url" href="http://prestashop.local/267-les-authentiques">Les authentiques</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="486" >
+                <a class="ets_mm_url" href="http://prestashop.local/486-mangeoires-a-oiseaux">Mangeoires à oiseaux</a>
+                            </li>
+                    <li data-id="251" >
+                <a class="ets_mm_url" href="http://prestashop.local/251-petit-outillage">Petit outillage</a>
+                            </li>
+                    <li data-id="412" >
+                <a class="ets_mm_url" href="http://prestashop.local/412-seaux-a-compost-paniers">Seaux à compost et paniers</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="58" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="58" href="https://www.labonnegraine.com/313-outils-de-jardin-bahco"  style="font-size:16px">Outils professionnels Bahco</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="58">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="314" >
+                <a class="ets_mm_url" href="http://prestashop.local/314-les-secateurs">Les sécateurs</a>
+                            </li>
+                    <li data-id="315" >
+                <a class="ets_mm_url" href="http://prestashop.local/315-les-ebrancheurs">Les ébrancheurs</a>
+                            </li>
+                    <li data-id="316" >
+                <a class="ets_mm_url" href="http://prestashop.local/316-les-cisailles-a-haie-et-a-gazon">Les cisailles à haie et à gazon</a>
+                            </li>
+                    <li data-id="317" >
+                <a class="ets_mm_url" href="http://prestashop.local/317-les-outils-de-jardin-et-bucheronnage">Les outils de jardin et bûcheronnage</a>
+                            </li>
+                    <li data-id="318" >
+                <a class="ets_mm_url" href="http://prestashop.local/318-les-ciseaux-et-couteaux">Les ciseaux et couteaux</a>
+                            </li>
+                    <li data-id="319" >
+                <a class="ets_mm_url" href="http://prestashop.local/319-l-entretien-des-outils-et-protections">L&#039;entretien des outils et protections</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="31" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">ACCESSOIRES</span>
+        <div class="ets_mm_block_content" data-id-subcategory="31">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="237" >
+                <a class="ets_mm_url" href="http://prestashop.local/237-godets-pots">Godets et jardinières</a>
+                            </li>
+                    <li data-id="239" >
+                <a class="ets_mm_url" href="http://prestashop.local/239-engrais-et-terreaux-bios">Engrais et terreaux Bios</a>
+                            </li>
+                    <li data-id="250" >
+                <a class="ets_mm_url" href="http://prestashop.local/250-film-filet-voile">Film / Filet / Voile</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="76" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category mm_hide_title">
+        <span class="h4"  style="font-size:16px">ACCESSOIRES</span>
+        <div class="ets_mm_block_content" data-id-subcategory="76">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="241" >
+                <a class="ets_mm_url" href="http://prestashop.local/241-clips-liens-pinces-de-greffage">Clips / Liens / Pinces de greffage</a>
+                            </li>
+                    <li data-id="245" >
+                <a class="ets_mm_url" href="http://prestashop.local/245-equipements-de-mesure">Equipements de mesure</a>
+                            </li>
+                    <li data-id="308" >
+                <a class="ets_mm_url" href="http://prestashop.local/308-eco-responsables">Eco-responsables</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_2  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="72" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="72" href="https://www.labonnegraine.com/273-serres"  style="font-size:16px">Serres en verre</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="72">
+                            
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="274" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/274-serres-natura">Serres NATURA</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="281" >
+                <a class="ets_mm_url" href="http://prestashop.local/281-les-serres-adossees">Les serres adossées</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="275" class="has-sub">
+                <a class="ets_mm_url" href="http://prestashop.local/275-serres-luxia">Serres LUXIA</a>
+                                    <span class="arrow closed"></span>
+                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+    <ul class="ets_mm_categories">
+                    <li data-id="282" >
+                <a class="ets_mm_url" href="http://prestashop.local/282-les-serres-adossees-luxia">Les serres adossées Luxia</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+
+                            </li>
+                    <li data-id="276" >
+                <a class="ets_mm_url" href="http://prestashop.local/276-serres-essentia">Serres ESSENTIA</a>
+                            </li>
+                    <li data-id="277" >
+                <a class="ets_mm_url" href="http://prestashop.local/277-serres-supra">Serres SUPRA</a>
+                            </li>
+                    <li data-id="278" >
+                <a class="ets_mm_url" href="http://prestashop.local/278-serres-a-l-ancienne">Serres à l&#039;ancienne</a>
+                            </li>
+                    <li data-id="279" >
+                <a class="ets_mm_url" href="http://prestashop.local/279-jardins-d-hiver">Jardins d&#039;hiver</a>
+                            </li>
+                    <li data-id="280" >
+                <a class="ets_mm_url" href="http://prestashop.local/280-accessoires-de-serre">Accessoires de serre</a>
+                            </li>
+            </ul>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/categories-tree.tpl -->
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+        						
+
+			
+
+            <li data-id-category="313" class="mm_menus_li mm_sub_align_full mm_has_sub hover "
+                >
+                <a class="ets_mm_url"                         href="https://labonnegraine.com/conseils-potager"
+                        style="font-size:16px;">
+                    <span class="mm_menu_content_title">
+                                                CONSEILS POTAGER
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul"
+                            style=" width:130%; font-size:14px;">
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="59" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="59" href="https://labonnegraine.com/conseils-potager/Thematique/calendrier-du-jardin.html"  style="font-size:16px">Calendrier du jardin</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="59">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/calendrier-du-jardin.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/calendrier.jpg" alt="Calendrier du jardin" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="65" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="65" href="https://labonnegraine.com/conseils-potager/Thematique/dans-mon-potager.html"  style="font-size:16px">Légumes de A à Z</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="65">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/dans-mon-potager.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/dans-mon-potager.jpg" alt="Légumes de A à Z" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="60" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="60" href="https://labonnegraine.com/conseils-potager/Thematique/comment-reussir.html"  style="font-size:16px">Les conseils de Cyril</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="60">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/comment-reussir.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/comment-reussir.jpg" alt="Les conseils de Cyril" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="62" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="62" href="https://labonnegraine.com/conseils-potager/Thematique/jardin-essai.html"  style="font-size:16px">Jardin d&#039;Essai</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="62">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/jardin-essai.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/jardin-essai.jpg" alt="Jardin d&#039;Essai" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="64" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="64" href="https://labonnegraine.com/conseils-potager/Thematique/quel-materiel-.html"  style="font-size:16px">Les accessoires du jardinier</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="64">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/quel-materiel-.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/accessoires.jpg" alt="Les accessoires du jardinier" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="66" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="66" href="https://labonnegraine.com/conseils-potager/Thematique/les-recettes.html"  style="font-size:16px">Les recettes</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="66">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/les-recettes.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/recettes.jpg" alt="Les recettes" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_1  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="67" class="mm_blocks_li">
+                                                    
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+    
+    <div class="ets_mm_block mm_block_type_image ">
+        <span class="h4"  style="font-size:16px"><a data-id-subcategorytrigger="67" href="https://labonnegraine.com/conseils-potager/Thematique/actus.html"  style="font-size:16px">Actus</a></span>
+        <div class="ets_mm_block_content" data-id-subcategory="67">
+                            <a href="https://labonnegraine.com/conseils-potager/Thematique/actus.html">                    <span class="mm_img_content">
+                        <img src="/img/ets_megamenu/actus4.jpg" alt="Actus" />
+                    </span>
+                </a>                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/block.tpl -->
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
+            </ul>
+    
+<!-- begin /home/helene/prestashop/modules/ets_megamenu/views/templates/hook/custom_menu.tpl -->
+    <div class="mm_extra_item">
+                                            
+<!-- begin module:ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- begin /home/helene/prestashop/themes/lbg/modules/ps_shoppingcart/ps_shoppingcart.tpl --><div id="_desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="//prestashop.local/module/ps_shoppingcart/ajax">
+    <div class="cart-preview-div">
+              <img src="/themes/lbg/assets/img/picto-panier.png" alt="panier">
+        <span class="cart-products-count">0</span>
+          </div>
+  </div>
+</div>
+<!-- end /home/helene/prestashop/themes/lbg/modules/ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- end module:ps_shoppingcart/ps_shoppingcart.tpl -->
+
+            </div>
+
+<!-- end /home/helene/prestashop/modules/ets_megamenu/views/templates/hook/custom_menu.tpl -->
+
+<script type="text/javascript">
+    var Days_text = 'Jour(s) ';
+    var Hours_text = 'Heure(s)';
+    var Mins_text = 'Minute(s)';
+    var Sec_text = 'Seconde(s)';
+</script>
+<!-- end /home/helene/prestashop/themes/lbg/modules/ets_megamenu/views/templates/hook/menu-html.tpl -->

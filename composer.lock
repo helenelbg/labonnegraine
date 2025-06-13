@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "be0fb0e555601da72929ed9bc50ad574",
+    "content-hash": "168e32bc5a5beeeac3d6ff63ace71b60",
     "packages": [
         {
             "name": "beberlei/doctrineextensions",
@@ -345,85 +345,6 @@
                 }
             ],
             "time": "2021-09-13T08:19:44+00:00"
-        },
-        {
-            "name": "composer/pcre",
-            "version": "3.3.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/composer/pcre.git",
-                "reference": "b2bed4734f0cc156ee1fe9c0da2550420d99a21e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/composer/pcre/zipball/b2bed4734f0cc156ee1fe9c0da2550420d99a21e",
-                "reference": "b2bed4734f0cc156ee1fe9c0da2550420d99a21e",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.4 || ^8.0"
-            },
-            "conflict": {
-                "phpstan/phpstan": "<1.11.10"
-            },
-            "require-dev": {
-                "phpstan/phpstan": "^1.12 || ^2",
-                "phpstan/phpstan-strict-rules": "^1 || ^2",
-                "phpunit/phpunit": "^8 || ^9"
-            },
-            "type": "library",
-            "extra": {
-                "phpstan": {
-                    "includes": [
-                        "extension.neon"
-                    ]
-                },
-                "branch-alias": {
-                    "dev-main": "3.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Composer\\Pcre\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Jordi Boggiano",
-                    "email": "j.boggiano@seld.be",
-                    "homepage": "http://seld.be"
-                }
-            ],
-            "description": "PCRE wrapping library that offers type-safe preg_* replacements.",
-            "keywords": [
-                "PCRE",
-                "preg",
-                "regex",
-                "regular expression"
-            ],
-            "support": {
-                "issues": "https://github.com/composer/pcre/issues",
-                "source": "https://github.com/composer/pcre/tree/3.3.2"
-            },
-            "funding": [
-                {
-                    "url": "https://packagist.com",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/composer",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
-                    "type": "tidelift"
-                }
-            ],
-            "time": "2024-11-12T16:29:46+00:00"
         },
         {
             "name": "cssjanus/cssjanus",
@@ -1725,26 +1646,26 @@
         },
         {
             "name": "doctrine/sql-formatter",
-            "version": "1.5.2",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/sql-formatter.git",
-                "reference": "d6d00aba6fd2957fe5216fe2b7673e9985db20c8"
+                "reference": "3447381095d32a171fe3a58323749f44dbb5ac7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/sql-formatter/zipball/d6d00aba6fd2957fe5216fe2b7673e9985db20c8",
-                "reference": "d6d00aba6fd2957fe5216fe2b7673e9985db20c8",
+                "url": "https://api.github.com/repos/doctrine/sql-formatter/zipball/3447381095d32a171fe3a58323749f44dbb5ac7d",
+                "reference": "3447381095d32a171fe3a58323749f44dbb5ac7d",
                 "shasum": ""
             },
             "require": {
-                "php": "^8.1"
+                "php": "^7.2 || ^8.0"
             },
             "require-dev": {
-                "doctrine/coding-standard": "^12",
-                "ergebnis/phpunit-slow-test-detector": "^2.14",
-                "phpstan/phpstan": "^1.10",
-                "phpunit/phpunit": "^10.5"
+                "doctrine/coding-standard": "^9.0",
+                "phpstan/phpstan": "^1.0",
+                "phpunit/phpunit": "^8.5 || ^9.6",
+                "vimeo/psalm": "^4.11"
             },
             "bin": [
                 "bin/sql-formatter"
@@ -1774,9 +1695,9 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/sql-formatter/issues",
-                "source": "https://github.com/doctrine/sql-formatter/tree/1.5.2"
+                "source": "https://github.com/doctrine/sql-formatter/tree/1.3.0"
             },
-            "time": "2025-01-24T11:45:48+00:00"
+            "time": "2024-05-06T21:49:18+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -2057,29 +1978,26 @@
         },
         {
             "name": "geoip2/geoip2",
-            "version": "v2.13.0",
+            "version": "v2.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/maxmind/GeoIP2-php.git",
-                "reference": "6a41d8fbd6b90052bc34dff3b4252d0f88067b23"
+                "reference": "b28a0ed0190cd76c878ed7002a5d1bb8c5f4c175"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/maxmind/GeoIP2-php/zipball/6a41d8fbd6b90052bc34dff3b4252d0f88067b23",
-                "reference": "6a41d8fbd6b90052bc34dff3b4252d0f88067b23",
+                "url": "https://api.github.com/repos/maxmind/GeoIP2-php/zipball/b28a0ed0190cd76c878ed7002a5d1bb8c5f4c175",
+                "reference": "b28a0ed0190cd76c878ed7002a5d1bb8c5f4c175",
                 "shasum": ""
             },
             "require": {
-                "ext-json": "*",
-                "maxmind-db/reader": "~1.8",
-                "maxmind/web-service-common": "~0.8",
-                "php": ">=7.2"
+                "maxmind-db/reader": "~1.0",
+                "maxmind/web-service-common": "~0.3",
+                "php": ">=5.3.1"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "3.*",
-                "phpstan/phpstan": "*",
-                "phpunit/phpunit": "^8.0 || ^9.0",
-                "squizlabs/php_codesniffer": "3.*"
+                "phpunit/phpunit": "4.2.*",
+                "squizlabs/php_codesniffer": "2.*"
             },
             "type": "library",
             "autoload": {
@@ -2095,7 +2013,7 @@
                 {
                     "name": "Gregory J. Oschwald",
                     "email": "goschwald@maxmind.com",
-                    "homepage": "https://www.maxmind.com/"
+                    "homepage": "http://www.maxmind.com/"
                 }
             ],
             "description": "MaxMind GeoIP2 PHP API",
@@ -2109,9 +2027,9 @@
             ],
             "support": {
                 "issues": "https://github.com/maxmind/GeoIP2-php/issues",
-                "source": "https://github.com/maxmind/GeoIP2-php/tree/v2.13.0"
+                "source": "https://github.com/maxmind/GeoIP2-php/tree/v2.4.5"
             },
-            "time": "2022-08-05T20:32:58+00:00"
+            "time": "2017-01-31T17:28:48+00:00"
         },
         {
             "name": "greenlion/php-sql-parser",
@@ -3338,16 +3256,16 @@
         },
         {
             "name": "matthiasmullie/minify",
-            "version": "1.3.73",
+            "version": "1.3.74",
             "source": {
                 "type": "git",
                 "url": "https://github.com/matthiasmullie/minify.git",
-                "reference": "cb7a9297b4ab070909cefade30ee95054d4ae87a"
+                "reference": "a2593286a4135d03c6a6a9e9aeded5d41e931ce4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matthiasmullie/minify/zipball/cb7a9297b4ab070909cefade30ee95054d4ae87a",
-                "reference": "cb7a9297b4ab070909cefade30ee95054d4ae87a",
+                "url": "https://api.github.com/repos/matthiasmullie/minify/zipball/a2593286a4135d03c6a6a9e9aeded5d41e931ce4",
+                "reference": "a2593286a4135d03c6a6a9e9aeded5d41e931ce4",
                 "shasum": ""
             },
             "require": {
@@ -3358,8 +3276,7 @@
             "require-dev": {
                 "friendsofphp/php-cs-fixer": ">=2.0",
                 "matthiasmullie/scrapbook": ">=1.3",
-                "phpunit/phpunit": ">=4.8",
-                "squizlabs/php_codesniffer": ">=3.0"
+                "phpunit/phpunit": ">=4.8"
             },
             "suggest": {
                 "psr/cache-implementation": "Cache implementation to use with Minify::cache"
@@ -3397,7 +3314,7 @@
             ],
             "support": {
                 "issues": "https://github.com/matthiasmullie/minify/issues",
-                "source": "https://github.com/matthiasmullie/minify/tree/1.3.73"
+                "source": "https://github.com/matthiasmullie/minify/tree/1.3.74"
             },
             "funding": [
                 {
@@ -3405,7 +3322,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-15T10:27:10+00:00"
+            "time": "2025-06-12T08:06:04+00:00"
         },
         {
             "name": "matthiasmullie/path-converter",
@@ -4301,38 +4218,34 @@
         },
         {
             "name": "pelago/emogrifier",
-            "version": "v7.3.0",
+            "version": "v5.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MyIntervals/emogrifier.git",
-                "reference": "6e00d9d8235e8cc8eec857e8dcd6cfeefdfd0cd6"
+                "reference": "37595a9bb62c3c25969bdd9e8d7dd24c3ac62bc9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MyIntervals/emogrifier/zipball/6e00d9d8235e8cc8eec857e8dcd6cfeefdfd0cd6",
-                "reference": "6e00d9d8235e8cc8eec857e8dcd6cfeefdfd0cd6",
+                "url": "https://api.github.com/repos/MyIntervals/emogrifier/zipball/37595a9bb62c3c25969bdd9e8d7dd24c3ac62bc9",
+                "reference": "37595a9bb62c3c25969bdd9e8d7dd24c3ac62bc9",
                 "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
                 "ext-libxml": "*",
-                "php": "~7.3.0 || ~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0",
-                "sabberworm/php-css-parser": "^8.7.0",
-                "symfony/css-selector": "^4.4.23 || ^5.4.0 || ^6.0.0 || ^7.0.0"
+                "php": "~7.1.0 || ~7.2.0 || ~7.3.0 || ~7.4.0 || ~8.0.0",
+                "symfony/css-selector": "^3.4.32 || ^4.4 || ^5.1"
             },
             "require-dev": {
-                "php-parallel-lint/php-parallel-lint": "1.4.0",
-                "phpstan/extension-installer": "1.4.3",
-                "phpstan/phpstan": "1.12.7",
-                "phpstan/phpstan-phpunit": "1.4.0",
-                "phpstan/phpstan-strict-rules": "1.6.1",
-                "phpunit/phpunit": "9.6.21",
-                "rawr/cross-data-providers": "2.4.0"
+                "php-parallel-lint/php-parallel-lint": "^1.2.0",
+                "rawr/cross-data-providers": "^2.3.0",
+                "slevomat/coding-standard": "^6.4.1",
+                "squizlabs/php_codesniffer": "^3.5.8"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "8.0.x-dev"
+                    "dev-main": "6.0.x-dev"
                 }
             },
             "autoload": {
@@ -4359,7 +4272,7 @@
                 },
                 {
                     "name": "Jake Hotson",
-                    "email": "jake.github@qzdesign.co.uk"
+                    "email": "jake@qzdesign.co.uk"
                 },
                 {
                     "name": "Cameron Brooks"
@@ -4379,24 +4292,23 @@
                 "issues": "https://github.com/MyIntervals/emogrifier/issues",
                 "source": "https://github.com/MyIntervals/emogrifier"
             },
-            "time": "2024-10-28T16:12:26+00:00"
+            "time": "2021-04-06T08:18:22+00:00"
         },
         {
             "name": "phpoffice/phpspreadsheet",
-            "version": "4.3.1",
+            "version": "1.24.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPOffice/PhpSpreadsheet.git",
-                "reference": "d0ac70d610fb62ccad38c2696569ae1ad42acc70"
+                "reference": "69991111e05fca3ff7398e1e7fca9ebed33efec6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/zipball/d0ac70d610fb62ccad38c2696569ae1ad42acc70",
-                "reference": "d0ac70d610fb62ccad38c2696569ae1ad42acc70",
+                "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/zipball/69991111e05fca3ff7398e1e7fca9ebed33efec6",
+                "reference": "69991111e05fca3ff7398e1e7fca9ebed33efec6",
                 "shasum": ""
             },
             "require": {
-                "composer/pcre": "^1||^2||^3",
                 "ext-ctype": "*",
                 "ext-dom": "*",
                 "ext-fileinfo": "*",
@@ -4410,34 +4322,33 @@
                 "ext-xmlwriter": "*",
                 "ext-zip": "*",
                 "ext-zlib": "*",
-                "maennchen/zipstream-php": "^2.1 || ^3.0",
+                "ezyang/htmlpurifier": "^4.13",
+                "maennchen/zipstream-php": "^2.1",
                 "markbaker/complex": "^3.0",
                 "markbaker/matrix": "^3.0",
-                "php": "^8.1",
+                "php": "^7.3 || ^8.0",
                 "psr/http-client": "^1.0",
                 "psr/http-factory": "^1.0",
-                "psr/simple-cache": "^1.0 || ^2.0 || ^3.0"
+                "psr/simple-cache": "^1.0 || ^2.0"
             },
             "require-dev": {
-                "dealerdirect/phpcodesniffer-composer-installer": "dev-main",
-                "dompdf/dompdf": "^2.0 || ^3.0",
+                "dealerdirect/phpcodesniffer-composer-installer": "dev-master",
+                "dompdf/dompdf": "^1.0 || ^2.0",
                 "friendsofphp/php-cs-fixer": "^3.2",
-                "mitoteam/jpgraph": "^10.3",
-                "mpdf/mpdf": "^8.1.1",
+                "jpgraph/jpgraph": "^4.0",
+                "mpdf/mpdf": "8.1.1",
                 "phpcompatibility/php-compatibility": "^9.3",
-                "phpstan/phpstan": "^1.1 || ^2.0",
-                "phpstan/phpstan-deprecation-rules": "^1.0 || ^2.0",
-                "phpstan/phpstan-phpunit": "^1.0 || ^2.0",
-                "phpunit/phpunit": "^10.5",
+                "phpstan/phpstan": "^1.1",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "phpunit/phpunit": "^8.5 || ^9.0",
                 "squizlabs/php_codesniffer": "^3.7",
-                "tecnickcom/tcpdf": "^6.5"
+                "tecnickcom/tcpdf": "^6.4"
             },
             "suggest": {
-                "dompdf/dompdf": "Option for rendering PDF with PDF Writer",
-                "ext-intl": "PHP Internationalization Functions",
-                "mitoteam/jpgraph": "Option for rendering charts, or including charts with PDF or HTML Writers",
+                "dompdf/dompdf": "Option for rendering PDF with PDF Writer (doesn't yet support PHP8)",
+                "jpgraph/jpgraph": "Option for rendering charts, or including charts with PDF or HTML Writers",
                 "mpdf/mpdf": "Option for rendering PDF with PDF Writer",
-                "tecnickcom/tcpdf": "Option for rendering PDF with PDF Writer"
+                "tecnickcom/tcpdf": "Option for rendering PDF with PDF Writer (doesn't yet support PHP8)"
             },
             "type": "library",
             "autoload": {
@@ -4483,9 +4394,9 @@
             ],
             "support": {
                 "issues": "https://github.com/PHPOffice/PhpSpreadsheet/issues",
-                "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/4.3.1"
+                "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/1.24.1"
             },
-            "time": "2025-05-26T18:51:08+00:00"
+            "time": "2022-07-18T19:50:48+00:00"
         },
         {
             "name": "pimple/pimple",
@@ -4692,16 +4603,16 @@
         },
         {
             "name": "prestashop/classic",
-            "version": "2.2.0",
+            "version": "2.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/classic-theme.git",
-                "reference": "46726dd7f114951294eee3943ea81534ff96f829"
+                "reference": "751b8baca1e52865ba510965dd1c0b231f34c205"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/classic-theme/zipball/46726dd7f114951294eee3943ea81534ff96f829",
-                "reference": "46726dd7f114951294eee3943ea81534ff96f829",
+                "url": "https://api.github.com/repos/PrestaShop/classic-theme/zipball/751b8baca1e52865ba510965dd1c0b231f34c205",
+                "reference": "751b8baca1e52865ba510965dd1c0b231f34c205",
                 "shasum": ""
             },
             "require-dev": {
@@ -4723,11 +4634,11 @@
                     "homepage": "https://contributors.prestashop.com/"
                 }
             ],
-            "description": "Classic theme for PrestaShop 8.2",
+            "description": "Classic theme for PrestaShop 1.7",
             "support": {
-                "source": "https://github.com/PrestaShop/classic-theme/tree/2.2.0"
+                "source": "https://github.com/PrestaShop/classic-theme/tree/2.0.8"
             },
-            "time": "2025-01-30T08:34:59+00:00"
+            "time": "2023-02-28T16:05:27+00:00"
         },
         {
             "name": "prestashop/contactform",
@@ -5216,6 +5127,202 @@
                 "source": "https://github.com/PrestaShop/pagesnotfound/tree/v2.0.3"
             },
             "time": "2023-06-16T10:59:52+00:00"
+        },
+        {
+            "name": "prestashop/prestashop",
+            "version": "8.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PrestaShop/PrestaShop.git",
+                "reference": "f8092212098131c2ddf6c8942dc661e37fb56d2e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PrestaShop/PrestaShop/zipball/f8092212098131c2ddf6c8942dc661e37fb56d2e",
+                "reference": "f8092212098131c2ddf6c8942dc661e37fb56d2e",
+                "shasum": ""
+            },
+            "require": {
+                "beberlei/doctrineextensions": "^1.0",
+                "bjeavons/zxcvbn-php": "^1.3",
+                "composer/ca-bundle": "^1.0",
+                "composer/installers": "^1.0.21",
+                "cssjanus/cssjanus": "^2.0",
+                "curl/curl": "^2.3.2",
+                "defuse/php-encryption": "^2.3.1",
+                "doctrine/cache": "^2.0",
+                "doctrine/doctrine-bundle": "^2.3",
+                "doctrine/orm": "^2.7",
+                "ext-curl": "*",
+                "ext-dom": "*",
+                "ext-fileinfo": "*",
+                "ext-gd": "*",
+                "ext-iconv": "*",
+                "ext-intl": "*",
+                "ext-json": "*",
+                "ext-mbstring": "*",
+                "ext-openssl": "*",
+                "ext-simplexml": "*",
+                "ext-zip": "*",
+                "ezyang/htmlpurifier": "dev-master as v4.14.0",
+                "friendsofsymfony/jsrouting-bundle": "^2.4",
+                "geoip2/geoip2": "~2.4.2",
+                "greenlion/php-sql-parser": "^4.3",
+                "guzzlehttp/guzzle": "^7.4",
+                "incenteev/composer-parameter-handler": "~2.0",
+                "ircmaxell/password-compat": "^1.0.4",
+                "ircmaxell/random-lib": "^1.2.0",
+                "jakeasmith/http_build_url": "^1",
+                "league/tactician-bundle": "^1.0",
+                "martinlindhe/php-mb-helpers": "^0.1.6",
+                "matthiasmullie/minify": "~1.3.0",
+                "mobiledetect/mobiledetectlib": "~2.8.34",
+                "mrclay/minify": "^3.0.11",
+                "nikic/php-parser": "^4.0",
+                "pear/archive_tar": "^1.4.12",
+                "pelago/emogrifier": "^v5.0.1",
+                "php": ">=7.2.5",
+                "phpoffice/phpspreadsheet": "~1.5",
+                "prestashop/blockreassurance": "^5.1",
+                "prestashop/blockwishlist": "^2.0",
+                "prestashop/circuit-breaker": "^4.0",
+                "prestashop/classic": "~2.0.0",
+                "prestashop/contactform": "^4",
+                "prestashop/dashactivity": "^2",
+                "prestashop/dashgoals": "^2",
+                "prestashop/dashproducts": "^2",
+                "prestashop/dashtrends": "^2",
+                "prestashop/decimal": "^1.4",
+                "prestashop/graphnvd3": "^2",
+                "prestashop/gridhtml": "^2",
+                "prestashop/gsitemap": "^4",
+                "prestashop/laminas-code-lts": "dev-4.5-lts",
+                "prestashop/pagesnotfound": "^2",
+                "prestashop/productcomments": "^5.0",
+                "prestashop/ps_banner": "^2",
+                "prestashop/ps_bestsellers": "^1.0",
+                "prestashop/ps_brandlist": "^1.0",
+                "prestashop/ps_cashondelivery": "^2.0",
+                "prestashop/ps_categoryproducts": "^1.0",
+                "prestashop/ps_categorytree": "^2",
+                "prestashop/ps_checkpayment": "^2",
+                "prestashop/ps_contactinfo": "^3.2",
+                "prestashop/ps_crossselling": "^2.0",
+                "prestashop/ps_currencyselector": "^2",
+                "prestashop/ps_customeraccountlinks": "^3",
+                "prestashop/ps_customersignin": "^2",
+                "prestashop/ps_customtext": "^4",
+                "prestashop/ps_dataprivacy": "^2.0",
+                "prestashop/ps_distributionapiclient": "^1.0",
+                "prestashop/ps_emailalerts": "^2.3",
+                "prestashop/ps_emailsubscription": "^2.7",
+                "prestashop/ps_facetedsearch": "^3.2.1",
+                "prestashop/ps_faviconnotificationbo": "^2",
+                "prestashop/ps_featuredproducts": "^2",
+                "prestashop/ps_googleanalytics": "^4.1",
+                "prestashop/ps_imageslider": "^3",
+                "prestashop/ps_languageselector": "^2",
+                "prestashop/ps_linklist": "^5",
+                "prestashop/ps_mainmenu": "^2",
+                "prestashop/ps_newproducts": "^1.0",
+                "prestashop/ps_searchbar": "^2",
+                "prestashop/ps_sharebuttons": "^2",
+                "prestashop/ps_shoppingcart": "^2",
+                "prestashop/ps_socialfollow": "^2",
+                "prestashop/ps_specials": "^1.0",
+                "prestashop/ps_supplierlist": "^1.0",
+                "prestashop/ps_themecusto": "^1",
+                "prestashop/ps_viewedproduct": "^1.2",
+                "prestashop/ps_wirepayment": "^2.1",
+                "prestashop/psgdpr": "^1.4",
+                "prestashop/statsbestcategories": "^2",
+                "prestashop/statsbestcustomers": "^2",
+                "prestashop/statsbestmanufacturers": "^2",
+                "prestashop/statsbestproducts": "^2",
+                "prestashop/statsbestsuppliers": "^2",
+                "prestashop/statsbestvouchers": "^2",
+                "prestashop/statscarrier": "^2",
+                "prestashop/statscatalog": "^2",
+                "prestashop/statscheckup": "^2",
+                "prestashop/statsdata": "^2",
+                "prestashop/statsforecast": "^2",
+                "prestashop/statsnewsletter": "^2",
+                "prestashop/statspersonalinfos": "^2",
+                "prestashop/statsproduct": "^2",
+                "prestashop/statsregistrations": "^2",
+                "prestashop/statssales": "^2",
+                "prestashop/statssearch": "^2",
+                "prestashop/statsstock": "^2",
+                "prestashop/translationtools-bundle": "^5.0",
+                "sensio/framework-extra-bundle": "^5.1",
+                "smarty/smarty": "^4.3.1",
+                "soundasleep/html2text": "^0.5.0",
+                "swiftmailer/swiftmailer": "~6.2",
+                "symfony/monolog-bundle": "^3.7.0",
+                "symfony/polyfill-php73": "^1.10",
+                "symfony/property-access": "^4",
+                "symfony/swiftmailer-bundle": "^3.1",
+                "symfony/symfony": "^4.4",
+                "tecnickcom/tcpdf": "^6.2.12",
+                "tijsverkoyen/css-to-inline-styles": "^2.2",
+                "twig/twig": "^3.0"
+            },
+            "require-dev": {
+                "behat/behat": "^3.5",
+                "ergebnis/composer-normalize": "^2.8",
+                "friendsofphp/php-cs-fixer": "^v3.2.0",
+                "johnkary/phpunit-speedtrap": "^3",
+                "mikey179/vfsstream": "^1.6",
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "~8.5.16 || ~9.5.10",
+                "prestashop/phpstan-prestashop": "^2.0",
+                "symfony/phpunit-bridge": "^3.4"
+            },
+            "type": "project",
+            "extra": {
+                "symfony": {
+                    "require": "~4.4"
+                },
+                "symfony-app-dir": "app",
+                "symfony-bin-dir": "bin",
+                "symfony-var-dir": "var",
+                "symfony-web-dir": ".",
+                "symfony-tests-dir": "tests",
+                "incenteev-parameters": {
+                    "file": "app/config/parameters.yml"
+                },
+                "symfony-assets-install": "relative"
+            },
+            "autoload": {
+                "psr-4": {
+                    "PrestaShopBundle\\": "src/PrestaShopBundle/",
+                    "PrestaShop\\PrestaShop\\": "src/"
+                },
+                "classmap": [
+                    "app/AppKernel.php",
+                    "app/AppCache.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "OSL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "PrestaShop SA",
+                    "email": "contact@prestashop.com"
+                },
+                {
+                    "name": "PrestaShop Community",
+                    "homepage": "https://contributors.prestashop.com/"
+                }
+            ],
+            "description": "PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.",
+            "support": {
+                "issues": "https://github.com/PrestaShop/PrestaShop/issues",
+                "source": "https://github.com/PrestaShop/PrestaShop/tree/8.0.5"
+            },
+            "time": "2023-07-19T09:45:18+00:00"
         },
         {
             "name": "prestashop/productcomments",
@@ -7954,71 +8061,6 @@
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
-            "name": "sabberworm/php-css-parser",
-            "version": "v8.8.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/MyIntervals/PHP-CSS-Parser.git",
-                "reference": "3de493bdddfd1f051249af725c7e0d2c38fed740"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/MyIntervals/PHP-CSS-Parser/zipball/3de493bdddfd1f051249af725c7e0d2c38fed740",
-                "reference": "3de493bdddfd1f051249af725c7e0d2c38fed740",
-                "shasum": ""
-            },
-            "require": {
-                "ext-iconv": "*",
-                "php": "^5.6.20 || ^7.0.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "5.7.27 || 6.5.14 || 7.5.20 || 8.5.41"
-            },
-            "suggest": {
-                "ext-mbstring": "for parsing UTF-8 CSS"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-main": "9.0.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Sabberworm\\CSS\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Raphael Schweikert"
-                },
-                {
-                    "name": "Oliver Klee",
-                    "email": "github@oliverklee.de"
-                },
-                {
-                    "name": "Jake Hotson",
-                    "email": "jake.github@qzdesign.co.uk"
-                }
-            ],
-            "description": "Parser for CSS Files written in PHP",
-            "homepage": "https://www.sabberworm.com/blog/2010/6/10/php-css-parser",
-            "keywords": [
-                "css",
-                "parser",
-                "stylesheet"
-            ],
-            "support": {
-                "issues": "https://github.com/MyIntervals/PHP-CSS-Parser/issues",
-                "source": "https://github.com/MyIntervals/PHP-CSS-Parser/tree/v8.8.0"
-            },
-            "time": "2025-03-23T17:59:05+00:00"
-        },
-        {
             "name": "sensio/framework-extra-bundle",
             "version": "v5.6.1",
             "source": {
@@ -9794,23 +9836,24 @@
         },
         {
             "name": "twig/twig",
-            "version": "v3.21.1",
+            "version": "v3.19.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "285123877d4dd97dd7c11842ac5fb7e86e60d81d"
+                "reference": "d4f8c2b86374f08efc859323dbcd95c590f7124e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/285123877d4dd97dd7c11842ac5fb7e86e60d81d",
-                "reference": "285123877d4dd97dd7c11842ac5fb7e86e60d81d",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/d4f8c2b86374f08efc859323dbcd95c590f7124e",
+                "reference": "d4f8c2b86374f08efc859323dbcd95c590f7124e",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.1.0",
+                "php": ">=8.0.2",
                 "symfony/deprecation-contracts": "^2.5|^3",
                 "symfony/polyfill-ctype": "^1.8",
-                "symfony/polyfill-mbstring": "^1.3"
+                "symfony/polyfill-mbstring": "^1.3",
+                "symfony/polyfill-php81": "^1.29"
             },
             "require-dev": {
                 "phpstan/phpstan": "^2.0",
@@ -9857,7 +9900,7 @@
             ],
             "support": {
                 "issues": "https://github.com/twigphp/Twig/issues",
-                "source": "https://github.com/twigphp/Twig/tree/v3.21.1"
+                "source": "https://github.com/twigphp/Twig/tree/v3.19.0"
             },
             "funding": [
                 {
@@ -9869,7 +9912,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-05-03T07:21:55+00:00"
+            "time": "2025-01-29T07:06:14+00:00"
         },
         {
             "name": "willdurand/jsonp-callback-validator",
@@ -9917,13 +9960,20 @@
         }
     ],
     "packages-dev": [],
-    "aliases": [],
-    "minimum-stability": "stable",
+    "aliases": [
+        {
+            "package": "ezyang/htmlpurifier",
+            "version": "9999999-dev",
+            "alias": "4.14.0",
+            "alias_normalized": "4.14.0.0"
+        }
+    ],
+    "minimum-stability": "dev",
     "stability-flags": {
         "ezyang/htmlpurifier": 20,
         "prestashop/laminas-code-lts": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],

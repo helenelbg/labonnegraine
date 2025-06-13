@@ -1,7 +1,0 @@
-order deny,allow
-deny from all
-allow from 90.49.188.188
-allow from 86.236.107.187
-allow from 85.69.99.79
-allow from 80.14.166.2
-allow from 91.134.34.216

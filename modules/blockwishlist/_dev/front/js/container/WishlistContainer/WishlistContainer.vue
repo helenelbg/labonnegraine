@@ -23,7 +23,7 @@
 
       <a
         @click="openNewWishlistModal"
-        class="wishlist-add-to-new"
+        class="wishlist-add-to-new text-primary"
       >
         <i class="material-icons">add_circle_outline</i>
         {{ addText }}

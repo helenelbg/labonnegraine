@@ -22,12 +22,6 @@
 {/block}
 
 {block name='page_content_container'}
-  <div class="div-wishlist-addAll-top">
-	<div class="wishlist-addAll wishlist-addAll-top">
-		Tout ajouter au panier
-	</div>
-  </div>
-	
   <div
     class="wishlist-products-container"
     data-url="{$url}"
@@ -41,13 +35,6 @@
     data-no-products-message="{l s='No products found' d='Modules.Blockwishlist.Shop'}"
     data-filter="{l s='Sort by:' d='Shop.Theme.Global'}"
   >
-  </div>
-  <div class="div-wishlist-addAll-bottom">
-  
-	<button type="button" class="wishlist-addAll wishlist-addAll-bottom">
-	  Tout ajouter au panier
-	</button>
-  
   </div>
 
   {include file="module:blockwishlist/views/templates/components/pagination.tpl"}

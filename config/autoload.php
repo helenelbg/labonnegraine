@@ -24,6 +24,7 @@
  * @license   https://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
  */
 require_once __DIR__.'/../vendor/autoload.php';
+require_once __DIR__ . '/../app/AppKernel.php';
 
 define('_PS_VERSION_', AppKernel::VERSION);
 

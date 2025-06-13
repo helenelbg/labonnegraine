@@ -133,66 +133,64 @@ const watchPassword = async (
 
 // Not testable because it manipulates SVG elements, unsupported by JSDom
 const usePasswordPolicy = (selector) => {
-  const elements = document.querySelectorAll(selector);
-  elements.forEach((element) => {
-    const inputColumn = element?.querySelector(PasswordPolicyMap.inputColumn);
-    const elementInput = element?.querySelector('input');
-    const templateElement = document.createElement('div');
-    const feedbackTemplate = document.querySelector(PasswordPolicyMap.template);
-    let feedbackContainer;
+  const element = document.querySelector(selector);
+  const inputColumn = element?.querySelector(PasswordPolicyMap.inputColumn);
+  const elementInput = element?.querySelector('input');
+  const templateElement = document.createElement('div');
+  const feedbackTemplate = document.querySelector(PasswordPolicyMap.template);
+  let feedbackContainer;
 
-    if (feedbackTemplate && element && inputColumn && elementInput) {
-      templateElement.innerHTML = feedbackTemplate.innerHTML;
-      inputColumn.append(templateElement);
-      feedbackContainer = element.querySelector(PasswordPolicyMap.container);
+  if (feedbackTemplate && element && inputColumn && elementInput) {
+    templateElement.innerHTML = feedbackTemplate.innerHTML;
+    inputColumn.append(templateElement);
+    feedbackContainer = element.querySelector(PasswordPolicyMap.container);
 
-      if (feedbackContainer) {
-        const hintElement = document.querySelector(PasswordPolicyMap.hint);
+    if (feedbackContainer) {
+      const hintElement = document.querySelector(PasswordPolicyMap.hint);
 
-        if (hintElement) {
-          const hints = JSON.parse(hintElement.innerHTML);
+      if (hintElement) {
+        const hints = JSON.parse(hintElement.innerHTML);
 
-          // eslint-disable-next-line max-len
-          const passwordRequirementsLength = feedbackContainer.querySelector(PasswordPolicyMap.requirementLength);
-          // eslint-disable-next-line max-len
-          const passwordRequirementsScore = feedbackContainer.querySelector(PasswordPolicyMap.requirementScore);
-          const passwordLengthText = passwordRequirementsLength?.querySelector('span');
-          const passwordRequirementsText = passwordRequirementsScore?.querySelector('span');
+        // eslint-disable-next-line max-len
+        const passwordRequirementsLength = feedbackContainer.querySelector(PasswordPolicyMap.requirementLength);
+        // eslint-disable-next-line max-len
+        const passwordRequirementsScore = feedbackContainer.querySelector(PasswordPolicyMap.requirementScore);
+        const passwordLengthText = passwordRequirementsLength?.querySelector('span');
+        const passwordRequirementsText = passwordRequirementsScore?.querySelector('span');
 
-          if (passwordLengthText && passwordRequirementsLength && passwordRequirementsLength.dataset.translation) {
-            passwordLengthText.innerText = sprintf(
-              passwordRequirementsLength.dataset.translation,
-              elementInput.dataset.minlength,
-              elementInput.dataset.maxlength,
-            );
-          }
-
-          if (passwordRequirementsText && passwordRequirementsScore && passwordRequirementsScore.dataset.translation) {
-            passwordRequirementsText.innerText = sprintf(
-              passwordRequirementsScore.dataset.translation,
-              hints[elementInput.dataset.minscore],
-            );
-          }
-
-          // eslint-disable-next-line max-len
-          elementInput.addEventListener('keyup', () => watchPassword(elementInput, feedbackContainer, hints));
-          elementInput.addEventListener('blur', () => {
-            $(elementInput).popover('dispose');
-          });
+        if (passwordLengthText && passwordRequirementsLength && passwordRequirementsLength.dataset.translation) {
+          passwordLengthText.innerText = sprintf(
+            passwordRequirementsLength.dataset.translation,
+            elementInput.dataset.minlength,
+            elementInput.dataset.maxlength,
+          );
         }
+
+        if (passwordRequirementsText && passwordRequirementsScore && passwordRequirementsScore.dataset.translation) {
+          passwordRequirementsText.innerText = sprintf(
+            passwordRequirementsScore.dataset.translation,
+            hints[elementInput.dataset.minscore],
+          );
+        }
+
+        // eslint-disable-next-line max-len
+        elementInput.addEventListener('keyup', () => watchPassword(elementInput, feedbackContainer, hints));
+        elementInput.addEventListener('blur', () => {
+          $(elementInput).popover('dispose');
+        });
       }
     }
+  }
 
-    if (element) {
-      return {
-        element,
-      };
-    }
-
+  if (element) {
     return {
-      error: new Error(PASSWORD_POLICY_ERROR),
+      element,
     };
-  });
+  }
+
+  return {
+    error: new Error(PASSWORD_POLICY_ERROR),
+  };
 };
 
 export default usePasswordPolicy;
